@@ -1,7 +1,9 @@
 #!/bin/bash
-OUT=$1
+
+OUT=$1 # output dir to download videos_list
 PLAYLIST="${@:2}"
-echo $PLAYLIST
+
+#---------------------------------#
 
 mkdir -p $OUT
-youtube-dl --get-id $PLAYLIST > $OUT/videos_list
+youtube-dlc --get-id $PLAYLIST > $OUT/videos_list
