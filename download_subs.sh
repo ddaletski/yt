@@ -1,9 +1,26 @@
 #!/bin/bash
 
-DIR=$1
+#                          _                                                
+#   __ _ _ __   ___  ___  (_)                                               
+#  / _` | '_ \ / _ \/ __|                                                   
+# | (_| | |_) |  __/\__ \  _                                                
+#  \__,_| .__/ \___||___/ (_)                                               
+#       | |  ____           _____ _    _   ____          _____    _   _   _ 
+#       |_| |  _ \   /\    / ____| |  | | |  _ \   /\   |  __ \  | | | | | |
+#   ______  | |_) | /  \  | (___ | |__| | | |_) | /  \  | |  | | | | | | | |
+#  |______| |  _ < / /\ \  \___ \|  __  | |  _ < / /\ \ | |  | | | | | | | |
+#           | |_) / ____ \ ____) | |  | | | |_) / ____ \| |__| | |_| |_| |_|
+#           |____/_/    \_\_____/|_|  |_| |____/_/    \_\_____/  (_) (_) (_)
+                                                                           
+
+DIR=$1 # input dir
+LNG=$2 # subs language
+
 
 LIST=$DIR/videos_list
-
 OUT=$DIR/subs
 
-cat $LIST | parallel -n1 -j8 "youtube-dl  --all-subs --skip-download -o '$OUT/%(id)s.%(ext)s' 'https://www.youtube.com/watch?v={}'"
+cat $LIST | parallel -n1 "youtube-dlc \
+--write-sub --write-auto-sub --sub-lang=${LNG} --skip-download \
+-o '$OUT/%(id)s.%(ext)s' \
+'https://www.youtube.com/watch?v={}'"
