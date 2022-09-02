@@ -17,13 +17,24 @@ def calculate_word_frequency(filepath: Path, spacy_module: str):
     nlp = spacy.load(spacy_module)
     word_frequency = Counter()
 
-    with open(filepath, mode="r") as fobj:
-        for line in track(fobj):
-            # tokenize into parts
-            words = [t.lemma_ for t in nlp.tokenizer(line)]
-            word_frequency.update(words)
+    lines = list(open(filepath, mode="r"))
+    for line in track(lines):
+        # tokenize into parts
+        words = [t.lemma_ for t in nlp(line.strip())]
+        word_frequency.update(words)
 
     return word_frequency
+
+
+def clean_words(word_frequency: Counter):
+    patterns = [re.compile(s) for s in [r'^[^a-zA-ZäüöÄÜÖ]+$', r'^\d+$']]
+    to_delete = set()
+    for word in word_frequency:
+        for pattern in patterns:
+            if re.match(pattern, word):
+                to_delete.add(word)
+    for misfit in to_delete:
+        word_frequency.pop(misfit)
 
 
 @click.command()
@@ -31,7 +42,7 @@ def calculate_word_frequency(filepath: Path, spacy_module: str):
 @click.option("-l", "--language", type=click.Choice(["de", "en", "fr"]), default="en")
 @click.option("-o", "--output", type=click.Path(dir_okay=False), default="out.txt")
 @click.option("-t", "--threshold", type=click.IntRange(min=0), default=0)
-def cli(text, language, exclude, output, threshold):
+def cli(text, language, output, threshold):
 
     spacy_module = ''
     if language == "de":
@@ -42,6 +53,7 @@ def cli(text, language, exclude, output, threshold):
         raise Exception("unsupported language")
 
     word_frequency = calculate_word_frequency(text, spacy_module)
+    clean_words(word_frequency)
 
     # remove infrequent words (less than a threshold)
     small_frequency = list()
