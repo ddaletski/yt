@@ -1,0 +1,550 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.370 --> 00:00:01.370
+Pda ?
+
+00:00:01.370 --> 00:00:06.240
+Na da denkt ihr doch bestimmt auch gleich
+an Periduralanästhesie, ihr Halodris!
+
+00:00:06.240 --> 00:00:07.240
+Ehm…. nicht?
+
+00:00:07.240 --> 00:00:08.740
+Ouh jetzt hab ich euch!
+
+00:00:08.740 --> 00:00:11.360
+Dann denkt ihr bestimmt an pushdown automaton.
+
+00:00:11.360 --> 00:00:12.650
+Auf Deutsch Kellerautomat.
+
+00:00:12.650 --> 00:00:14.650
+Und genau den schauen wir uns jetzt an!
+
+00:00:14.650 --> 00:00:21.530
+So, ihr kennt ja jetzt schon NEAs und DEAs.
+
+00:00:21.530 --> 00:00:23.840
+Warum brauchen wir jetzt noch nen PDA?
+
+00:00:23.840 --> 00:00:28.240
+Der große Nachteil von NEAs und DEAs ist,
+dass sie keinen Speicher haben.
+
+00:00:28.240 --> 00:00:32.060
+Die merken sich also nicht,mit welchen Zeichen
+sie in nen Zustand gelangt sind.
+
+00:00:32.060 --> 00:00:34.440
+Gehen wir mal von nem einfachen Beispiel aus.
+
+00:00:34.440 --> 00:00:39.910
+Wir brauchen jetzt nen Automaten, der alle
+Wörter der Sprache a hoch n , b hoch n erkennt.
+
+00:00:39.910 --> 00:00:42.359
+N ist dabei größer als 0.
+
+00:00:42.359 --> 00:00:47.120
+Für n &lt; 2 ohne 0 wäre ein Automat ganz einfach
+zu zeichnen.
+
+00:00:47.120 --> 00:00:50.070
+Aber was ist, wenn n jetzt immer größer
+wird?
+
+00:00:50.070 --> 00:00:52.469
+Der Automat müsste unendlich fortgesetzt
+werden.
+
+00:00:52.469 --> 00:00:54.199
+Und das geht natürlich nicht.
+
+00:00:54.199 --> 00:00:56.989
+Genau da kommen PDAs zum Einsatz!
+
+00:00:56.989 --> 00:01:00.820
+PDAs verfügen über einen Keller, deswegen
+auch Kellerautomat.
+
+00:01:00.820 --> 00:01:03.679
+Für die Englischsprachigen unter euch, ein
+Stack.
+
+00:01:03.679 --> 00:01:07.040
+In einem Keller werden Zeichen reingepackt,
+die sich der Automat merkt.
+
+00:01:07.040 --> 00:01:13.000
+Wichtig dabei ist, dass der Keller nach dem
+Last In - First Out , kurz LIFO, Prinzip funktioniert.
+
+00:01:13.000 --> 00:01:16.980
+Es kann also immer nur das Zeichen rausgenommen
+werden, welches ganz oben im Keller liegt.
+
+00:01:16.980 --> 00:01:18.780
+Also als letztes hinzugefügt wurde.
+
+00:01:18.780 --> 00:01:23.860
+Legen wir mal zum Beispiel A,B und C in den
+Keller.
+
+00:01:23.860 --> 00:01:27.030
+Beim Lesen müssen wir dann zuerst C rausnehmen,
+
+00:01:27.030 --> 00:01:28.140
+dann B und
+
+00:01:28.140 --> 00:01:29.140
+dann A.
+
+00:01:29.140 --> 00:01:32.110
+Wir können jetzt nicht zuerst das B rauslesen,
+bevor wir C rausnehmen.
+
+00:01:32.110 --> 00:01:33.110
+Klaro?
+
+00:01:33.110 --> 00:01:37.350
+Der Keller ist hierbei unendlich groß, kann
+also beliebig viele Zeichen speichern.
+
+00:01:37.350 --> 00:01:40.390
+Außerdem steht ganz unten im Keller immer
+eine Raute.
+
+00:01:40.390 --> 00:01:44.920
+Wenn wir die Raute lesen, wissen wir also,dass
+wir am Ende des Kellers angekommen sind und
+
+00:01:44.920 --> 00:01:47.560
+keine anderen Zeichen mehr drinstehen.
+
+00:01:47.560 --> 00:01:49.630
+Aber wie funktioniert so ein Kellerautomat
+jetzt?
+
+00:01:49.630 --> 00:01:54.830
+Durch den Kellerautomaten wollen wir ja jetzt
+erkennen ob Wörter in der Sprache liegen.
+
+00:01:54.830 --> 00:01:59.320
+Ein Wort liegt genau dann in der Sprache,
+wenn der Keller leer und das Wort abgearbeitet
+
+00:01:59.320 --> 00:02:00.320
+ist.
+
+00:02:00.320 --> 00:02:03.410
+Ein PDA kann mehrere verschiedene Verarbeitungsschritte
+haben.
+
+00:02:03.410 --> 00:02:06.090
+Links vom Pfeil stehen dabei drei Werte.
+
+00:02:06.090 --> 00:02:10.649
+Der Zustand wo man drin ist, das gelesene
+Zeichen aus dem Wort und das gelesene Zeichen
+
+00:02:10.649 --> 00:02:11.649
+aus dem Keller.
+
+00:02:11.649 --> 00:02:16.549
+Wir sind jetzt zum Beispiel im Zustand q0,
+lesen im Wort als nächstes ein a und oben
+
+00:02:16.549 --> 00:02:19.890
+im Stack liegt ein großes A, welches wir
+rausnehmen.
+
+00:02:19.890 --> 00:02:21.800
+Rechts vom Pfeil stehen zwei Werte.
+
+00:02:21.800 --> 00:02:25.640
+Der Zustand wo man hin will und die Zeichen
+welche man in den Stack schreiben will.
+
+00:02:25.640 --> 00:02:30.260
+Wir wollen jetzt also in den Zustand q1 und
+für das rausgenommene große A ein großes
+
+00:02:30.260 --> 00:02:31.739
+B auf den Stack legen.
+
+00:02:31.739 --> 00:02:32.739
+Noice!
+
+00:02:32.739 --> 00:02:34.939
+Damit das verständlicher ist, springen wir
+gleich in die Praxis!
+
+00:02:34.939 --> 00:02:37.819
+Machen wir mal ein einfaches Beispiel
+
+00:02:37.819 --> 00:02:41.400
+Gehen wir mal von unserer vorhin erwähnten
+Sprache aus.
+
+00:02:41.400 --> 00:02:45.370
+Wir sollen jetzt nen PDA angeben, der alle
+Wörter der Sprache erkennt.
+
+00:02:45.370 --> 00:02:49.590
+Dafür betrachten wir mal das Wort aabb welches
+in der Sprache steckt.
+
+00:02:49.590 --> 00:02:51.889
+Wie gehen wir da vor?
+
+00:02:51.889 --> 00:02:55.639
+Erstmal überlegen wir uns, dass wir ja immer
+die gleiche Anzahl an as und bs haben.
+
+00:02:55.639 --> 00:02:59.439
+Also könnten wir, wenn wir ein a lesen was
+auf den Stack schreiben
+
+00:02:59.439 --> 00:03:01.810
+und wenn wir ein b lesen etwas vom Stack wegnehmen.
+
+00:03:01.810 --> 00:03:05.010
+Als erstes schreiben wir aber erstmal nen
+Zustand q0.
+
+00:03:05.010 --> 00:03:08.970
+Dann lesen wir natürlich das erste Zeichen
+des Wortes, also a.
+
+00:03:08.970 --> 00:03:13.360
+Da zu Beginn ja nur die Raute im Stack liegt,
+können wir im ersten Schritt ja nur die Raute
+
+00:03:13.360 --> 00:03:14.360
+lesen.
+
+00:03:14.360 --> 00:03:15.360
+Somit wäre der Stack jetzt leer.
+
+00:03:15.360 --> 00:03:19.689
+Wenn wir das jetzt alles gemacht haben, überlegen
+wir uns was wir in den Stack schreiben.
+
+00:03:19.689 --> 00:03:24.569
+Sagen wir einfach, dass wir im Zustand q0
+bleiben und ein großes A in den Stack hauen.
+
+00:03:24.569 --> 00:03:29.779
+Dahinter kommt jetzt noch ne Raute, da wir
+die ja auch wieder in den Stack hauen wollen.
+
+00:03:29.779 --> 00:03:33.930
+Somit wir das erste a gelesen, die Raute aus
+dem Stack genommen und durch eine Raute und
+
+00:03:33.930 --> 00:03:35.599
+ein großes A ersetzt.
+
+00:03:35.599 --> 00:03:38.140
+Als nächstes sind wir dann wieder im Zustand
+q0.
+
+00:03:38.140 --> 00:03:40.780
+Das nächste gelesene Zeichen ist wieder ein
+a.
+
+00:03:40.780 --> 00:03:45.290
+Jetzt liegt aber ein großes A ganz oben im
+Keller, also müssen wir das lesen.
+
+00:03:45.290 --> 00:03:47.560
+Wir bleiben jetzt wieder im Zustand q0.
+
+00:03:47.560 --> 00:03:51.900
+Für das gelesene große A schreiben wir jetzt
+zwei große As, da wir eins ja rausgenommen
+
+00:03:51.900 --> 00:03:55.620
+haben aber für unser kleines a auch wieder
+eins draufhauen wollen.
+
+00:03:55.620 --> 00:03:56.620
+Dann gehen wir weiter.
+
+00:03:56.620 --> 00:03:59.189
+Wir sind in Zustand q0 und lesen ein b.
+
+00:03:59.189 --> 00:04:01.969
+Auf dem Stack liegt ein großes A.
+
+00:04:01.969 --> 00:04:04.819
+Jetzt gehen wir aber in nen Zustand q1.
+
+00:04:04.819 --> 00:04:09.230
+Den brauchen wir, damit nach der aabb Folge
+nicht nochmal ein a kommen kann.
+
+00:04:09.230 --> 00:04:14.409
+Für das gelesene große A wollen wir jetzt
+kein Zeichen nachlegen, da wird ja die großen
+
+00:04:14.409 --> 00:04:15.920
+As mit den bs abarbeiten wollen.
+
+00:04:15.920 --> 00:04:20.079
+Jetzt sind wir in Zustand q1 und das nächste
+Zeichen ist ein b.
+
+00:04:20.079 --> 00:04:23.060
+Im Stack liegt jetzt noch ein großes A.
+
+00:04:23.060 --> 00:04:26.610
+Wir bleiben jetzt im Zustand q1 und legen
+kein Zeichen nach.
+
+00:04:26.610 --> 00:04:29.030
+So, jetzt liegt noch die Raute im Keller.
+
+00:04:29.030 --> 00:04:30.610
+Wir sind jetzt im Zustand q1.
+
+00:04:30.610 --> 00:04:33.940
+Wir lesen jetzt kein Zeichen, da wir das Wort
+ja schon abgearbeitet haben.
+
+00:04:33.940 --> 00:04:36.460
+Vom Keller nehmen wir jetzt die Raute raus.
+
+00:04:36.460 --> 00:04:41.530
+Dann gehen wir in unseren Endzustand q2 über,
+da der Keller leer ist und das Wort abgearbeitet
+
+00:04:41.530 --> 00:04:42.530
+ist.
+
+00:04:42.530 --> 00:04:43.900
+In den Keller legen wir natürlich nix mehr.
+
+00:04:43.900 --> 00:04:45.710
+Und schon is der PDA fertig!
+
+00:04:45.710 --> 00:04:51.020
+Unser PDA erlaubt jetzt alle Wörter die in
+der Sprache a hoch n , b hoch n liegen, wobei
+
+00:04:51.020 --> 00:04:52.550
+n größer 0 ist.
+
+00:04:52.550 --> 00:04:56.419
+Schreibt euch den PDA ruhig auf und überprüft
+Wörter die in der Sprache liegen, aber auch
+
+00:04:56.419 --> 00:04:57.930
+Wörter die nicht in der Sprache liegen.
+
+00:04:57.930 --> 00:05:02.650
+Bei Wörtern die nicht drin liegen wird der
+Stack nicht leer werden oder aber das Wort
+
+00:05:02.650 --> 00:05:04.130
+wird nicht komplett abgearbeitet.
+
+00:05:04.130 --> 00:05:09.400
+Bei einem PDA müsst ihr euch also auf jeden
+Fall vorher immer überlegen was ihr in den
+
+00:05:09.400 --> 00:05:12.120
+Stack schreiben wollt und was ihr dann wieder
+rausnehmen wollt.
+
+00:05:12.120 --> 00:05:16.759
+Ihr werdet wahrscheinlich viele Ideen brauchen
+und auch viel ausprobieren aber am Schluss
+
+00:05:16.759 --> 00:05:17.759
+sollte es laufen!
+
+00:05:17.759 --> 00:05:21.620
+Ein PDA kann jetzt natürlich auch als Diagramm
+beschrieben werden.
+
+00:05:21.620 --> 00:05:25.090
+Des sieht aber ein bisschen umständlicher
+aus als beim NEA und DEA.
+
+00:05:25.090 --> 00:05:29.800
+Dabei wird für jeden Schritt geschaut, welche
+Zustände es gibt und was wir in dem Schritt
+
+00:05:29.800 --> 00:05:30.800
+genau machen.
+
+00:05:30.800 --> 00:05:33.280
+Gehen wir mal von folgendem Schritt aus.
+
+00:05:33.280 --> 00:05:34.949
+In unserem Schritt steht ein q0.
+
+00:05:34.949 --> 00:05:38.530
+Das heißt wir zeichnen schonmal nen Zustand
+q0.
+
+00:05:38.530 --> 00:05:41.389
+Rechts vom Pfeil sehen wir, dass wir in den
+Zustand q1 wollen.
+
+00:05:41.389 --> 00:05:45.370
+Also zeichnen wir ne Verbindung von q0 zu
+nem Zustand q1.
+
+00:05:45.370 --> 00:05:47.039
+Jetzt schauen wir wieder Links.
+
+00:05:47.039 --> 00:05:51.810
+Da wir durch das Lesen von a und das rausnehmen
+von der Raute weiterkommen, zeichnen wir die
+
+00:05:51.810 --> 00:05:53.690
+beiden an die Verbindung hin.
+
+00:05:53.690 --> 00:05:57.860
+Dahinter kommen dann noch die beiden Bs und
+die Raute , da wir das ja dann in den Keller
+
+00:05:57.860 --> 00:05:58.860
+reinschreiben wollen.
+
+00:05:58.860 --> 00:06:03.110
+Die Vorgehensweise macht ihr jetzt für jeden
+Schritt, bis alle Schritte im Diagramm eingezeichnet
+
+00:06:03.110 --> 00:06:04.110
+wurden.
+
+00:06:04.110 --> 00:06:05.750
+Und fertisch is das Diagramm zum PDA.
+
+00:06:05.750 --> 00:06:07.949
+Na das klingt doch alles logisch.
+
+00:06:07.949 --> 00:06:08.990
+Also dann , tschö!
+
+00:06:08.990 --> 00:06:11.509
+Naja oke, so logisch is das doch noch nicht.
+
+00:06:11.509 --> 00:06:13.460
+Schauen wirs uns das Diagramm lieber an nem
+Beispiel an!
+
+00:06:13.460 --> 00:06:16.960
+Gehen wir doch jetzt von unserem vorhin entworfenen
+PDA aus.
+
+00:06:16.960 --> 00:06:21.449
+Auf unser Diagramm kommen wir jetzt, wenn
+wir jeden Schritt wie vorhin erklärt aufzeichnen.
+
+00:06:21.449 --> 00:06:23.259
+Das sähe dann so aus.
+
+00:06:23.259 --> 00:06:26.889
+Wir haben jetzt unsere drei Zustände q0,q1
+und q2.
+
+00:06:26.889 --> 00:06:30.069
+Die Übergänge sind die gleichen wie in den
+Schritten.
+
+00:06:30.069 --> 00:06:31.879
+q2 ist dabei außerdem unser Endzustand.
+
+00:06:31.879 --> 00:06:36.699
+Das seht ihr entweder während ihr den PDA
+aufbaut oder aber es steht in der Aufgabe.
+
+00:06:36.699 --> 00:06:39.520
+Und schon ist das Diagramm zum PDA auch fertisch!
+
+00:06:39.520 --> 00:06:40.520
+Tolle Knolle!
+
+00:06:40.520 --> 00:06:42.900
+Was merkt ihr euch jetzt alles zum PDA.
+
+00:06:42.900 --> 00:06:48.740
+Ein PDA kann sich , im Gegensatz zum DEA und
+NEA, die gelesenen Zeichen des Wortes merken.
+
+00:06:48.740 --> 00:06:50.949
+Das macht er mit einem Keller oder Stack.
+
+00:06:50.949 --> 00:06:54.439
+Ein Keller funktioniert nach dem Last In - First
+Out Prinzip.
+
+00:06:54.439 --> 00:06:57.939
+Es kann also nur das Zeichen zuerst aus dem
+Keller genommen werden, welches als letztes
+
+00:06:57.939 --> 00:07:01.110
+hinzugefügt wurde, bzw. im Keller ganz oben
+liegt.
+
+00:07:01.110 --> 00:07:03.949
+Dem Keller können beliebig viele Zeichen
+hinzugefügt werden.
+
+00:07:03.949 --> 00:07:07.770
+Ganz unten steht eine Raute, um zu erkennen,
+ob wir am Ende angelangt sind.
+
+00:07:07.770 --> 00:07:10.440
+Ein PDA besteht aus mehreren Schritten.
+
+00:07:10.440 --> 00:07:12.719
+Links vom Pfeil stehen dabei drei Werte.
+
+00:07:12.719 --> 00:07:17.110
+Der Zustand wo man drin ist, das gelesene
+Zeichen aus dem Wort und das gelesene Zeichen
+
+00:07:17.110 --> 00:07:18.419
+aus dem Keller.
+
+00:07:18.419 --> 00:07:20.259
+Rechts vom Pfeil stehen zwei Werte.
+
+00:07:20.259 --> 00:07:24.030
+Der Zustand wo man hin will und die Zeichen
+welche man in den Stack schreiben will.
+
+00:07:24.030 --> 00:07:27.860
+Außerdem liegt ein Wort nur in der Sprache,
+wenn der Stack dann leer ist und das ganze
+
+00:07:27.860 --> 00:07:28.940
+Wort abgearbeitet wurde.
+
+00:07:28.940 --> 00:07:34.350
+Um einen PDA als Diagramm darzustellen, müssen
+wir einfach jeden Schritt durchgehen und die
+
+00:07:34.350 --> 00:07:36.409
+jeweiligen Zustände und Werte aufschreiben.
+
+00:07:36.409 --> 00:07:38.990
+So, dat wars zum PDA.
+
+00:07:38.990 --> 00:07:42.090
+Hoffentlich war des jetzt soweit verständlich.
+
+00:07:42.090 --> 00:07:45.699
+Ich hau mich ne Runde aufs Ohr.
+
+00:07:45.699 --> 00:07:46.739
+Guads nächtle!
+

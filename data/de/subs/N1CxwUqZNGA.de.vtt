@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.450 --> 00:00:06.479
+Whaat’s up Ladies and Gentleman?
+Heute hat Jan mal Bock auf ein richtig geiles……..Schaltnetz!
+
+00:00:06.479 --> 00:00:11.219
+Na klar was denn sonst!
+Heute schauen wir uns mal an wie wir so nen
+
+00:00:11.219 --> 00:00:14.259
+Ding einfach basteln können!
+
+00:00:14.259 --> 00:00:18.290
+Alright!
+Am besten wir machen das anhand einer kleinen
+
+00:00:18.290 --> 00:00:21.890
+gedachten Aufgabe.
+Sagen wir mal in eurer Uni gibt es folgendes
+
+00:00:21.890 --> 00:00:26.480
+Evakuierungssystem:
+Es gibt drei Lampen die euch die Gefahr signalisieren:
+
+00:00:26.480 --> 00:00:28.740
+- Eine Grüne Lampe für “Ey yo hier ist
+ja alles in Butter”
+
+00:00:28.740 --> 00:00:30.710
+- Die Gelbe für “Achtung! Gefahr!
+
+00:00:30.710 --> 00:00:36.120
+- Und eine Rote Lampe für “pure Eskalation
+Dazu haben wir 2 Melder, nennen wir die mal
+
+00:00:36.120 --> 00:00:39.150
+x und y.
+Wird keiner Melder aktiviert leuchtet die
+
+00:00:39.150 --> 00:00:43.500
+grüne Lampe. Es ist also alles in Butter.
+Wird einer der 2 Melder aktiviert springt
+
+00:00:43.500 --> 00:00:47.080
+die Gelbe Lampe an.
+Sind alle 2 Melder aktiv, leuchtet die rote
+
+00:00:47.080 --> 00:00:51.150
+Lampe.
+#Eskalation
+
+00:00:51.150 --> 00:00:55.329
+Sodale wie gehen wir jetzt vor, wenn wir daraus
+ein kleines Schaltnetz oder mehrere Schaltnetze
+
+00:00:55.329 --> 00:00:58.130
+kreieren sollen.
+Zuerst erstellen wir mal ne Tabelle.
+
+00:00:58.130 --> 00:01:02.480
+Die nennt man dann auch Funktionstabelle.
+In die Funktionstabelle kommen die zwei Melder
+
+00:01:02.480 --> 00:01:06.630
+x und y und die Lampen.
+Die Melder belegen wir mit allen möglichen
+
+00:01:06.630 --> 00:01:09.350
+2 Stelligen Kombinationen von 0en und 1en.
+
+00:01:09.350 --> 00:01:15.770
+Also 00, 01, 10 und 11.
+Haben wir alle möglichen Kombis eingetragen,
+
+00:01:15.770 --> 00:01:19.960
+können wir anfangen unsre Lampen zu belegen.
+Ist kein Melder aktiv, leuchtet die Grüne
+
+00:01:19.960 --> 00:01:22.189
+Lampe.
+Also tragen wir bei ihr 1 ein.
+
+00:01:22.189 --> 00:01:27.600
+Ist ein Melder aktiv fängt Gelb an zu leuchten,
+das heißt überall wo entweder x oder y aktiv
+
+00:01:27.600 --> 00:01:32.990
+ist können wir bei Gelb eine 1 eintragen.
+Rot leuchtet auf, wenn 2 Melder aktiviert
+
+00:01:32.990 --> 00:01:38.909
+sind. Also tragen wir dort auch eine 1 ein.
+Der Rest kann dann mit 0en befüllt werden.
+
+00:01:38.909 --> 00:01:40.850
+Jau geil damit ist schonmal der Größte Teil
+geschafft!
+
+00:01:40.850 --> 00:01:44.840
+Aus der Tabelle können wir jetzt beispielsweise
+für die Gelbe Lampe die Funktionsgleichung
+
+00:01:44.840 --> 00:01:49.020
+rausschreiben.
+Gelb leuchtet auf wenn entweder x oder y aktiv
+
+00:01:49.020 --> 00:01:51.779
+sind. Und der andere bei 0 bleibt.
+Das heißt
+
+00:01:51.779 --> 00:01:56.119
+Das heißt
+Gelb = nicht x y oder x nicht y
+
+00:01:56.119 --> 00:01:58.570
+Soweit ham wir das ja einfach aus der Tabelle
+ablesen können.
+
+00:01:58.570 --> 00:02:01.579
+Klar oder?
+Jetzt bauen wir dazu mal das Schaltnetz.
+
+00:02:01.579 --> 00:02:04.319
+Zuallererst haben wir unsre zwei Eingänge
+x und y
+
+00:02:04.319 --> 00:02:08.959
+Am besten man zeichnet gleich die Striche
+nach unten. Dann kann man dort immer schön
+
+00:02:08.959 --> 00:02:13.470
+Verbindungen einbauen.
+In der Gleichung sehen wir das wir 2 Kombinationen
+
+00:02:13.470 --> 00:02:16.970
+die mit Oder verbunden sind.
+Die einzelnen Kombinationen sind wiederum
+
+00:02:16.970 --> 00:02:20.989
+mit UND verbunden.
+Das heißt wir können erstmal 2 UND Gatter
+
+00:02:20.989 --> 00:02:22.069
+hinzeichnen.
+Jut!
+
+00:02:22.069 --> 00:02:24.769
+Der eine Funktionsteil war: nicht x und y
+
+00:02:24.769 --> 00:02:28.379
+Dann nehmen wir ein Strang von Y und verbinden
+ihn mit dem UND.
+
+00:02:28.379 --> 00:02:33.040
+Bei der Leitung von X fügen wir noch ein
+NOT ein und verbinden es ebenfalls mit dem
+
+00:02:33.040 --> 00:02:36.049
+UND.
+Das NOT ist übrigens das Dreicke mit dem
+
+00:02:36.049 --> 00:02:37.120
+Bopel, ne!
+
+00:02:37.120 --> 00:02:40.799
+Yeah und weiter gehts!
+Der zweite Teil war: x und nicht y
+
+00:02:40.799 --> 00:02:42.790
+X können wir einfach so verbinden.
+
+00:02:42.790 --> 00:02:47.349
+Bei Y verbinden wir das UND mit dem Y und
+fügen noch ein NOT ein.
+
+00:02:47.349 --> 00:02:51.099
+Das gleiche Spiel machen wir noch für den
+dritten Teil der Funktion.
+
+00:02:51.099 --> 00:02:54.069
+Verbunden werden diese beiden Teile der Funktion
+durch das ODER.
+
+00:02:54.069 --> 00:02:59.190
+Also verbinden wir die Ausgänge vom UND mit
+einem ODER und die Lampe leuchtet Gelb, wenn
+
+00:02:59.190 --> 00:03:03.290
+eines der beiden Kombis zutrifft.
+Geil Geil Geil! So einfach is es!
+
+00:03:03.290 --> 00:03:07.739
+Versucht gleich mal das Schaltnetz für Grün
+und Rot zu machen...Ist easy ich versprechs.
+
+00:03:07.739 --> 00:03:12.180
+Aber vorher was muss man können:
+Um Schaltnetze zu zeichnen ist erstmal wichtig
+
+00:03:12.180 --> 00:03:16.670
+zu wissen wie die Funktion dazu aussieht.
+Entweder man bekommt sie schon vorgegeben
+
+00:03:16.670 --> 00:03:20.000
+oder man macht sie sich selbst.
+Bei der Funktionstabelle erstellt man für
+
+00:03:20.000 --> 00:03:24.530
+die Input Variablen alle möglichen Kombinationen.
+Der Funktionsterm ergibt sich dann aus der
+
+00:03:24.530 --> 00:03:27.200
+Angabe.
+Hat man eine Funktionsgleichung, kann man
+
+00:03:27.200 --> 00:03:31.670
+dann einfach die einzelnen Teile dieser ablesen
+und als Schaltnetz umsetzen.
+
+00:03:31.670 --> 00:03:35.689
+Wichtig dabei ist zu wissen welche Teile mit
+welchem Gatter verbunden werden.
+
+00:03:35.689 --> 00:03:38.930
+Geht man das Stück für Stück durch erhält
+man am Ende ne nice Schaltung.
+
+00:03:38.930 --> 00:03:48.540
+Wenn ihr jetzt noch mehr üben wollt, dann
+findet ihr super Aufgaben dazu auf unsrer
+
+00:03:48.540 --> 00:03:49.540
+Lernplattform.
+
+00:03:49.540 --> 00:03:50.019
+Checkt das mal aus.
+

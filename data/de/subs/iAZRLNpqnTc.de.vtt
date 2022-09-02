@@ -1,0 +1,800 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.000 --> 00:00:04.140 align:start position:0%
+ 
+css<00:00:00.630><c> bock</c><00:00:01.469><c> super</c>
+
+00:00:04.140 --> 00:00:04.150 align:start position:0%
+css bock super
+ 
+
+00:00:04.150 --> 00:00:08.709 align:start position:0%
+css bock super
+[Musik]
+
+00:00:08.709 --> 00:00:08.719 align:start position:0%
+[Musik]
+ 
+
+00:00:08.719 --> 00:00:11.540 align:start position:0%
+[Musik]
+hallo<00:00:09.719><c> zusammen</c><00:00:09.900><c> wir</c><00:00:10.380><c> schauen</c><00:00:10.860><c> uns</c><00:00:11.010><c> heute</c><00:00:11.370><c> wie</c>
+
+00:00:11.540 --> 00:00:11.550 align:start position:0%
+hallo zusammen wir schauen uns heute wie
+ 
+
+00:00:11.550 --> 00:00:13.999 align:start position:0%
+hallo zusammen wir schauen uns heute wie
+versprochen<00:00:11.940><c> die</c><00:00:12.240><c> struktur</c><00:00:12.719><c> von</c><00:00:12.960><c> css</c><00:00:13.650><c> an</c>
+
+00:00:13.999 --> 00:00:14.009 align:start position:0%
+versprochen die struktur von css an
+ 
+
+00:00:14.009 --> 00:00:15.829 align:start position:0%
+versprochen die struktur von css an
+dabei<00:00:14.549><c> betrachten</c><00:00:15.120><c> wir</c><00:00:15.240><c> auch</c><00:00:15.450><c> gleich</c><00:00:15.750><c> die</c>
+
+00:00:15.829 --> 00:00:15.839 align:start position:0%
+dabei betrachten wir auch gleich die
+ 
+
+00:00:15.839 --> 00:00:17.120 align:start position:0%
+dabei betrachten wir auch gleich die
+verschiedenen<00:00:16.379><c> möglichkeiten</c><00:00:16.800><c> der</c>
+
+00:00:17.120 --> 00:00:17.130 align:start position:0%
+verschiedenen möglichkeiten der
+ 
+
+00:00:17.130 --> 00:00:19.820 align:start position:0%
+verschiedenen möglichkeiten der
+einbindung<00:00:17.580><c> genauer</c><00:00:18.350><c> bevor</c><00:00:19.350><c> wir</c><00:00:19.590><c> uns</c><00:00:19.710><c> die</c>
+
+00:00:19.820 --> 00:00:19.830 align:start position:0%
+einbindung genauer bevor wir uns die
+ 
+
+00:00:19.830 --> 00:00:21.710 align:start position:0%
+einbindung genauer bevor wir uns die
+struktur<00:00:20.220><c> anschauen</c><00:00:20.670><c> gucken</c><00:00:21.180><c> wir</c><00:00:21.330><c> erstmal</c>
+
+00:00:21.710 --> 00:00:21.720 align:start position:0%
+struktur anschauen gucken wir erstmal
+ 
+
+00:00:21.720 --> 00:00:24.019 align:start position:0%
+struktur anschauen gucken wir erstmal
+was<00:00:21.869><c> für</c><00:00:22.199><c> informationen</c><00:00:22.350><c> mit</c><00:00:23.130><c> css</c><00:00:23.609><c> möglich</c>
+
+00:00:24.019 --> 00:00:24.029 align:start position:0%
+was für informationen mit css möglich
+ 
+
+00:00:24.029 --> 00:00:26.660 align:start position:0%
+was für informationen mit css möglich
+sind<00:00:24.269><c> in</c><00:00:24.660><c> css</c><00:00:25.289><c> werden</c><00:00:25.619><c> attribute</c><00:00:26.189><c> mit</c><00:00:26.400><c> einem</c>
+
+00:00:26.660 --> 00:00:26.670 align:start position:0%
+sind in css werden attribute mit einem
+ 
+
+00:00:26.670 --> 00:00:29.269 align:start position:0%
+sind in css werden attribute mit einem
+doppelpunkt<00:00:27.090><c> vom</c><00:00:27.390><c> wert</c><00:00:27.810><c> getrennt</c><00:00:28.320><c> das</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+doppelpunkt vom wert getrennt das
+ 
+
+00:00:29.279 --> 00:00:31.099 align:start position:0%
+doppelpunkt vom wert getrennt das
+attribut<00:00:29.609><c> gibt</c><00:00:30.029><c> an</c><00:00:30.119><c> was</c><00:00:30.570><c> geändert</c><00:00:30.810><c> werden</c>
+
+00:00:31.099 --> 00:00:31.109 align:start position:0%
+attribut gibt an was geändert werden
+ 
+
+00:00:31.109 --> 00:00:33.950 align:start position:0%
+attribut gibt an was geändert werden
+soll<00:00:31.679><c> der</c><00:00:32.279><c> wert</c><00:00:32.610><c> gibt</c><00:00:32.730><c> dagegen</c><00:00:32.969><c> an</c><00:00:33.210><c> wie</c><00:00:33.600><c> etwas</c>
+
+00:00:33.950 --> 00:00:33.960 align:start position:0%
+soll der wert gibt dagegen an wie etwas
+ 
+
+00:00:33.960 --> 00:00:36.319 align:start position:0%
+soll der wert gibt dagegen an wie etwas
+geändert<00:00:34.440><c> werden</c><00:00:34.680><c> soll</c><00:00:35.040><c> beispielhafte</c><00:00:36.000><c> werte</c>
+
+00:00:36.319 --> 00:00:36.329 align:start position:0%
+geändert werden soll beispielhafte werte
+ 
+
+00:00:36.329 --> 00:00:38.810 align:start position:0%
+geändert werden soll beispielhafte werte
+für<00:00:36.570><c> farben</c><00:00:36.960><c> sind</c><00:00:37.410><c> zum</c><00:00:37.590><c> beispiel</c><00:00:37.920><c> carla</c><00:00:38.399><c> für</c>
+
+00:00:38.810 --> 00:00:38.820 align:start position:0%
+für farben sind zum beispiel carla für
+ 
+
+00:00:38.820 --> 00:00:40.970 align:start position:0%
+für farben sind zum beispiel carla für
+die<00:00:38.879><c> schriftfarbe</c><00:00:39.300><c> und</c><00:00:40.170><c> background</c><00:00:40.739><c> color</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+die schriftfarbe und background color
+ 
+
+00:00:40.980 --> 00:00:43.639 align:start position:0%
+die schriftfarbe und background color
+für<00:00:41.309><c> die</c><00:00:41.460><c> hintergrundfarbe</c><00:00:42.360><c> für</c><00:00:43.320><c> den</c><00:00:43.440><c> wert</c>
+
+00:00:43.639 --> 00:00:43.649 align:start position:0%
+für die hintergrundfarbe für den wert
+ 
+
+00:00:43.649 --> 00:00:45.080 align:start position:0%
+für die hintergrundfarbe für den wert
+von<00:00:43.680><c> farben</c><00:00:44.219><c> habt</c><00:00:44.489><c> ihr</c><00:00:44.579><c> jetzt</c><00:00:44.640><c> verschiedene</c>
+
+00:00:45.080 --> 00:00:45.090 align:start position:0%
+von farben habt ihr jetzt verschiedene
+ 
+
+00:00:45.090 --> 00:00:47.209 align:start position:0%
+von farben habt ihr jetzt verschiedene
+möglichkeiten<00:00:45.719><c> ihr</c><00:00:46.440><c> könnt</c><00:00:46.739><c> die</c><00:00:46.829><c> farbe</c>
+
+00:00:47.209 --> 00:00:47.219 align:start position:0%
+möglichkeiten ihr könnt die farbe
+ 
+
+00:00:47.219 --> 00:00:49.160 align:start position:0%
+möglichkeiten ihr könnt die farbe
+explizit<00:00:48.000><c> hin</c><00:00:48.120><c> schreiben</c><00:00:48.390><c> oder</c><00:00:48.899><c> ihr</c>
+
+00:00:49.160 --> 00:00:49.170 align:start position:0%
+explizit hin schreiben oder ihr
+ 
+
+00:00:49.170 --> 00:00:51.529 align:start position:0%
+explizit hin schreiben oder ihr
+verwendet<00:00:49.649><c> den</c><00:00:49.770><c> rgb</c><00:00:50.250><c> farbraum</c><00:00:50.760><c> hexadezimal</c>
+
+00:00:51.529 --> 00:00:51.539 align:start position:0%
+verwendet den rgb farbraum hexadezimal
+ 
+
+00:00:51.539 --> 00:00:54.470 align:start position:0%
+verwendet den rgb farbraum hexadezimal
+farben<00:00:52.379><c> oder</c><00:00:52.590><c> viele</c><00:00:53.129><c> mehr</c><00:00:53.550><c> natürlich</c><00:00:54.210><c> gibt</c><00:00:54.449><c> es</c>
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+farben oder viele mehr natürlich gibt es
+ 
+
+00:00:54.480 --> 00:00:56.750 align:start position:0%
+farben oder viele mehr natürlich gibt es
+jetzt<00:00:54.660><c> ganz</c><00:00:54.989><c> viele</c><00:00:55.440><c> attribute</c><00:00:55.739><c> je</c><00:00:56.460><c> nachdem</c>
+
+00:00:56.750 --> 00:00:56.760 align:start position:0%
+jetzt ganz viele attribute je nachdem
+ 
+
+00:00:56.760 --> 00:00:58.790 align:start position:0%
+jetzt ganz viele attribute je nachdem
+was<00:00:57.000><c> ihr</c><00:00:57.090><c> genau</c><00:00:57.239><c> ändern</c><00:00:57.629><c> wollt</c><00:00:57.899><c> da</c><00:00:58.469><c> hätte</c><00:00:58.710><c> es</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+was ihr genau ändern wollt da hätte es
+ 
+
+00:00:58.800 --> 00:01:00.080 align:start position:0%
+was ihr genau ändern wollt da hätte es
+jetzt<00:00:58.920><c> keinen</c><00:00:59.370><c> sinn</c><00:00:59.430><c> alle</c><00:00:59.789><c> attribute</c>
+
+00:01:00.080 --> 00:01:00.090 align:start position:0%
+jetzt keinen sinn alle attribute
+ 
+
+00:01:00.090 --> 00:01:02.389 align:start position:0%
+jetzt keinen sinn alle attribute
+aufzuziehen<00:01:01.109><c> die</c><00:01:01.739><c> könnt</c><00:01:02.010><c> ihr</c><00:01:02.100><c> ganz</c><00:01:02.219><c> einfach</c>
+
+00:01:02.389 --> 00:01:02.399 align:start position:0%
+aufzuziehen die könnt ihr ganz einfach
+ 
+
+00:01:02.399 --> 00:01:04.910 align:start position:0%
+aufzuziehen die könnt ihr ganz einfach
+alle<00:01:02.940><c> im</c><00:01:03.090><c> internet</c><00:01:03.390><c> herausfinden</c><00:01:04.229><c> ihr</c><00:01:04.739><c> merkt</c>
+
+00:01:04.910 --> 00:01:04.920 align:start position:0%
+alle im internet herausfinden ihr merkt
+ 
+
+00:01:04.920 --> 00:01:06.980 align:start position:0%
+alle im internet herausfinden ihr merkt
+euch<00:01:05.070><c> jetzt</c><00:01:05.309><c> dass</c><00:01:05.610><c> ihr</c><00:01:05.700><c> in</c><00:01:05.880><c> css</c><00:01:06.540><c> immer</c><00:01:06.840><c> ein</c>
+
+00:01:06.980 --> 00:01:06.990 align:start position:0%
+euch jetzt dass ihr in css immer ein
+ 
+
+00:01:06.990 --> 00:01:09.490 align:start position:0%
+euch jetzt dass ihr in css immer ein
+attribut<00:01:07.439><c> und</c><00:01:07.680><c> dahinter</c><00:01:08.189><c> einen</c><00:01:08.490><c> wert</c><00:01:08.820><c> an</c><00:01:08.909><c> gibt</c>
+
+00:01:09.490 --> 00:01:09.500 align:start position:0%
+attribut und dahinter einen wert an gibt
+ 
+
+00:01:09.500 --> 00:01:12.350 align:start position:0%
+attribut und dahinter einen wert an gibt
+genau<00:01:10.500><c> ist</c><00:01:10.830><c> außerdem</c><00:01:11.280><c> dass</c><00:01:11.670><c> ihr</c><00:01:11.760><c> bei</c><00:01:11.880><c> einigen</c>
+
+00:01:12.350 --> 00:01:12.360 align:start position:0%
+genau ist außerdem dass ihr bei einigen
+ 
+
+00:01:12.360 --> 00:01:14.390 align:start position:0%
+genau ist außerdem dass ihr bei einigen
+attributen<00:01:12.960><c> mehrere</c><00:01:13.409><c> werte</c><00:01:13.710><c> setzen</c><00:01:14.070><c> könnt</c>
+
+00:01:14.390 --> 00:01:14.400 align:start position:0%
+attributen mehrere werte setzen könnt
+ 
+
+00:01:14.400 --> 00:01:16.370 align:start position:0%
+attributen mehrere werte setzen könnt
+die<00:01:15.210><c> werden</c><00:01:15.570><c> dann</c><00:01:15.720><c> einfach</c><00:01:15.990><c> mit</c><00:01:16.200><c> einem</c>
+
+00:01:16.370 --> 00:01:16.380 align:start position:0%
+die werden dann einfach mit einem
+ 
+
+00:01:16.380 --> 00:01:18.380 align:start position:0%
+die werden dann einfach mit einem
+leerzeichen<00:01:16.710><c> getrennt</c><00:01:17.520><c> jetzt</c><00:01:18.119><c> schauen</c><00:01:18.330><c> wir</c>
+
+00:01:18.380 --> 00:01:18.390 align:start position:0%
+leerzeichen getrennt jetzt schauen wir
+ 
+
+00:01:18.390 --> 00:01:19.880 align:start position:0%
+leerzeichen getrennt jetzt schauen wir
+uns<00:01:18.509><c> aber</c><00:01:18.780><c> noch</c><00:01:18.900><c> an</c><00:01:19.110><c> wie</c><00:01:19.380><c> das</c><00:01:19.530><c> in</c><00:01:19.740><c> den</c>
+
+00:01:19.880 --> 00:01:19.890 align:start position:0%
+uns aber noch an wie das in den
+ 
+
+00:01:19.890 --> 00:01:21.560 align:start position:0%
+uns aber noch an wie das in den
+verschiedenen<00:01:20.430><c> einbindungen</c><00:01:20.970><c> aussieht</c>
+
+00:01:21.560 --> 00:01:21.570 align:start position:0%
+verschiedenen einbindungen aussieht
+ 
+
+00:01:21.570 --> 00:01:24.830 align:start position:0%
+verschiedenen einbindungen aussieht
+erstmal<00:01:22.530><c> beim</c><00:01:22.710><c> style</c><00:01:23.009><c> attribut</c><00:01:23.610><c> da</c><00:01:24.479><c> schreibt</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+erstmal beim style attribut da schreibt
+ 
+
+00:01:24.840 --> 00:01:27.140 align:start position:0%
+erstmal beim style attribut da schreibt
+er<00:01:24.930><c> jetzt</c><00:01:24.960><c> einfach</c><00:01:25.350><c> eure</c><00:01:25.710><c> attribute</c><00:01:25.890><c> mit</c><00:01:26.700><c> wert</c>
+
+00:01:27.140 --> 00:01:27.150 align:start position:0%
+er jetzt einfach eure attribute mit wert
+ 
+
+00:01:27.150 --> 00:01:29.359 align:start position:0%
+er jetzt einfach eure attribute mit wert
+hinter<00:01:27.420><c> das</c><00:01:27.630><c> teil</c><00:01:27.780><c> attribut</c><00:01:28.380><c> natürlich</c><00:01:29.189><c> nicht</c>
+
+00:01:29.359 --> 00:01:29.369 align:start position:0%
+hinter das teil attribut natürlich nicht
+ 
+
+00:01:29.369 --> 00:01:30.880 align:start position:0%
+hinter das teil attribut natürlich nicht
+die<00:01:29.430><c> anführungszeichen</c><00:01:29.880><c> vergessen</c>
+
+00:01:30.880 --> 00:01:30.890 align:start position:0%
+die anführungszeichen vergessen
+ 
+
+00:01:30.890 --> 00:01:32.929 align:start position:0%
+die anführungszeichen vergessen
+mehrere<00:01:31.890><c> attribute</c><00:01:32.159><c> könnt</c><00:01:32.700><c> ihr</c><00:01:32.790><c> dabei</c>
+
+00:01:32.929 --> 00:01:32.939 align:start position:0%
+mehrere attribute könnt ihr dabei
+ 
+
+00:01:32.939 --> 00:01:34.969 align:start position:0%
+mehrere attribute könnt ihr dabei
+einfach<00:01:33.509><c> mit</c><00:01:33.720><c> dem</c><00:01:33.840><c> strich</c><00:01:34.200><c> punkt</c><00:01:34.530><c> trennen</c>
+
+00:01:34.969 --> 00:01:34.979 align:start position:0%
+einfach mit dem strich punkt trennen
+ 
+
+00:01:34.979 --> 00:01:37.310 align:start position:0%
+einfach mit dem strich punkt trennen
+hier<00:01:35.490><c> würde</c><00:01:35.790><c> jetzt</c><00:01:36.030><c> der</c><00:01:36.180><c> tag</c><00:01:36.570><c> mit</c><00:01:36.900><c> roter</c>
+
+00:01:37.310 --> 00:01:37.320 align:start position:0%
+hier würde jetzt der tag mit roter
+ 
+
+00:01:37.320 --> 00:01:39.499 align:start position:0%
+hier würde jetzt der tag mit roter
+schriftfarbe<00:01:37.740><c> und</c><00:01:38.340><c> grüner</c><00:01:38.670><c> hintergrundfarbe</c>
+
+00:01:39.499 --> 00:01:39.509 align:start position:0%
+schriftfarbe und grüner hintergrundfarbe
+ 
+
+00:01:39.509 --> 00:01:41.929 align:start position:0%
+schriftfarbe und grüner hintergrundfarbe
+dargestellt<00:01:40.049><c> werden</c><00:01:40.320><c> und</c><00:01:40.860><c> fertig</c><00:01:41.700><c> ist</c><00:01:41.820><c> der</c>
+
+00:01:41.929 --> 00:01:41.939 align:start position:0%
+dargestellt werden und fertig ist der
+ 
+
+00:01:41.939 --> 00:01:43.999 align:start position:0%
+dargestellt werden und fertig ist der
+lack<00:01:42.000><c> ihr</c><00:01:42.509><c> seht</c><00:01:42.899><c> schon</c><00:01:42.930><c> die</c><00:01:43.320><c> darstellung</c><00:01:43.860><c> ist</c>
+
+00:01:43.999 --> 00:01:44.009 align:start position:0%
+lack ihr seht schon die darstellung ist
+ 
+
+00:01:44.009 --> 00:01:46.310 align:start position:0%
+lack ihr seht schon die darstellung ist
+nicht<00:01:44.340><c> so</c><00:01:44.430><c> schön</c><00:01:44.640><c> da</c><00:01:45.180><c> er</c><00:01:45.329><c> das</c><00:01:45.570><c> teil</c><00:01:45.750><c> attribut</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+nicht so schön da er das teil attribut
+ 
+
+00:01:46.320 --> 00:01:48.440 align:start position:0%
+nicht so schön da er das teil attribut
+ja<00:01:46.409><c> in</c><00:01:46.560><c> jedem</c><00:01:47.040><c> tag</c><00:01:47.399><c> reinschreiben</c><00:01:47.820><c> müsst</c><00:01:48.240><c> den</c>
+
+00:01:48.440 --> 00:01:48.450 align:start position:0%
+ja in jedem tag reinschreiben müsst den
+ 
+
+00:01:48.450 --> 00:01:50.450 align:start position:0%
+ja in jedem tag reinschreiben müsst den
+ihr<00:01:48.630><c> ändern</c><00:01:48.899><c> wollte</c><00:01:49.229><c> deswegen</c><00:01:50.040><c> gehen</c><00:01:50.399><c> wir</c>
+
+00:01:50.450 --> 00:01:50.460 align:start position:0%
+ihr ändern wollte deswegen gehen wir
+ 
+
+00:01:50.460 --> 00:01:52.190 align:start position:0%
+ihr ändern wollte deswegen gehen wir
+gleich<00:01:50.610><c> weiter</c><00:01:51.030><c> zum</c><00:01:51.240><c> style</c><00:01:51.600><c> tag</c><00:01:51.960><c> der</c><00:01:52.110><c> im</c>
+
+00:01:52.190 --> 00:01:52.200 align:start position:0%
+gleich weiter zum style tag der im
+ 
+
+00:01:52.200 --> 00:01:55.219 align:start position:0%
+gleich weiter zum style tag der im
+header<00:01:52.530><c> drinsteht</c><00:01:53.299><c> dann</c><00:01:54.299><c> gebt</c><00:01:54.570><c> ihr</c><00:01:54.659><c> zuerst</c><00:01:54.840><c> an</c>
+
+00:01:55.219 --> 00:01:55.229 align:start position:0%
+header drinsteht dann gebt ihr zuerst an
+ 
+
+00:01:55.229 --> 00:01:57.469 align:start position:0%
+header drinsteht dann gebt ihr zuerst an
+welche<00:01:55.740><c> texier</c><00:01:56.189><c> darstellen</c><00:01:56.820><c> wollt</c><00:01:57.119><c> dann</c>
+
+00:01:57.469 --> 00:01:57.479 align:start position:0%
+welche texier darstellen wollt dann
+ 
+
+00:01:57.479 --> 00:01:59.780 align:start position:0%
+welche texier darstellen wollt dann
+schreibt<00:01:57.810><c> ihr</c><00:01:57.899><c> geschweißte</c><00:01:58.590><c> klammern</c><00:01:58.950><c> in</c>
+
+00:01:59.780 --> 00:01:59.790 align:start position:0%
+schreibt ihr geschweißte klammern in
+ 
+
+00:01:59.790 --> 00:02:01.190 align:start position:0%
+schreibt ihr geschweißte klammern in
+diesem<00:02:00.119><c> klammern</c><00:02:00.450><c> könnt</c><00:02:00.750><c> ihr</c><00:02:00.840><c> jetzt</c><00:02:00.899><c> wie</c>
+
+00:02:01.190 --> 00:02:01.200 align:start position:0%
+diesem klammern könnt ihr jetzt wie
+ 
+
+00:02:01.200 --> 00:02:03.109 align:start position:0%
+diesem klammern könnt ihr jetzt wie
+gewohnt<00:02:01.409><c> attribute</c><00:02:02.130><c> ändern</c><00:02:02.520><c> und</c><00:02:02.790><c> mit</c><00:02:02.880><c> einem</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+gewohnt attribute ändern und mit einem
+ 
+
+00:02:03.119 --> 00:02:05.539 align:start position:0%
+gewohnt attribute ändern und mit einem
+strick<00:02:03.360><c> punkt</c><00:02:03.750><c> trennen</c><00:02:04.530><c> hier</c><00:02:05.070><c> würden</c><00:02:05.430><c> jetzt</c>
+
+00:02:05.539 --> 00:02:05.549 align:start position:0%
+strick punkt trennen hier würden jetzt
+ 
+
+00:02:05.549 --> 00:02:07.850 align:start position:0%
+strick punkt trennen hier würden jetzt
+alle<00:02:05.820><c> tags</c><00:02:06.479><c> im</c><00:02:06.600><c> kot</c><00:02:06.810><c> die</c><00:02:07.049><c> schrift</c><00:02:07.380><c> farbe</c><00:02:07.470><c> blau</c>
+
+00:02:07.850 --> 00:02:07.860 align:start position:0%
+alle tags im kot die schrift farbe blau
+ 
+
+00:02:07.860 --> 00:02:10.130 align:start position:0%
+alle tags im kot die schrift farbe blau
+und<00:02:08.459><c> alle</c><00:02:08.640><c> h3</c><00:02:09.030><c> überschriften</c><00:02:09.690><c> die</c><00:02:09.810><c> schrift</c>
+
+00:02:10.130 --> 00:02:10.140 align:start position:0%
+und alle h3 überschriften die schrift
+ 
+
+00:02:10.140 --> 00:02:12.199 align:start position:0%
+und alle h3 überschriften die schrift
+farbe<00:02:10.259><c> rot</c><00:02:10.800><c> haben</c><00:02:11.100><c> ihr</c><00:02:11.520><c> seht</c><00:02:11.790><c> ihr</c><00:02:11.880><c> jetzt</c><00:02:11.970><c> schon</c>
+
+00:02:12.199 --> 00:02:12.209 align:start position:0%
+farbe rot haben ihr seht ihr jetzt schon
+ 
+
+00:02:12.209 --> 00:02:14.180 align:start position:0%
+farbe rot haben ihr seht ihr jetzt schon
+den<00:02:12.510><c> großen</c><00:02:12.690><c> vorteil</c><00:02:13.380><c> dass</c><00:02:13.530><c> sie</c><00:02:13.680><c> nicht</c><00:02:13.740><c> jeden</c>
+
+00:02:14.180 --> 00:02:14.190 align:start position:0%
+den großen vorteil dass sie nicht jeden
+ 
+
+00:02:14.190 --> 00:02:16.370 align:start position:0%
+den großen vorteil dass sie nicht jeden
+tag<00:02:14.280><c> einzeln</c><00:02:14.700><c> ansprechen</c><00:02:15.030><c> müsst</c><00:02:15.480><c> jeden</c><00:02:16.050><c> tag</c>
+
+00:02:16.370 --> 00:02:16.380 align:start position:0%
+tag einzeln ansprechen müsst jeden tag
+ 
+
+00:02:16.380 --> 00:02:17.960 align:start position:0%
+tag einzeln ansprechen müsst jeden tag
+den<00:02:16.530><c> ihr</c><00:02:16.650><c> ändern</c><00:02:16.980><c> wollt</c><00:02:17.250><c> könnt</c><00:02:17.520><c> ihr</c><00:02:17.670><c> einfach</c>
+
+00:02:17.960 --> 00:02:17.970 align:start position:0%
+den ihr ändern wollt könnt ihr einfach
+ 
+
+00:02:17.970 --> 00:02:20.360 align:start position:0%
+den ihr ändern wollt könnt ihr einfach
+in<00:02:18.209><c> den</c><00:02:18.360><c> style</c><00:02:18.600><c> text</c><00:02:18.990><c> schreiben</c><00:02:19.290><c> dann</c><00:02:20.069><c> gehen</c>
+
+00:02:20.360 --> 00:02:20.370 align:start position:0%
+in den style text schreiben dann gehen
+ 
+
+00:02:20.370 --> 00:02:22.880 align:start position:0%
+in den style text schreiben dann gehen
+wir<00:02:20.430><c> gleich</c><00:02:20.610><c> weiter</c><00:02:21.090><c> zum</c><00:02:21.270><c> externen</c><00:02:21.660><c> css</c><00:02:22.500><c> hier</c>
+
+00:02:22.880 --> 00:02:22.890 align:start position:0%
+wir gleich weiter zum externen css hier
+ 
+
+00:02:22.890 --> 00:02:25.280 align:start position:0%
+wir gleich weiter zum externen css hier
+fällt<00:02:23.190><c> erst</c><00:02:23.400><c> alltag</c><00:02:23.850><c> einfach</c><00:02:24.239><c> weg</c><00:02:24.480><c> die</c><00:02:24.840><c> angabe</c>
+
+00:02:25.280 --> 00:02:25.290 align:start position:0%
+fällt erst alltag einfach weg die angabe
+ 
+
+00:02:25.290 --> 00:02:26.780 align:start position:0%
+fällt erst alltag einfach weg die angabe
+von<00:02:25.470><c> den</c><00:02:25.620><c> attributen</c><00:02:25.920><c> funktioniert</c>
+
+00:02:26.780 --> 00:02:26.790 align:start position:0%
+von den attributen funktioniert
+ 
+
+00:02:26.790 --> 00:02:30.110 align:start position:0%
+von den attributen funktioniert
+allerdings<00:02:26.970><c> sonst</c><00:02:27.480><c> genauso</c><00:02:28.069><c> also</c><00:02:29.069><c> ganz</c><00:02:29.880><c> easy</c>
+
+00:02:30.110 --> 00:02:30.120 align:start position:0%
+allerdings sonst genauso also ganz easy
+ 
+
+00:02:30.120 --> 00:02:33.199 align:start position:0%
+allerdings sonst genauso also ganz easy
+oder<00:02:30.709><c> da</c><00:02:31.709><c> er</c><00:02:31.830><c> aber</c><00:02:31.920><c> oft</c><00:02:32.370><c> nicht</c><00:02:32.670><c> alle</c><00:02:32.880><c> tags</c>
+
+00:02:33.199 --> 00:02:33.209 align:start position:0%
+oder da er aber oft nicht alle tags
+ 
+
+00:02:33.209 --> 00:02:35.510 align:start position:0%
+oder da er aber oft nicht alle tags
+ansprechen<00:02:33.720><c> wollte</c><00:02:33.989><c> haben</c><00:02:34.470><c> wir</c><00:02:34.530><c> schon</c><00:02:34.830><c> id</c><00:02:35.310><c> und</c>
+
+00:02:35.510 --> 00:02:35.520 align:start position:0%
+ansprechen wollte haben wir schon id und
+ 
+
+00:02:35.520 --> 00:02:38.770 align:start position:0%
+ansprechen wollte haben wir schon id und
+kreis<00:02:36.030><c> kennen</c><00:02:36.300><c> gelernt</c><00:02:36.800><c> um</c><00:02:37.800><c> in</c><00:02:37.980><c> css</c>
+
+00:02:38.770 --> 00:02:38.780 align:start position:0%
+kreis kennen gelernt um in css
+ 
+
+00:02:38.780 --> 00:02:41.120 align:start position:0%
+kreis kennen gelernt um in css
+ansprechen<00:02:39.780><c> zu</c><00:02:39.870><c> können</c><00:02:39.930><c> benutzt</c><00:02:40.620><c> ihr</c><00:02:40.739><c> einfach</c>
+
+00:02:41.120 --> 00:02:41.130 align:start position:0%
+ansprechen zu können benutzt ihr einfach
+ 
+
+00:02:41.130 --> 00:02:43.190 align:start position:0%
+ansprechen zu können benutzt ihr einfach
+einen<00:02:41.160><c> herrscht</c><00:02:41.610><c> werk</c><00:02:41.850><c> dahinter</c><00:02:42.720><c> schreibt</c><00:02:42.989><c> er</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+einen herrscht werk dahinter schreibt er
+ 
+
+00:02:43.200 --> 00:02:44.840 align:start position:0%
+einen herrscht werk dahinter schreibt er
+jetzt<00:02:43.230><c> den</c><00:02:43.530><c> namen</c><00:02:43.739><c> der</c><00:02:44.040><c> id</c><00:02:44.310><c> die</c><00:02:44.670><c> eher</c>
+
+00:02:44.840 --> 00:02:44.850 align:start position:0%
+jetzt den namen der id die eher
+ 
+
+00:02:44.850 --> 00:02:47.120 align:start position:0%
+jetzt den namen der id die eher
+ansprechen<00:02:45.360><c> wollte</c><00:02:45.690><c> und</c><00:02:46.500><c> schon</c><00:02:46.560><c> ändert</c><00:02:47.040><c> ihr</c>
+
+00:02:47.120 --> 00:02:47.130 align:start position:0%
+ansprechen wollte und schon ändert ihr
+ 
+
+00:02:47.130 --> 00:02:50.090 align:start position:0%
+ansprechen wollte und schon ändert ihr
+den<00:02:47.280><c> tag</c><00:02:47.400><c> mit</c><00:02:47.820><c> der</c><00:02:47.940><c> jeweiligen</c><00:02:48.650><c> für</c><00:02:49.650><c> klassen</c>
+
+00:02:50.090 --> 00:02:50.100 align:start position:0%
+den tag mit der jeweiligen für klassen
+ 
+
+00:02:50.100 --> 00:02:51.430 align:start position:0%
+den tag mit der jeweiligen für klassen
+benötigt<00:02:50.550><c> ihr</c><00:02:50.700><c> dagegen</c><00:02:50.880><c> einen</c><00:02:51.300><c> punkt</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+benötigt ihr dagegen einen punkt
+ 
+
+00:02:51.440 --> 00:02:53.540 align:start position:0%
+benötigt ihr dagegen einen punkt
+dahinter<00:02:52.440><c> schreibt</c><00:02:52.800><c> ihr</c><00:02:53.010><c> jetzt</c><00:02:53.220><c> den</c><00:02:53.340><c> namen</c>
+
+00:02:53.540 --> 00:02:53.550 align:start position:0%
+dahinter schreibt ihr jetzt den namen
+ 
+
+00:02:53.550 --> 00:02:56.360 align:start position:0%
+dahinter schreibt ihr jetzt den namen
+der<00:02:53.940><c> klasse</c><00:02:54.300><c> und</c><00:02:55.290><c> schon</c><00:02:55.440><c> ändert</c><00:02:55.980><c> ihr</c><00:02:56.069><c> alle</c>
+
+00:02:56.360 --> 00:02:56.370 align:start position:0%
+der klasse und schon ändert ihr alle
+ 
+
+00:02:56.370 --> 00:02:58.940 align:start position:0%
+der klasse und schon ändert ihr alle
+tags<00:02:56.730><c> mit</c><00:02:56.880><c> der</c><00:02:57.030><c> jeweiligen</c><00:02:57.420><c> klasse</c><00:02:57.989><c> natürlich</c>
+
+00:02:58.940 --> 00:02:58.950 align:start position:0%
+tags mit der jeweiligen klasse natürlich
+ 
+
+00:02:58.950 --> 00:03:00.860 align:start position:0%
+tags mit der jeweiligen klasse natürlich
+könnt<00:02:59.130><c> ihr</c><00:02:59.160><c> auch</c><00:02:59.340><c> mehrere</c><00:02:59.850><c> klassen</c><00:03:00.239><c> oder</c><00:03:00.420><c> ids</c>
+
+00:03:00.860 --> 00:03:00.870 align:start position:0%
+könnt ihr auch mehrere klassen oder ids
+ 
+
+00:03:00.870 --> 00:03:02.750 align:start position:0%
+könnt ihr auch mehrere klassen oder ids
+ansprechen<00:03:01.500><c> dafür</c><00:03:02.040><c> schreibt</c><00:03:02.310><c> ihr</c><00:03:02.430><c> vor</c><00:03:02.610><c> die</c>
+
+00:03:02.750 --> 00:03:02.760 align:start position:0%
+ansprechen dafür schreibt ihr vor die
+ 
+
+00:03:02.760 --> 00:03:04.699 align:start position:0%
+ansprechen dafür schreibt ihr vor die
+klammern<00:03:03.150><c> einfach</c><00:03:03.630><c> alle</c><00:03:03.930><c> elemente</c><00:03:04.440><c> die</c><00:03:04.560><c> er</c>
+
+00:03:04.699 --> 00:03:04.709 align:start position:0%
+klammern einfach alle elemente die er
+ 
+
+00:03:04.709 --> 00:03:06.940 align:start position:0%
+klammern einfach alle elemente die er
+ändern<00:03:05.100><c> wollt</c><00:03:05.400><c> mit</c><00:03:05.580><c> einem</c><00:03:05.730><c> komma</c><00:03:06.000><c> getrennt</c>
+
+00:03:06.940 --> 00:03:06.950 align:start position:0%
+ändern wollt mit einem komma getrennt
+ 
+
+00:03:06.950 --> 00:03:09.259 align:start position:0%
+ändern wollt mit einem komma getrennt
+das<00:03:07.950><c> funktioniert</c><00:03:08.459><c> natürlich</c><00:03:08.549><c> auch</c><00:03:08.910><c> bei</c>
+
+00:03:09.259 --> 00:03:09.269 align:start position:0%
+das funktioniert natürlich auch bei
+ 
+
+00:03:09.269 --> 00:03:12.289 align:start position:0%
+das funktioniert natürlich auch bei
+normalen<00:03:09.780><c> texier</c><00:03:10.140><c> merkt</c><00:03:10.769><c> euch</c><00:03:10.799><c> jetzt</c><00:03:11.040><c> in</c><00:03:11.579><c> css</c>
+
+00:03:12.289 --> 00:03:12.299 align:start position:0%
+normalen texier merkt euch jetzt in css
+ 
+
+00:03:12.299 --> 00:03:14.750 align:start position:0%
+normalen texier merkt euch jetzt in css
+könnt<00:03:12.570><c> ihr</c><00:03:12.660><c> dies</c><00:03:13.110><c> mit</c><00:03:13.320><c> hashtag</c><00:03:13.860><c> und</c><00:03:14.340><c> klassen</c>
+
+00:03:14.750 --> 00:03:14.760 align:start position:0%
+könnt ihr dies mit hashtag und klassen
+ 
+
+00:03:14.760 --> 00:03:17.150 align:start position:0%
+könnt ihr dies mit hashtag und klassen
+mit<00:03:14.970><c> punkt</c><00:03:15.329><c> ansprechen</c><00:03:15.570><c> und</c><00:03:16.560><c> das</c><00:03:16.890><c> war</c><00:03:17.070><c> es</c><00:03:17.130><c> auch</c>
+
+00:03:17.150 --> 00:03:17.160 align:start position:0%
+mit punkt ansprechen und das war es auch
+ 
+
+00:03:17.160 --> 00:03:18.890 align:start position:0%
+mit punkt ansprechen und das war es auch
+schon<00:03:17.310><c> für</c><00:03:17.519><c> heute</c><00:03:17.700><c> was</c><00:03:18.360><c> solltet</c><00:03:18.720><c> ihr</c><00:03:18.750><c> jetzt</c>
+
+00:03:18.890 --> 00:03:18.900 align:start position:0%
+schon für heute was solltet ihr jetzt
+ 
+
+00:03:18.900 --> 00:03:21.740 align:start position:0%
+schon für heute was solltet ihr jetzt
+alles<00:03:19.320><c> wissen</c><00:03:19.650><c> in</c><00:03:20.280><c> css</c><00:03:21.030><c> wird</c><00:03:21.299><c> ein</c><00:03:21.390><c> attribut</c>
+
+00:03:21.740 --> 00:03:21.750 align:start position:0%
+alles wissen in css wird ein attribut
+ 
+
+00:03:21.750 --> 00:03:23.449 align:start position:0%
+alles wissen in css wird ein attribut
+immer<00:03:22.170><c> mit</c><00:03:22.380><c> dem</c><00:03:22.500><c> jeweiligen</c><00:03:22.980><c> wert</c>
+
+00:03:23.449 --> 00:03:23.459 align:start position:0%
+immer mit dem jeweiligen wert
+ 
+
+00:03:23.459 --> 00:03:25.670 align:start position:0%
+immer mit dem jeweiligen wert
+dargestellt<00:03:24.120><c> diese</c><00:03:24.630><c> attribute</c><00:03:24.900><c> können</c><00:03:25.350><c> dann</c>
+
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+dargestellt diese attribute können dann
+ 
+
+00:03:25.680 --> 00:03:27.860 align:start position:0%
+dargestellt diese attribute können dann
+im<00:03:25.799><c> style</c><00:03:26.100><c> attribut</c><00:03:26.730><c> oder</c><00:03:27.209><c> im</c><00:03:27.360><c> stylecheck</c>
+
+00:03:27.860 --> 00:03:27.870 align:start position:0%
+im style attribut oder im stylecheck
+ 
+
+00:03:27.870 --> 00:03:30.199 align:start position:0%
+im style attribut oder im stylecheck
+verwendet<00:03:28.500><c> werden</c><00:03:28.890><c> das</c><00:03:29.549><c> teilt</c><00:03:29.940><c> eck</c>
+
+00:03:30.199 --> 00:03:30.209 align:start position:0%
+verwendet werden das teilt eck
+ 
+
+00:03:30.209 --> 00:03:32.420 align:start position:0%
+verwendet werden das teilt eck
+beziehungsweise<00:03:30.810><c> das</c><00:03:31.260><c> externe</c><00:03:31.829><c> css</c>
+
+00:03:32.420 --> 00:03:32.430 align:start position:0%
+beziehungsweise das externe css
+ 
+
+00:03:32.430 --> 00:03:34.310 align:start position:0%
+beziehungsweise das externe css
+funktioniert<00:03:33.090><c> besser</c><00:03:33.299><c> da</c><00:03:33.870><c> dort</c><00:03:34.170><c> alle</c>
+
+00:03:34.310 --> 00:03:34.320 align:start position:0%
+funktioniert besser da dort alle
+ 
+
+00:03:34.320 --> 00:03:35.990 align:start position:0%
+funktioniert besser da dort alle
+anzusprechen<00:03:34.890><c> den</c><00:03:35.280><c> text</c><00:03:35.609><c> reingeschrieben</c>
+
+00:03:35.990 --> 00:03:36.000 align:start position:0%
+anzusprechen den text reingeschrieben
+ 
+
+00:03:36.000 --> 00:03:38.890 align:start position:0%
+anzusprechen den text reingeschrieben
+werden<00:03:36.269><c> können</c><00:03:37.240><c> wie</c><00:03:38.240><c> schreibt</c><00:03:38.450><c> man</c><00:03:38.510><c> bessere</c>
+
+00:03:38.890 --> 00:03:38.900 align:start position:0%
+werden können wie schreibt man bessere
+ 
+
+00:03:38.900 --> 00:03:41.290 align:start position:0%
+werden können wie schreibt man bessere
+noten<00:03:39.140><c> ohne</c><00:03:39.260><c> aufwand</c><00:03:39.800><c> möglich</c><00:03:40.460><c> obwohl</c><00:03:40.880><c> die</c>
+
+00:03:41.290 --> 00:03:41.300 align:start position:0%
+noten ohne aufwand möglich obwohl die
+ 
+
+00:03:41.300 --> 00:03:43.090 align:start position:0%
+noten ohne aufwand möglich obwohl die
+simple<00:03:41.780><c> klappt</c><00:03:42.080><c> es</c><00:03:42.290><c> da</c><00:03:42.560><c> hast</c><00:03:42.830><c> du</c><00:03:42.860><c> zu</c><00:03:43.010><c> jedem</c>
+
+00:03:43.090 --> 00:03:43.100 align:start position:0%
+simple klappt es da hast du zu jedem
+ 
+
+00:03:43.100 --> 00:03:45.040 align:start position:0%
+simple klappt es da hast du zu jedem
+thema<00:03:43.640><c> die</c><00:03:43.790><c> besten</c><00:03:44.050><c> übungsaufgaben</c>
+
+00:03:45.040 --> 00:03:45.050 align:start position:0%
+thema die besten übungsaufgaben
+ 
+
+00:03:45.050 --> 00:03:48.760 align:start position:0%
+thema die besten übungsaufgaben
+einfacher<00:03:45.680><c> wird</c><00:03:45.890><c> es</c><00:03:46.010><c> nicht</c><00:03:46.340><c> ganz</c><00:03:46.490><c> gut</c>
+

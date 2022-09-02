@@ -1,0 +1,286 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.470 --> 00:00:01.470
+Moiin ihr Banausen!
+
+00:00:01.470 --> 00:00:05.600
+Damit ihr nicht immer alles im Kopf machen
+müsst gibt’s heut den Code zum Sortierverfahren
+
+00:00:05.600 --> 00:00:06.729
+Selection Sort.
+
+00:00:06.729 --> 00:00:07.729
+Uuund bitte!
+
+00:00:07.729 --> 00:00:17.810
+Jo bevor wir in die Tasten hauen, kurzer Refresher:
+Bei Selection Sort wird das Array Stück für
+
+00:00:17.810 --> 00:00:21.470
+Stück durchgegangen und nach dem kleinsten
+oder größten Element gesucht.
+
+00:00:21.470 --> 00:00:23.789
+Je nachdem wie ihr es sortiert haben wollt.
+
+00:00:23.789 --> 00:00:29.019
+Das wird dann nach vorne gesetzt und das Prozedere
+geht aber der nächsten Stelle im Array weiter.
+
+00:00:29.019 --> 00:00:30.399
+Seit ihr wieder alle im Loop?
+
+00:00:30.399 --> 00:00:32.149
+Gut dann ab in Java!
+
+00:00:32.149 --> 00:00:34.400
+Zu aller erst bauen wir uns die Methode.
+
+00:00:34.400 --> 00:00:39.810
+Da wir ja am Ende ein Array zurückgeben wollen
+müssen wir des im Rückgabetyp auch so definieren.
+
+00:00:39.810 --> 00:00:43.020
+Deswegen stehen nach dem int die eckigen Klammern.
+
+00:00:43.020 --> 00:00:45.390
+Als Parameter übergeben wir auch ein Array.
+
+00:00:45.390 --> 00:00:47.000
+Das nennen wir mal „sort“.
+
+00:00:47.000 --> 00:00:49.120
+Jetzt brauchen wir zwei For-Schleifen.
+
+00:00:49.120 --> 00:00:54.030
+Die erste For Schleife fängt beim ersten
+Eintrag im Array an deswegen startet die Variable
+
+00:00:54.030 --> 00:00:55.470
+i bei null.
+
+00:00:55.470 --> 00:00:58.870
+Die Schleife zählt so lange hoch, bis sie
+am Ende angekommen ist.
+
+00:00:58.870 --> 00:01:04.130
+Die zweite For Schleife, also die innere Schleife
+beginnt einen Eintrag danach und geht logischerweise
+
+00:01:04.130 --> 00:01:05.260
+auch bis zum Ende.
+
+00:01:05.260 --> 00:01:08.260
+Damit können wir dann die Zahlen miteinander
+vergleichen.
+
+00:01:08.260 --> 00:01:11.140
+In der inneren Schleife passiert dann das
+ganze Wunder!
+
+00:01:11.140 --> 00:01:15.890
+Mit der If Bedingung vergleichen wir ob die
+restlichen Zahlen des Arrays kleiner sind,
+
+00:01:15.890 --> 00:01:18.330
+als die erste Zahl im unsortierten Array.
+
+00:01:18.330 --> 00:01:22.870
+Ist das der Fall, muss natürlich die kleinere
+Zahl mit der größeren getauscht werden.
+
+00:01:22.870 --> 00:01:25.470
+Genau das passiert im If Case.
+
+00:01:25.470 --> 00:01:30.200
+Diese drei Zeilen werden oft auch als Swap
+oder Tausche Methode definiert.
+
+00:01:30.200 --> 00:01:32.150
+Wir schauen gleich mal wie die funktioniert.
+
+00:01:32.150 --> 00:01:36.960
+Haben wir alle Zahlen überprüft, verlassen
+wir die innere Schleife und springen wieder
+
+00:01:36.960 --> 00:01:37.960
+in die erste Schleife.
+
+00:01:37.960 --> 00:01:41.409
+Die wird um eins erhöht und der selbe Spaß
+beginnt wieder in der inneren Schleife.
+
+00:01:41.409 --> 00:01:45.240
+Sind wir alles einmal durch, schließen wir
+die Erste Schleife und geben mit “return
+
+00:01:45.240 --> 00:01:46.830
+sort” das sortierte Array zurück.
+
+00:01:46.830 --> 00:01:49.450
+Checken wir das doch nochmal ab
+
+00:01:49.450 --> 00:01:54.400
+Die erste For Schleife fängt bei Index 0
+an.
+
+00:01:54.400 --> 00:01:55.530
+Das ist dann die 9.
+
+00:01:55.530 --> 00:01:58.510
+Die innere For Schleife beginnt ein Index
+danach.
+
+00:01:58.510 --> 00:01:59.510
+Das ist die 5.
+
+00:01:59.510 --> 00:02:03.170
+Jetzt vergleichen wir:
+Ist 5 kleiner als 9?
+
+00:02:03.170 --> 00:02:04.170
+Ja!
+
+00:02:04.170 --> 00:02:05.420
+Dann tausche 5 gegen 9.
+
+00:02:05.420 --> 00:02:11.730
+Dazu wird einfach der aktuelle Eintrag von
+i das ist die 9 in einer Variable “speischer”
+
+00:02:11.730 --> 00:02:12.730
+gelegt.
+
+00:02:12.730 --> 00:02:15.569
+Dann bekommt der aktuelle Eintrag von i die
+Zahl 5.
+
+00:02:15.569 --> 00:02:19.020
+Und der Eintrag von j die Zahl im Speischer,
+also die 9.
+
+00:02:19.020 --> 00:02:21.660
+Und Schwups die wupps sind die Zahlen getauscht.
+
+00:02:21.660 --> 00:02:25.560
+Danach geht die innere For Schleife eins weiter
+und vergleicht wieder.
+
+00:02:25.560 --> 00:02:29.060
+Die äußere For Schleife ist immer noch beim
+ersten Eintrag.
+
+00:02:29.060 --> 00:02:33.360
+Erst wenn wir die innere komplett durch haben,
+springt die äußere eins weiter.
+
+00:02:33.360 --> 00:02:34.870
+Macht Sinn, oder?
+
+00:02:34.870 --> 00:02:35.870
+Läuft!
+
+00:02:35.870 --> 00:02:39.670
+Ballern wir noch unsre Main Methode hin und
+überprüfen ob das auch tatsächlich funktioniert.
+
+00:02:39.670 --> 00:02:43.950
+In der Main Methode erstellen wir erst mal
+ein Array mit unsortierten Zahlen
+
+00:02:43.950 --> 00:02:47.650
+Das ganze kann man mit einer For Schleife
+auf der Konsole ausgeben.
+
+00:02:47.650 --> 00:02:51.660
+Die For Schleife brauchen wir um jeden Eintrag
+im Array ausgeben zu lassen.
+
+00:02:51.660 --> 00:02:56.730
+Jetzt erstellen wir ein neues Array und sagen
+es soll uns das sortierte Array von Selection
+
+00:02:56.730 --> 00:02:57.770
+Sort erstellen.
+
+00:02:57.770 --> 00:03:01.130
+Das ganze geben wir wie oben mit einer For
+Schleife aus.
+
+00:03:01.130 --> 00:03:05.870
+Hier ist es nützlich ein Komma oder wie wir
+so nen Strich einzufügen, damit man das Array
+
+00:03:05.870 --> 00:03:07.360
+auf der Konsole leichter erkennt.
+
+00:03:07.360 --> 00:03:11.050
+Geben wir das jetzt aus erhalten wir folgendes
+auf der Konsole:
+
+00:03:11.050 --> 00:03:14.250
+Einmal die Zierfische unsortiert und einmal
+schön sortiert.
+
+00:03:14.250 --> 00:03:15.300
+Na gott sei Dank!
+
+00:03:15.300 --> 00:03:17.319
+Jetzt kann ich auch wieder beruhigt schlafen.
+
+00:03:17.319 --> 00:03:20.500
+Am besten ihr probiert die Methode selbst
+mal mit ein paar Arrays aus.
+
+00:03:20.500 --> 00:03:25.700
+Und versucht mal das Programm so um zu schreiben,
+dass die größte Zahl am Anfang steht.
+
+00:03:25.700 --> 00:03:28.269
+Wat kann ich jetzt über die Implementierung
+sagen?
+
+00:03:28.269 --> 00:03:31.810
+Um Selection Sort zu implementieren brauchen
+wir zwei For-Schleifen.
+
+00:03:31.810 --> 00:03:34.980
+Die Äußere stellt quasi das sortierte Array
+dar.
+
+00:03:34.980 --> 00:03:37.580
+In der Inneren passiert die ganze Magie.
+
+00:03:37.580 --> 00:03:41.230
+Hier gehen wir die Zahlen durch und vergleichen
+sie mit einer If Anweisung.
+
+00:03:41.230 --> 00:03:44.120
+Die Einträge werden getauscht, sobald die
+Bedingung eintrifft.
+
+00:03:44.120 --> 00:03:47.739
+Danach verlassen wir die innere Schleife,
+zählen die äußere hoch und beginnen mit
+
+00:03:47.739 --> 00:03:49.460
+dem Spaß von vorne.
+
+00:03:49.460 --> 00:03:51.920
+Am Ende erhalten wir ein schön sortiertes
+Array.
+
+00:03:51.920 --> 00:03:52.920
+Nice!
+
+00:03:52.920 --> 00:03:59.180
+Wenn ihr jetzt bock auf mehr geile Programme
+habt, dann schaut bei TheSimpleClub vorbei.
+
+00:03:59.180 --> 00:03:59.930
+Haut rein
+Bis gleich
+

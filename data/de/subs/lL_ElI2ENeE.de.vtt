@@ -1,0 +1,474 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.149 --> 00:00:03.000
+Ja is denn schon wieder Zeit für en neues
+Video?
+
+00:00:03.000 --> 00:00:06.380
+Wir schauens uns heute mal an was en Join
+in SQL is.
+
+00:00:06.380 --> 00:00:07.529
+Nene, kein Joint.
+
+00:00:07.529 --> 00:00:08.529
+Ein Join!
+
+00:00:08.529 --> 00:00:09.529
+Wichtiger Unterschied.
+
+00:00:09.529 --> 00:00:12.799
+Join heißt ja erstmal soviel wie verbinden
+oder vereinigen.
+
+00:00:12.799 --> 00:00:18.199
+Ein Join ist in SQL grob gesagt dazu da zwei
+oder mehrere Tabellen über ihre Spalten miteinander
+
+00:00:18.199 --> 00:00:20.500
+,für die Ausgabe, zu verknüpfen.
+
+00:00:20.500 --> 00:00:22.509
+Aber ohne viel zu labern schauen wir uns des
+gleich an!
+
+00:00:22.509 --> 00:00:30.700
+Ein paar werden jetzt wahrscheinlich sagen:
+
+00:00:30.700 --> 00:00:31.700
+“Häh?
+
+00:00:31.700 --> 00:00:33.070
+Wieso braucht man da überhaupt en Join um
+Tabellen zusammen ausgeben zu lassen?
+
+00:00:33.070 --> 00:00:34.070
+Gute Frage.
+
+00:00:34.070 --> 00:00:36.770
+Schauen wir uns des glei mal am Beispiel vom
+Film und Regisseur an!
+
+00:00:36.770 --> 00:00:40.160
+Wir ham jetzt wieder unsere beiden Tabellen
+Film und Regisseur.
+
+00:00:40.160 --> 00:00:44.420
+Wenn wir jetzt beide Tabellen miteinander
+ausgeben wollen, hätten wir folgende Anweisung.
+
+00:00:44.420 --> 00:00:48.820
+Damit würden jetzt also alle Zeilen und Spalten
+beider Tabellen ausgegeben werden.
+
+00:00:48.820 --> 00:00:51.550
+Die Ergebnistabelle sähe dann so aus.
+
+00:00:51.550 --> 00:00:56.020
+Es wird quasi jede Zeile der einen Tabelle
+mit jeder Zeile der anderen Zeile verknüpft.
+
+00:00:56.020 --> 00:00:57.740
+Das ist jetzt auch schon ein Join.
+
+00:00:57.740 --> 00:01:00.630
+Tja, des is jetzt aber mal gar nich sinnvoll.
+
+00:01:00.630 --> 00:01:04.330
+Sinnvoll wäre ja eigentlich nur die Filme
+mit dem jeweiligen Regisseur verknüpfen,der
+
+00:01:04.330 --> 00:01:05.460
+dafür verantwortlich is.
+
+00:01:05.460 --> 00:01:08.780
+Und genau dafür gibt jetzt auch noch weitere
+Joinarten.
+
+00:01:08.780 --> 00:01:12.960
+Mit denen können wir dann schauen ob bestimmte
+Spalten den gleichen Wert enthalten.
+
+00:01:12.960 --> 00:01:17.880
+Bei uns also zum Beispiel ob in Regisseur
+und in Regisseur Id die gleichen Werte drinstehen.
+
+00:01:17.880 --> 00:01:21.650
+Wie das jetzt funktioniert und was es für
+verschiedene Join Arten gibt, schauen wir
+
+00:01:21.650 --> 00:01:22.650
+uns jetzt an.
+
+00:01:22.650 --> 00:01:25.810
+Bevor wir starten, schauen wir uns ganz schnell
+was wichtiges an.
+
+00:01:25.810 --> 00:01:29.560
+Beim Verknüpfen kann es jetzt passieren,
+dass wir Spalten aus verschiedenen Tabellen
+
+00:01:29.560 --> 00:01:31.710
+haben, die den gleichen Namen haben.
+
+00:01:31.710 --> 00:01:35.780
+Dann müssen wir vor den jeweiligen Spalten
+noch mit einem Punkt getrennt den Tabellennamen
+
+00:01:35.780 --> 00:01:38.320
+angeben, weil SQL sonst nicht mehr durchblickt.
+
+00:01:38.320 --> 00:01:40.470
+Und ihr selbst wahrscheinlich auch net.
+
+00:01:40.470 --> 00:01:42.620
+Also, des im Hinterkopf behalten!
+
+00:01:42.620 --> 00:01:43.910
+Aber jetzt zu den Joins!
+
+00:01:43.910 --> 00:01:45.670
+Zu allererst der Cross Join.
+
+00:01:45.670 --> 00:01:50.120
+Der fällt jetzt en bisl aus der Reihe, da
+er gar nicht auf die Gleichheit von Spaltenwerten
+
+00:01:50.120 --> 00:01:51.120
+schaut.
+
+00:01:51.120 --> 00:01:54.380
+Mit dem Cross Join kriegen wir genau sowas
+hin, wie wir vorhin erzeugt haben.
+
+00:01:54.380 --> 00:01:59.260
+Nämlich dass jede Zeile von Tabelle A mit
+jeder Zeile von Tabelle B zusammengeführt
+
+00:01:59.260 --> 00:02:00.260
+wird.
+
+00:02:00.260 --> 00:02:02.710
+Mathematiker kennen des natürlich als kartesisches
+Produkt.
+
+00:02:02.710 --> 00:02:07.720
+Die Gesamtzeilen der Ausgabe kriegen wir dann,
+indem wir die Anzahl der Zeilen von der einen
+
+00:02:07.720 --> 00:02:10.849
+Tabelle mit der Anzahl der Zeilen der anderen
+Tabelle multiplizieren.
+
+00:02:10.849 --> 00:02:14.790
+Für nen Cross Join schreiben wir in SQL unsere
+normale Abfrage.
+
+00:02:14.790 --> 00:02:17.319
+Hinter From geben wir jetzt Tabelle1 an.
+
+00:02:17.319 --> 00:02:20.859
+Dahinter kommt dann ein cross join und der
+Name von Tabelle2.
+
+00:02:20.859 --> 00:02:25.849
+Wenn wir hinter from jetzt also unsere Tabellen
+schreiben, ist das einfach ein Cross Join
+
+00:02:25.849 --> 00:02:27.310
+nur ohne die Join Anweisung.
+
+00:02:27.310 --> 00:02:29.920
+Der Cross Join is also net wirklich so sinnvoll.
+
+00:02:29.920 --> 00:02:31.450
+Da schauen wir lieber gleich weiter!
+
+00:02:31.450 --> 00:02:34.510
+Der bekannteste Join ist wahrscheinlich der
+Inner Join.
+
+00:02:34.510 --> 00:02:38.650
+Beim Inner Join werden jetzt nur die Zeilen
+ausgegeben, bei denen die Werte von bestimmten
+
+00:02:38.650 --> 00:02:40.090
+Spalten aus den Tabellen übereinstimmen.
+
+00:02:40.090 --> 00:02:45.019
+Wenn die zu überprüfenden Spalten jetzt
+aber einen Wert nicht gemeinsam haben, wird
+
+00:02:45.019 --> 00:02:46.180
+die Zeile einfach verworfen.
+
+00:02:46.180 --> 00:02:49.769
+In SQL können wir den Inner Join auf zwei
+Arten formulieren.
+
+00:02:49.769 --> 00:02:52.959
+Am Besten nimmt man einfach die Inner Join
+Anweisung.
+
+00:02:52.959 --> 00:02:57.950
+Dabei können wir anstatt inner join auch
+einfach join schreiben, da das in SQL automatisch
+
+00:02:57.950 --> 00:02:59.200
+als inner join funtioniert.
+
+00:02:59.200 --> 00:03:02.819
+In die Select Zeile schreiben wir erstmal
+auf was wir wollen.
+
+00:03:02.819 --> 00:03:05.139
+In From schreiben wir erstmal die Tabelle1.
+
+00:03:05.139 --> 00:03:09.150
+Dahinter kommt jetzt ein Join und der Name
+der anderen Tabelle.
+
+00:03:09.150 --> 00:03:10.379
+Danach kommt jetzt noch ein on.
+
+00:03:10.379 --> 00:03:14.510
+Da geben wir jetzt an, für welche Spalten
+die Werte überprüft werden sollen.
+
+00:03:14.510 --> 00:03:18.859
+Somit wird jetzt für alle Zeilen überprüft,
+ob diese beiden Spalten den gleichen Wert
+
+00:03:18.859 --> 00:03:19.859
+enthalten.
+
+00:03:19.859 --> 00:03:24.469
+In neueren SQL Datenbanken kann man anstatt
+dem on ein using schreiben, aber nur wenn
+
+00:03:24.469 --> 00:03:26.489
+die Spalten den gleichen Namen haben.
+
+00:03:26.489 --> 00:03:29.060
+Schauen wir uns des mal mit Film und Regisseur
+an.
+
+00:03:29.060 --> 00:03:34.209
+Hier macht es jetzt natürlich Sinn, den Fremdschlüssel
+Regisseur mit dem Primärschlüssel RegisseurId
+
+00:03:34.209 --> 00:03:36.689
+aus Tabelle Regisseur miteinander zu vergleichen.
+
+00:03:36.689 --> 00:03:41.370
+Als erstes schreiben wir also unsere Tabelle
+Film hinter From, gejoint mit der Tabelle
+
+00:03:41.370 --> 00:03:42.370
+Regisseur.
+
+00:03:42.370 --> 00:03:46.260
+Hinter on kommt jetzt unser Fremdschlüssel
+Regisseur aus Tabelle Film gleich unserem
+
+00:03:46.260 --> 00:03:49.319
+Primärschlüssel RegisseurId aus Tabelle
+Regisseur.
+
+00:03:49.319 --> 00:03:54.219
+Somit werden jetzt nur die Zeilen ausgegeben
+bei denen der Wert gleich ist.
+
+00:03:54.219 --> 00:03:56.819
+Unsere Tabelle ohne Join sah ja so aus.
+
+00:03:56.819 --> 00:04:00.489
+Durch den InnerJoin wurde jetzt diese Tabelle
+ausgegeben.
+
+00:04:00.489 --> 00:04:02.200
+Wesentlicher sinnvoller oder?
+
+00:04:02.200 --> 00:04:07.749
+Wer des Join jetzt noch nicht so mag, kann
+Inner Join auch ohne die Anweisung formulieren.
+
+00:04:07.749 --> 00:04:10.790
+Dafür schreib man in From dann einfach beide
+Tabellen rein.
+
+00:04:10.790 --> 00:04:14.760
+In Where schreibt man jetzt einfach wieder,,
+welche Spalten miteinander verglichen werden
+
+00:04:14.760 --> 00:04:15.760
+sollen.
+
+00:04:15.760 --> 00:04:17.590
+Somit kriegt man dann die gleiche Ausgabe.
+
+00:04:17.590 --> 00:04:21.959
+Die anderen Joins kann man natürlich auch
+ohne die jeweiligen Join Anweisungen erreichen,
+
+00:04:21.959 --> 00:04:26.000
+aber da das teilweise zu kompliziert ist,
+ham wir des jetzt nur beim Inner Join gemacht!
+
+00:04:26.000 --> 00:04:29.009
+So dann gehts zum Natural Join.
+
+00:04:29.009 --> 00:04:32.580
+Bei dem muss man keine Spalten angeben, die
+verglichen werden sollen.
+
+00:04:32.580 --> 00:04:36.990
+Natural Join vergleicht dabei automatisch
+Spalten die den gleichen Namen haben.
+
+00:04:36.990 --> 00:04:41.080
+Außerdem wird die zweite Spalte dann gelöscht,
+da sie ja den gleichen Namen trägt und in
+
+00:04:41.080 --> 00:04:45.009
+der Ergebnistabelle die gleichen Werte wie
+die Spalte aus der 1. Tabelle hat.
+
+00:04:45.009 --> 00:04:49.360
+In SQL schreibt man dabei einfach ein natural
+join zwischen die Tabellen die verglichen
+
+00:04:49.360 --> 00:04:50.360
+werden sollen.
+
+00:04:50.360 --> 00:04:54.930
+Ein Natural Join kann also gleichzeitig alle
+Spalten miteinander vergleichen die den gleichen
+
+00:04:54.930 --> 00:04:55.930
+Namen haben.
+
+00:04:55.930 --> 00:05:00.270
+Wenn jetzt nur zwei Spalten den gleichen Namen
+haben, liefert er das gleiche Ergebnis wie
+
+00:05:00.270 --> 00:05:04.509
+ein Inner Join, aber die zwei Spalten werden
+noch zusammengefasst.
+
+00:05:04.509 --> 00:05:08.870
+Wenn keine Spalten der Tabellen den gleichen
+Namen haben, liefert Natural Join das gleiche
+
+00:05:08.870 --> 00:05:10.979
+Ergebnis wie ein Cross Join.
+
+00:05:10.979 --> 00:05:14.419
+Gehen wir mal wieder von der Tabelle Film
+und Regisseur aus.
+
+00:05:14.419 --> 00:05:18.199
+Unseren Fremdschlüssel Regisseur benennen
+wir dabei in RegisseurId um.
+
+00:05:18.199 --> 00:05:21.729
+Dann wenden wir den natural join auf die beiden
+Tabellen an.
+
+00:05:21.729 --> 00:05:25.139
+Somit kriegen wir jetzt als Ausgabe ne ähnliche
+Tabelle wie beim inner join.
+
+00:05:25.139 --> 00:05:29.560
+Allerdings wird jetzt die Spalte RegisseurId
+aus Tabelle Regisseur gestrichen, da sie den
+
+00:05:29.560 --> 00:05:33.039
+gleichen Namen hat wie die Spalte RegisseurId
+aus der Tabelle Film.
+
+00:05:33.039 --> 00:05:36.819
+Wie wir bei Inner join gesehen haben, stehen
+da ja auch die gleichen Werte drin.
+
+00:05:36.819 --> 00:05:42.050
+So, das waren jetzt die wichtigsten Join Arten,weitere
+folgen dann im nächsten Video.
+
+00:05:42.050 --> 00:05:44.900
+Viele viele Infos, also fassen wir das mal
+alles zusammen.
+
+00:05:44.900 --> 00:05:49.509
+Ein Cross Join verbindet jede Zeile der einen
+Tabelle mit jeder Zeile einer anderen Tabelle.
+
+00:05:49.509 --> 00:05:54.270
+Die Gesamtzeilen der Ausgabe kriegen wir,
+indem wir die Anzahl der Zeilen von der einen
+
+00:05:54.270 --> 00:05:57.220
+Tabelle mit der Anzahl der Zeilen der anderen
+Tabelle multiplizieren.
+
+00:05:57.220 --> 00:06:02.800
+In SQL kann man hierfür eine cross Join Klausel
+verwenden oder die Tabellen hinter from schreiben.
+
+00:06:02.800 --> 00:06:07.330
+Mit einem Inner Join werden nur die Zeilen
+zurückgegeben, bei denen die Werte der angegebenen
+
+00:06:07.330 --> 00:06:08.520
+Spalten übereinstimmen.
+
+00:06:08.520 --> 00:06:13.990
+In SQL schreiben wir dafür ein join oder
+inner join und dahinter ein on mit Angabe
+
+00:06:13.990 --> 00:06:15.030
+der Spalten.
+
+00:06:15.030 --> 00:06:19.520
+Falls die Spalten den gleichen Namen haben,
+können wir ein using verwenden.
+
+00:06:19.520 --> 00:06:23.699
+Ein Natural Join werden automatisch die Werte
+für Spalten verglichen, die den gleichen
+
+00:06:23.699 --> 00:06:24.699
+Namen haben.
+
+00:06:24.699 --> 00:06:28.039
+Bei gleichen Spalten wird dabei die Spalte
+aus der zweiten Tabelle gelöscht.
+
+00:06:28.039 --> 00:06:30.909
+In SQL schreiben wir dafür ein natural join.
+
+00:06:30.909 --> 00:06:35.660
+Falls genau zwei Spalten den gleichen Namen
+haben, funktioniert Natural Join wie ein Inner
+
+00:06:35.660 --> 00:06:37.909
+Join, aber mit löschen einer Spalte.
+
+00:06:37.909 --> 00:06:42.130
+Falls es keine gleichnamigen Spalten gibt,
+wird er zum Cross Join.
+
+00:06:42.130 --> 00:06:43.410
+So Leude!
+
+00:06:43.410 --> 00:06:46.590
+Dat wars jetzt schon wieder für heute.
+
+00:06:46.590 --> 00:06:49.009
+Klickt doch gleich ins nächste Video.
+
+00:06:49.009 --> 00:06:51.430
+Ich bin auf jeden Fall da!
+

@@ -1,0 +1,213 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.140 --> 00:00:02.430
+Na ihr habt wohl immer noch nicht genug von
+Grammatiken!
+
+00:00:02.430 --> 00:00:03.750
+Das hab ich mir gedacht.
+
+00:00:03.750 --> 00:00:08.109
+Deswegen schauen wir uns heute ne konkrete
+Aufgabe dazu an und machen die durch!
+
+00:00:08.109 --> 00:00:09.109
+Los geht’s!
+
+00:00:09.109 --> 00:00:15.490
+Also, dann starten wir direkt mit der Aufgabe.
+
+00:00:15.490 --> 00:00:18.369
+Wir haben jetzt in der Klausur folgende Grammatik
+gegeben.
+
+00:00:18.369 --> 00:00:23.349
+Zuerst sollen wir drei Wörter angeben die
+nicht erkannt werden.
+
+00:00:23.349 --> 00:00:26.609
+Also Wörter durch die wir nicht durch ableiten
+kommen.
+
+00:00:26.609 --> 00:00:30.939
+Wir sehen schnell, dass Wörter nicht erkannt
+werden, wenn sie nicht mit b anfangen.
+
+00:00:30.939 --> 00:00:35.480
+Also zum Beispiel cbba, caab oder c.
+
+00:00:35.480 --> 00:00:39.590
+Natürlich gibt’s noch ganz viele andere
+wie abc, abb oder ab.
+
+00:00:39.590 --> 00:00:42.130
+Also eigentlich unendlich viele , die nicht
+erkannt werden.
+
+00:00:42.130 --> 00:00:47.080
+So nächste Aufgabe: jetzt sollen wir auch
+noch drei Wörter angeben, die von der Grammatik
+
+00:00:47.080 --> 00:00:48.080
+erkannt werden.
+
+00:00:48.080 --> 00:00:52.340
+Da nur Wörter erkannt werden, die mit b anfangen,
+muss das auf jeden Fall gelten.
+
+00:00:52.340 --> 00:00:59.570
+Möglich wäre zum Beispiel baac, baabb oder
+babaaca.
+
+00:00:59.570 --> 00:01:00.570
+Nice oooooooone!
+
+00:01:00.570 --> 00:01:02.670
+Dann gleich weiter zur nächsten Aufgabe!
+
+00:01:02.670 --> 00:01:09.020
+Als nächstes sollen wir eine Linksableitung
+des Wortes babaabaaca angeben.
+
+00:01:09.020 --> 00:01:13.210
+Wir müssen jetzt also durch die Anwendung
+der Regeln versuchen auf das Wort zu kommen.
+
+00:01:13.210 --> 00:01:18.060
+Zuerst starten wir natürlich mit dem S, da
+das ja die Startvariable ist.
+
+00:01:18.060 --> 00:01:20.909
+Von dem S kommen wir erstmal nur zu bA.
+
+00:01:20.909 --> 00:01:22.970
+Jetzt kommt im Wort nur ein a dran.
+
+00:01:22.970 --> 00:01:25.580
+Also gehen wir vom großen A zu aSA.
+
+00:01:25.580 --> 00:01:31.360
+Da in der Aufgabenstellung eine Linksableitung
+verlangt wird, schauen wir uns das große
+
+00:01:31.360 --> 00:01:32.909
+S vor dem großen A an.
+
+00:01:32.909 --> 00:01:33.909
+Weil?
+
+00:01:33.909 --> 00:01:34.909
+Richtig, du Schlauberger!
+
+00:01:34.909 --> 00:01:36.200
+Weil es weiter links steht!
+
+00:01:36.200 --> 00:01:38.880
+Vom S kommen wir jetzt wieder nur auf bA.
+
+00:01:38.880 --> 00:01:42.180
+In unserem Wort kommen als nächstes zwei
+a.
+
+00:01:42.180 --> 00:01:46.210
+Also gehen wir von dem linken großen A zu
+aaB.
+
+00:01:46.210 --> 00:01:50.140
+Als nächstes kommt ein b und danach wieder
+as.
+
+00:01:50.140 --> 00:01:53.039
+Also gehen wir vom großen B zu bA.
+
+00:01:53.039 --> 00:01:55.280
+So jetzt kommen wieder zwei a.
+
+00:01:55.280 --> 00:01:58.659
+Also gehen wir vom großen linken A wieder
+zu aaB.
+
+00:01:58.659 --> 00:02:01.039
+Jetzt kommt als nächstes ein c.
+
+00:02:01.039 --> 00:02:03.280
+Deswegen gehen wir vom großen B zu einem
+c.
+
+00:02:03.280 --> 00:02:04.530
+Das sieht doch gut aus!
+
+00:02:04.530 --> 00:02:07.270
+Jetzt bleibt noch ein kleines a übrig.
+
+00:02:07.270 --> 00:02:09.979
+Also gehen wir vom großen A zu einem a.
+
+00:02:09.979 --> 00:02:13.069
+Und schon haben wir eine Linksableitung des
+Wortes!
+
+00:02:13.069 --> 00:02:14.239
+Good one!
+
+00:02:14.239 --> 00:02:18.510
+Jetzt stellen wir uns noch die Frage ob die
+Grammatik kontextfrei oder regulär ist.
+
+00:02:18.510 --> 00:02:20.530
+Naa, was sagt ihr?
+
+00:02:20.530 --> 00:02:26.000
+Sie ist auf jeden Fall kontextfrei, da links
+vom Pfeil immer genau eine Variable drinsteht.
+
+00:02:26.000 --> 00:02:29.650
+Regularität trifft nicht zu, da rechts vom
+Pfeil ja nicht immer genau ein Symbol auf
+
+00:02:29.650 --> 00:02:31.620
+genau eine Variable folgt.
+
+00:02:31.620 --> 00:02:35.560
+Schaut euch dafür ruhig nochmal das Video
+zu den Grammatiken und das Video zu Regularität
+
+00:02:35.560 --> 00:02:37.349
+und Kontextfreiheit an!
+
+00:02:37.349 --> 00:02:38.880
+Fassen wir nochmal zusammen:
+
+00:02:38.880 --> 00:02:42.819
+Bei der Ableitung müsst ihr erstmal drauf
+achten ob eine Rechts- oder eine Linksableitung
+
+00:02:42.819 --> 00:02:44.569
+gefordert ist.
+
+00:02:44.569 --> 00:02:49.640
+Es wird also entweder die Variable ganze rechts
+oder die Variable ganz links zuerst abgeleitet.
+
+00:02:49.640 --> 00:02:52.660
+Dann wendet ihr die Regeln an und versucht
+so auf das Wort zu kommen.
+
+00:02:52.660 --> 00:02:54.920
+Falls es möglich ist, liegt das Wort in der
+Sprache.
+
+00:02:54.920 --> 00:02:57.420
+Falls nicht, liegt es nicht in der Sprache.
+
+00:02:57.420 --> 00:02:59.069
+Also dann!
+
+00:02:59.069 --> 00:03:00.720
+Fröhliches Schaffen!
+
+00:03:00.720 --> 00:03:05.500
+Pfiadi und Servus!
+

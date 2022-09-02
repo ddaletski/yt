@@ -1,0 +1,261 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.299 --> 00:00:04.160
+Na, wollt ihr euch alle mit ins Video joinen
+um noch en paar Joinarten zu lernen?
+
+00:00:04.160 --> 00:00:06.790
+Na dann!
+
+00:00:06.790 --> 00:00:07.790
+Los gehts!
+
+00:00:07.790 --> 00:00:17.680
+Was gibt es denn für ein Problem bei den
+bisherigen Joinarten?
+
+00:00:17.680 --> 00:00:18.680
+Rischtisch!
+
+00:00:18.680 --> 00:00:23.130
+Wenn jetzt ein Wert in der einen Spalte vorhanden
+ist, aber in der anderen nicht, wir die Zeile
+
+00:00:23.130 --> 00:00:25.169
+im Inner und Natural Join einfach gestrichen.
+
+00:00:25.169 --> 00:00:26.920
+Dat is ja schon ein bisl traurig!
+
+00:00:26.920 --> 00:00:31.880
+Dafür gibt es jetzt Left Outer Join, Right
+Outer Join und Full Outer Join.
+
+00:00:31.880 --> 00:00:33.769
+Schauen wir uns erstmal den Left Join an.
+
+00:00:33.769 --> 00:00:38.289
+Der Left Join oder auch left outer join funktioniert
+so wie der Inner Join.
+
+00:00:38.289 --> 00:00:42.289
+Allerdings werden beim left join auch Zeilen
+aus der ersten bzw. aus der linken Tabelle
+
+00:00:42.289 --> 00:00:46.110
+geschrieben, die keinen passenden Spaltenwert
+in der zweiten Tabelle haben.
+
+00:00:46.110 --> 00:00:49.219
+In SQL schreiben wir dafür left join zwischen
+den Tabellen.
+
+00:00:49.219 --> 00:00:53.429
+Dahinter kommt dann noch ein on und wieder
+die Spalten die verglichen werden sollen.
+
+00:00:53.429 --> 00:00:56.100
+Schauen wir das lieber gleich in der Praxis
+an.
+
+00:00:56.100 --> 00:01:00.179
+Nehmen wir mal an wir Streichen Ridley Scott
+aus der Tabelle Regisseur.
+
+00:01:00.179 --> 00:01:03.620
+Somit hätten die Zeilen Gladiator und Robin
+Hood keinen Join Partner mehr.
+
+00:01:03.620 --> 00:01:08.610
+In der Spalte Regisseur steht da ja ne 2,
+aber wir haben in der Tabelle Regisseur keinen
+
+00:01:08.610 --> 00:01:10.960
+mehr mit ner RegisseurId die 2 ist.
+
+00:01:10.960 --> 00:01:12.890
+Somit würden die Zeilen ja rausfallen.
+
+00:01:12.890 --> 00:01:16.360
+Aber schreiben wir mal unser left joint mit
+den Tabellen Film und Regisseur.
+
+00:01:16.360 --> 00:01:20.370
+Als Spalten nehmen wir wieder unsere Spalten
+Regisseur und RegisseurId.
+
+00:01:20.370 --> 00:01:25.421
+Mit dem Left Join werden jetzt alle Zeilen
+aus der 1. Tabelle, also aus der Tabelle Film
+
+00:01:25.421 --> 00:01:26.421
+geschrieben.
+
+00:01:26.421 --> 00:01:31.170
+Die Spalten aus der 2. Tabelle wo jetzt kein
+passender Wert dazu drinsteht werden einfach
+
+00:01:31.170 --> 00:01:32.250
+mit null gefüllt.
+
+00:01:32.250 --> 00:01:33.250
+Noice!
+
+00:01:33.250 --> 00:01:36.750
+Der Right join funktioniert genauso wie der
+left join.
+
+00:01:36.750 --> 00:01:40.960
+Allerdings werden dabei die Zeilen der 2.
+und nicht der 1. Tabelle beachtet.
+
+00:01:40.960 --> 00:01:45.040
+Die Anweisung ist dabei ähnlich der left
+join Anweisung, nur eben mit right join.
+
+00:01:45.040 --> 00:01:49.300
+Streichen wir aus der Film Tabelle mal Gladiator
+und Robin Hood.
+
+00:01:49.300 --> 00:01:55.850
+Der Regisseur Ridley Scott hätte mit seiner
+Id 2 also keinen Join Partner mehr aus der
+
+00:01:55.850 --> 00:01:56.850
+Tabelle Film.
+
+00:01:56.850 --> 00:02:00.000
+Somit würde nur noch die Zeile mit Iron Man
+stehen bleiben.
+
+00:02:00.000 --> 00:02:03.140
+Jetzt schreiben wir aber den right join mit
+den Tabellen Film und Regisseur auf.
+
+00:02:03.140 --> 00:02:07.100
+Als Spalten nehmen wir wieder Regisseur und
+RegisseurId.
+
+00:02:07.100 --> 00:02:10.920
+Somit stehen jetzt in der Ausgabe alle Zeilen
+für die zweite Tabelle drin.
+
+00:02:10.920 --> 00:02:14.790
+Die fehlenden Werte aus der Film Tabelle werden
+mit Null gefüllt.
+
+00:02:14.790 --> 00:02:15.790
+Perfekt!
+
+00:02:15.790 --> 00:02:19.530
+So wat macht jetzt unser Full Outer Join?
+
+00:02:19.530 --> 00:02:20.530
+Richtig.
+
+00:02:20.530 --> 00:02:22.550
+Dabei werden einfach Right und Left Join verknüpft.
+
+00:02:22.550 --> 00:02:26.480
+Des heißt, dass alle Zeilen die keinen Join
+Partner haben aufgeschrieben werden.
+
+00:02:26.480 --> 00:02:28.930
+Dabei ist es egal in welcher Tabelle die drinstehen.
+
+00:02:28.930 --> 00:02:32.090
+In SQL schreiben wir dafür einfach ein full
+join zwischen die Tabellen.
+
+00:02:32.090 --> 00:02:35.100
+Dahinter kommen dann noch die Spalten die
+wir vergleichen wollen.
+
+00:02:35.100 --> 00:02:38.160
+So jetzt gibts auch noch en Self Join.
+
+00:02:38.160 --> 00:02:40.280
+Der is jetzt auch wieder en bisl anders.
+
+00:02:40.280 --> 00:02:42.650
+Deswegen gehen wir jetzt net so genau drauf
+ein.
+
+00:02:42.650 --> 00:02:46.200
+Mit nem Self Join kann man eine Tabelle einfach
+mit sich selber joinen.
+
+00:02:46.200 --> 00:02:50.560
+In SQL gibt man dafür einfach zweimal die
+gleiche Tabelle in die From Spalte ein.
+
+00:02:50.560 --> 00:02:54.740
+Aber man setzt dahinter einfach nen anderen
+Namen für die Tabellen, damit man die auseinander
+
+00:02:54.740 --> 00:02:55.800
+halten soll.
+
+00:02:55.800 --> 00:02:59.110
+Eine extra join Anweisung dazu gibts jetzt
+nicht.
+
+00:02:59.110 --> 00:03:01.650
+Wat merkt ihr euch jetzt zu den weiteren Joinarten?
+
+00:03:01.650 --> 00:03:04.420
+Die Outer Joins funktionieren ähnlich wie
+ein Inner Join.
+
+00:03:04.420 --> 00:03:08.750
+Bei einem Left Outer Join werden auch Zeilen
+aus der 1. Tabelle geschrieben, die keinen
+
+00:03:08.750 --> 00:03:09.750
+Join Partner haben.
+
+00:03:09.750 --> 00:03:12.100
+Fehlende Werte werden dabei mit Null gefüllt.
+
+00:03:12.100 --> 00:03:14.670
+In SQL schreiben wir dafür ein left join.
+
+00:03:14.670 --> 00:03:19.880
+Bei einem Right Outer Join werden auch Zeilen
+aus der 2. Tabelle geschrieben, die keinen
+
+00:03:19.880 --> 00:03:21.060
+Join Partner haben.
+
+00:03:21.060 --> 00:03:23.660
+Fehlende Werte werden dabei mit Null gefüllt.
+
+00:03:23.660 --> 00:03:26.010
+In SQL schreiben wir dafür ein right join.
+
+00:03:26.010 --> 00:03:30.349
+Ein Full Outer Join fasst right und left outer
+join zusammen.
+
+00:03:30.349 --> 00:03:34.200
+Ein Self Join verknüpft eine Tabelle mit
+sich selber.
+
+00:03:34.200 --> 00:03:36.390
+Dafür gibt es allerdings keine Join Klausel.
+
+00:03:36.390 --> 00:03:37.959
+So Leute!
+
+00:03:37.959 --> 00:03:39.980
+Das wars jetzt mit den Joinarten.
+
+00:03:39.980 --> 00:03:46.430
+Klickt euch ruhig weiter durch die Videos
+und lernt jede Menge neuer Dinge!
+
+00:03:46.430 --> 00:03:47.090
+Wir sehen uns!
+

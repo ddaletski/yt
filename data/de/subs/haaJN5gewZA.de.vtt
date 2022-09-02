@@ -1,0 +1,303 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.299 --> 00:00:01.299
+Kapseln, Kapseln , Kapseln.
+
+00:00:01.299 --> 00:00:02.299
+Meine Daten, mein Schatz!
+
+00:00:02.299 --> 00:00:03.299
+Wie Gollum alles sprechen , wenns geht :D
+
+00:00:03.299 --> 00:00:04.299
+Ansonsten schreib ichs um ;)
+
+00:00:04.299 --> 00:00:05.299
+Oke Spaß beiseite.
+
+00:00:05.299 --> 00:00:06.299
+Wir haben in anderen Videos ja schon etwas
+über die Datenkapselung gelernt.
+
+00:00:06.299 --> 00:00:07.299
+Damit ihr euch jetzt nicht fragt:
+
+00:00:07.299 --> 00:00:08.299
+“ Häh?
+
+00:00:08.299 --> 00:00:09.299
+Wat is dat denn?”
+
+00:00:09.299 --> 00:00:10.299
+andere Stimme für das
+
+00:00:10.299 --> 00:00:11.299
+schauen wir uns jetzt genau an, wie das ganze
+in Java funktioniert.
+
+00:00:11.299 --> 00:00:16.059
+Nicht lang schnacken und los!
+
+00:00:16.059 --> 00:00:17.859
+Wat is jetzt so ne Datenkapselung?
+
+00:00:17.859 --> 00:00:21.220
+Die Datenkapselung wird auch oft als Geheimnisprinzip
+bezeichnet.
+
+00:00:21.220 --> 00:00:25.929
+Der Grundgedanke ist, dass bestimmte Variablen
+und/oder Methoden geschützt werden.
+
+00:00:25.929 --> 00:00:30.470
+Das ist besonders dann von Vorteil wenn man
+viele Klassen hat oder viele Entwickler an
+
+00:00:30.470 --> 00:00:32.430
+einem Projekt arbeiten.
+
+00:00:32.430 --> 00:00:36.190
+Somit können bestimmte Klassen vor ungefragten
+Änderungen besser geschützt werden.
+
+00:00:36.190 --> 00:00:40.930
+Der Zugriff ist dann nur über Schnittstellen
+möglich, die wir uns im nächsten Video anschauen.
+
+00:00:40.930 --> 00:00:43.150
+Ihr merkt euch also:
+
+00:00:43.150 --> 00:00:46.179
+Durch die Datenkapselung kann man Zugriffsrechte
+für Variablen , Methoden oder die Klasse
+
+00:00:46.179 --> 00:00:47.460
+selbst genauer definieren.
+
+00:00:47.460 --> 00:00:50.570
+Man unterscheidet grundsätzlich 4 Kapselungen.
+
+00:00:50.570 --> 00:00:55.039
+Diese werden in Java immer vor einer Variablen
+oder einer Methode geschrieben.
+
+00:00:55.039 --> 00:00:56.440
+Die erste ist private.
+
+00:00:56.440 --> 00:01:00.000
+Mit private ist nur noch ein Zugriff von innerhalb
+der Klasse möglich.
+
+00:01:00.000 --> 00:01:02.280
+Die zweite Kapselung ist public.
+
+00:01:02.280 --> 00:01:05.530
+Durch diesen kann man von innerhalb und außerhalb
+drauf zugreifen.
+
+00:01:05.530 --> 00:01:07.540
+Dann gibt es noch package.
+
+00:01:07.540 --> 00:01:11.140
+Dann kann von allen Elementen des gleichen
+Pakets darauf zugegriffen werden.
+
+00:01:11.140 --> 00:01:15.200
+Wie ihr natürlich wisst, ist ein Paket grob
+gesagt eine Sammlung von Klassen.
+
+00:01:15.200 --> 00:01:20.430
+In Java ist die Kapselung automatisch package,
+wenn keine Schlüsselwort für eine andere
+
+00:01:20.430 --> 00:01:21.870
+Kapselung angegeben wurde.
+
+00:01:21.870 --> 00:01:24.590
+Als letzte Kapselung gibt es protected.
+
+00:01:24.590 --> 00:01:28.520
+Durch protected kann man innerhalb der Klasse
+, durch Spezialisierungen der Klasse und im
+
+00:01:28.520 --> 00:01:30.550
+selben Package drauf zugreifen.
+
+00:01:30.550 --> 00:01:33.950
+Also zum Beispiel auch von einer Klasse die
+von der anderen erbt.
+
+00:01:33.950 --> 00:01:35.610
+Dazu aber später mehr in anderen Videos.
+
+00:01:35.610 --> 00:01:38.310
+Eurem Opa Klaus erklärt ihr also:
+
+00:01:38.310 --> 00:01:41.330
+Als Kapselungen gibt es private,public, package
+und protected .
+
+00:01:41.330 --> 00:01:43.430
+Die haben unterschiedliche Zugriffsrechte!
+
+00:01:43.430 --> 00:01:48.080
+Bevor wir jetzt hier noch ewig rumlabern,
+schauen wir uns das ganze in der Praxis an.
+
+00:01:48.080 --> 00:01:52.160
+Zuerst erzeugen wir mal ne Klasse CocaCola
+in einem Package Datenkapselung.
+
+00:01:52.160 --> 00:01:56.210
+Hier sehen wir ja schon, dass die Klasse public
+ist, das heißt man kann von überall auf
+
+00:01:56.210 --> 00:01:57.260
+die Klasse zugreifen.
+
+00:01:57.260 --> 00:02:02.160
+Jetzt erzeugen wir noch ne Variable Rezept
+in der die geheime Formel von CocaCola steht!
+
+00:02:02.160 --> 00:02:06.430
+Da wir nichts angegeben haben, ist unser String
+jetzt mit package gekapselt.
+
+00:02:06.430 --> 00:02:10.950
+Als nächstes brauchen wir jetzt noch nen
+Konstruktor der auch öffentlich ist.
+
+00:02:10.950 --> 00:02:14.530
+Da schreiben wir jetzt des geheime Rezept
+rein und vergessen ja net die Klammern!
+
+00:02:14.530 --> 00:02:17.780
+Woah, die Zutaten hätt ich ja jetzt nie erwartet.
+
+00:02:17.780 --> 00:02:21.660
+So, jetzt kommt aber Pepsi daher und will
+die Formel klauen, die Bazis!
+
+00:02:21.660 --> 00:02:24.360
+Dafür erzeugen wir ne Klasse Pepsi im selben
+Package.
+
+00:02:24.360 --> 00:02:28.510
+Hier brauchen wir jetzt auch ne Main Methode,
+da wir die später ausführen wollen.
+
+00:02:28.510 --> 00:02:31.370
+Dann erzeugen wir erstmal en konkretes Cola
+Objekt.
+
+00:02:31.370 --> 00:02:35.730
+Jetzt geben wir noch aus, was Pepsi vermutlich
+sagen wird, wenn sie die Formel haben.
+
+00:02:35.730 --> 00:02:40.180
+Als letztes versuchen wir jetzt unsere Variable
+Formel aus dem Objekt Cola c rauszunehmen.
+
+00:02:40.180 --> 00:02:44.900
+Was wird jetzt in der Konsole passieren wenn
+wir Pepsi ausführen?
+
+00:02:44.900 --> 00:02:45.900
+Rischtisch.
+
+00:02:45.900 --> 00:02:46.900
+Wir kriegen die Formel natürlich!
+
+00:02:46.900 --> 00:02:50.380
+Das geht, weil sich unsere Klassen ja im selben
+Paket befinden.
+
+00:02:50.380 --> 00:02:54.750
+Wenn sie jetzt in unterschiedlichen Paketen
+wären, würde dieser Fehler kommen, da Pepsi
+
+00:02:54.750 --> 00:02:56.750
+dann nicht im selben Paket liegt.
+
+00:02:56.750 --> 00:02:58.340
+Somit könnten wir nicht auf die Variable
+zugreifen.
+
+00:02:58.340 --> 00:03:02.860
+Was passiert jetzt , wenn wir unsere Variable
+auf protected setzen?
+
+00:03:02.860 --> 00:03:06.720
+So, also erben oder so passiert hier ja schonmal
+nicht.
+
+00:03:06.720 --> 00:03:11.020
+Wenn Pepsi jetzt wieder im selben Paket liegt,
+kriegen wir wieder unseren richtige Ausgabe.
+
+00:03:11.020 --> 00:03:15.500
+Wenn Pepsi aber in nem anderen Paket liegt,
+kriegen wir wieder unsere Fehlermeldung.
+
+00:03:15.500 --> 00:03:20.070
+Protected gilt ja nur für die gleiche Klasse,
+Spezialisierungen oder im selben Paket.
+
+00:03:20.070 --> 00:03:23.550
+Gut, wenn die Variable public ist, kann man
+immer drauf zugreifen.
+
+00:03:23.550 --> 00:03:25.560
+Also kriegt man immer die Ausgabe.
+
+00:03:25.560 --> 00:03:29.890
+So, was passiert jetzt wenn die Variable auf
+private gesetzt wurde?
+
+00:03:29.890 --> 00:03:30.890
+Richtig!
+
+00:03:30.890 --> 00:03:34.140
+Es kommt wieder die Fehlermeldung, da man
+ja dann nur von innerhalb der Klasse CocaCola
+
+00:03:34.140 --> 00:03:35.209
+draufzugreifen kann!
+
+00:03:35.209 --> 00:03:39.430
+Wie man jetzt allerdings über Schnittstellen
+die Variable ändern oder abfragen kann, sehen
+
+00:03:39.430 --> 00:03:40.840
+wir in nem anderen Video.
+
+00:03:40.840 --> 00:03:43.400
+Was merkt ihr euch jetzt zu Datenkapselung?
+
+00:03:43.400 --> 00:03:46.760
+Die Datenkapselung wird auch als Geheimnisprinzip
+bezeichnet.
+
+00:03:46.760 --> 00:03:51.290
+Durch die Datenkapselung kann man Zugriffsrechte
+für Variablen , Methoden oder die Klasse
+
+00:03:51.290 --> 00:03:52.620
+selbst genauer definieren.
+
+00:03:52.620 --> 00:03:56.650
+Dabei unterscheidet man zwischen private,public,
+protected und package.
+
+00:03:56.650 --> 00:04:01.200
+Diese Kapselungen können einfach vor Methoden,Variablen
+oder Klassen geschrieben werden.
+
+00:04:01.200 --> 00:04:04.040
+Also dat wars soweit zur Datenkapselungen.
+
+00:04:04.040 --> 00:04:08.150
+Wir sehen uns gleich im nächsten Video!
+

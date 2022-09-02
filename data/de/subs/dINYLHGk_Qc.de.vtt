@@ -1,0 +1,928 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.000 --> 00:00:04.190 align:start position:0%
+ 
+alles<00:00:00.840><c> cool</c><00:00:01.220><c> okay</c><00:00:02.360><c> wie</c><00:00:03.360><c> wir</c><00:00:03.629><c> fragst</c><00:00:04.080><c> du</c><00:00:04.170><c> dich</c>
+
+00:00:04.190 --> 00:00:04.200 align:start position:0%
+alles cool okay wie wir fragst du dich
+ 
+
+00:00:04.200 --> 00:00:05.599 align:start position:0%
+alles cool okay wie wir fragst du dich
+wahrscheinlich<00:00:04.500><c> auch</c><00:00:04.950><c> gerade</c><00:00:05.220><c> wie</c><00:00:05.310><c> man</c><00:00:05.430><c> so</c>
+
+00:00:05.599 --> 00:00:05.609 align:start position:0%
+wahrscheinlich auch gerade wie man so
+ 
+
+00:00:05.609 --> 00:00:07.880 align:start position:0%
+wahrscheinlich auch gerade wie man so
+ein<00:00:05.700><c> seil</c><00:00:05.940><c> auf</c><00:00:06.210><c> dem</c><00:00:06.330><c> du</c><00:00:06.420><c> da</c><00:00:06.540><c> warst</c><00:00:06.720><c> am</c><00:00:07.379><c> besten</c>
+
+00:00:07.880 --> 00:00:07.890 align:start position:0%
+ein seil auf dem du da warst am besten
+ 
+
+00:00:07.890 --> 00:00:10.070 align:start position:0%
+ein seil auf dem du da warst am besten
+mathematisch<00:00:08.639><c> darstellen</c><00:00:09.059><c> könnte</c><00:00:09.389><c> lass</c><00:00:10.050><c> uns</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+mathematisch darstellen könnte lass uns
+ 
+
+00:00:10.080 --> 00:00:11.780 align:start position:0%
+mathematisch darstellen könnte lass uns
+das<00:00:10.320><c> mal</c><00:00:10.410><c> näher</c><00:00:10.679><c> anschauen</c><00:00:11.160><c> und</c><00:00:11.429><c> zusammen</c>
+
+00:00:11.780 --> 00:00:11.790 align:start position:0%
+das mal näher anschauen und zusammen
+ 
+
+00:00:11.790 --> 00:00:13.940 align:start position:0%
+das mal näher anschauen und zusammen
+eine<00:00:12.030><c> koordinaten</c><00:00:12.719><c> form</c><00:00:12.990><c> und</c><00:00:13.320><c> nur</c><00:00:13.500><c> normalen</c>
+
+00:00:13.940 --> 00:00:13.950 align:start position:0%
+eine koordinaten form und nur normalen
+ 
+
+00:00:13.950 --> 00:00:16.180 align:start position:0%
+eine koordinaten form und nur normalen
+form<00:00:14.219><c> für</c><00:00:14.370><c> eine</c><00:00:14.519><c> gerade</c><00:00:14.940><c> aufstellen</c>
+
+00:00:16.180 --> 00:00:16.190 align:start position:0%
+form für eine gerade aufstellen
+ 
+
+00:00:16.190 --> 00:00:20.669 align:start position:0%
+form für eine gerade aufstellen
+[Musik]
+
+00:00:20.669 --> 00:00:20.679 align:start position:0%
+[Musik]
+ 
+
+00:00:20.679 --> 00:00:23.319 align:start position:0%
+[Musik]
+wir<00:00:21.679><c> kennen</c><00:00:21.890><c> schon</c><00:00:22.160><c> die</c><00:00:22.369><c> parameter</c><00:00:23.000><c> form</c>
+
+00:00:23.319 --> 00:00:23.329 align:start position:0%
+wir kennen schon die parameter form
+ 
+
+00:00:23.329 --> 00:00:24.849 align:start position:0%
+wir kennen schon die parameter form
+einer<00:00:23.509><c> gerade</c><00:00:23.930><c> die</c><00:00:24.050><c> aus</c><00:00:24.259><c> einer</c><00:00:24.439><c> stütz</c><00:00:24.829><c> und</c>
+
+00:00:24.849 --> 00:00:24.859 align:start position:0%
+einer gerade die aus einer stütz und
+ 
+
+00:00:24.859 --> 00:00:27.279 align:start position:0%
+einer gerade die aus einer stütz und
+einem<00:00:25.340><c> richtungswechsel</c><00:00:25.939><c> besteht</c><00:00:26.449><c> also</c><00:00:27.050><c> zum</c>
+
+00:00:27.279 --> 00:00:27.289 align:start position:0%
+einem richtungswechsel besteht also zum
+ 
+
+00:00:27.289 --> 00:00:30.580 align:start position:0%
+einem richtungswechsel besteht also zum
+beispiel<00:00:27.320><c> vector</c><00:00:27.980><c> p+r</c><00:00:28.519><c> mal</c><00:00:29.239><c> vector</c><00:00:29.570><c> im</c><00:00:30.289><c> raum</c>
+
+00:00:30.580 --> 00:00:30.590 align:start position:0%
+beispiel vector p+r mal vector im raum
+ 
+
+00:00:30.590 --> 00:00:32.229 align:start position:0%
+beispiel vector p+r mal vector im raum
+haben<00:00:30.949><c> die</c><00:00:31.039><c> dafür</c><00:00:31.309><c> dreidimensionale</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+haben die dafür dreidimensionale
+ 
+
+00:00:32.239 --> 00:00:34.649 align:start position:0%
+haben die dafür dreidimensionale
+vektoren<00:00:32.720><c> eingesetzt</c><00:00:33.320><c> zum</c><00:00:33.649><c> beispiel</c><00:00:33.769><c> vector</c>
+
+00:00:34.649 --> 00:00:34.659 align:start position:0%
+vektoren eingesetzt zum beispiel vector
+ 
+
+00:00:34.659 --> 00:00:39.460 align:start position:0%
+vektoren eingesetzt zum beispiel vector
+231<00:00:35.659><c> +</c><00:00:35.989><c> r</c><00:00:36.110><c> x</c><00:00:36.559><c> vector</c><00:00:36.949><c> minus</c><00:00:37.460><c> 2</c><00:00:37.730><c> 14</c><00:00:38.510><c> wir</c><00:00:39.199><c> können</c>
+
+00:00:39.460 --> 00:00:39.470 align:start position:0%
+231 + r x vector minus 2 14 wir können
+ 
+
+00:00:39.470 --> 00:00:41.049 align:start position:0%
+231 + r x vector minus 2 14 wir können
+aber<00:00:39.530><c> auch</c><00:00:39.860><c> eine</c><00:00:40.040><c> parameter</c><00:00:40.610><c> form</c><00:00:40.940><c> im</c>
+
+00:00:41.049 --> 00:00:41.059 align:start position:0%
+aber auch eine parameter form im
+ 
+
+00:00:41.059 --> 00:00:42.939 align:start position:0%
+aber auch eine parameter form im
+zweidimensionalen<00:00:41.650><c> aufstellen</c><00:00:42.650><c> zum</c>
+
+00:00:42.939 --> 00:00:42.949 align:start position:0%
+zweidimensionalen aufstellen zum
+ 
+
+00:00:42.949 --> 00:00:47.619 align:start position:0%
+zweidimensionalen aufstellen zum
+beispiel<00:00:43.370><c> vector</c><00:00:43.940><c> 12</c><00:00:44.600><c> +</c><00:00:45.019><c> r</c><00:00:45.140><c> x</c><00:00:45.589><c> vector</c><00:00:46.010><c> -</c><00:00:46.460><c> 32</c><00:00:46.970><c> nun</c>
+
+00:00:47.619 --> 00:00:47.629 align:start position:0%
+beispiel vector 12 + r x vector - 32 nun
+ 
+
+00:00:47.629 --> 00:00:49.420 align:start position:0%
+beispiel vector 12 + r x vector - 32 nun
+wollten<00:00:47.960><c> wir</c><00:00:48.019><c> uns</c><00:00:48.260><c> ja</c><00:00:48.379><c> um</c><00:00:48.500><c> eine</c><00:00:48.710><c> koordinaten</c>
+
+00:00:49.420 --> 00:00:49.430 align:start position:0%
+wollten wir uns ja um eine koordinaten
+ 
+
+00:00:49.430 --> 00:00:51.310 align:start position:0%
+wollten wir uns ja um eine koordinaten
+form<00:00:49.729><c> und</c><00:00:49.970><c> einen</c><00:00:50.210><c> normalen</c><00:00:50.449><c> form</c><00:00:50.989><c> kümmern</c>
+
+00:00:51.310 --> 00:00:51.320 align:start position:0%
+form und einen normalen form kümmern
+ 
+
+00:00:51.320 --> 00:00:53.439 align:start position:0%
+form und einen normalen form kümmern
+dazu<00:00:51.829><c> ist</c><00:00:52.070><c> erst</c><00:00:52.280><c> mal</c><00:00:52.370><c> wichtig</c><00:00:52.850><c> zu</c><00:00:52.940><c> wissen</c><00:00:53.030><c> dass</c>
+
+00:00:53.439 --> 00:00:53.449 align:start position:0%
+dazu ist erst mal wichtig zu wissen dass
+ 
+
+00:00:53.449 --> 00:00:54.910 align:start position:0%
+dazu ist erst mal wichtig zu wissen dass
+es<00:00:53.660><c> diese</c><00:00:53.870><c> formen</c><00:00:54.320><c> nur</c><00:00:54.379><c> im</c><00:00:54.559><c> zweidimensionalen</c>
+
+00:00:54.910 --> 00:00:54.920 align:start position:0%
+es diese formen nur im zweidimensionalen
+ 
+
+00:00:54.920 --> 00:00:57.369 align:start position:0%
+es diese formen nur im zweidimensionalen
+gibt<00:00:55.820><c> da</c><00:00:56.180><c> in</c><00:00:56.300><c> dreidimensionalen</c><00:00:57.230><c> kein</c>
+
+00:00:57.369 --> 00:00:57.379 align:start position:0%
+gibt da in dreidimensionalen kein
+ 
+
+00:00:57.379 --> 00:00:59.740 align:start position:0%
+gibt da in dreidimensionalen kein
+eindeutiger<00:00:58.160><c> normalen</c><00:00:58.579><c> vector</c><00:00:58.940><c> existiert</c>
+
+00:00:59.740 --> 00:00:59.750 align:start position:0%
+eindeutiger normalen vector existiert
+ 
+
+00:00:59.750 --> 00:01:01.930 align:start position:0%
+eindeutiger normalen vector existiert
+bei<00:01:00.410><c> der</c><00:01:00.590><c> koordinaten</c><00:01:01.280><c> form</c><00:01:01.579><c> fällt</c><00:01:01.760><c> die</c>
+
+00:01:01.930 --> 00:01:01.940 align:start position:0%
+bei der koordinaten form fällt die
+ 
+
+00:01:01.940 --> 00:01:04.270 align:start position:0%
+bei der koordinaten form fällt die
+vector<00:01:02.269><c> schreibweise</c><00:01:02.840><c> komplett</c><00:01:03.379><c> weg</c><00:01:03.620><c> es</c><00:01:04.160><c> gilt</c>
+
+00:01:04.270 --> 00:01:04.280 align:start position:0%
+vector schreibweise komplett weg es gilt
+ 
+
+00:01:04.280 --> 00:01:07.570 align:start position:0%
+vector schreibweise komplett weg es gilt
+eine<00:01:04.550><c> allgemeine</c><00:01:05.200><c> vormittags</c><00:01:06.200><c> +</c><00:01:06.590><c> b</c><00:01:06.740><c> y</c><00:01:06.920><c> ist</c>
+
+00:01:07.570 --> 00:01:07.580 align:start position:0%
+eine allgemeine vormittags + b y ist
+ 
+
+00:01:07.580 --> 00:01:10.540 align:start position:0%
+eine allgemeine vormittags + b y ist
+gleich<00:01:07.940><c> zwei</c><00:01:08.149><c> wobei</c><00:01:08.660><c> a</c><00:01:08.750><c> b</c><00:01:09.229><c> und</c><00:01:09.380><c> c</c><00:01:09.590><c> irgendwelche</c>
+
+00:01:10.540 --> 00:01:10.550 align:start position:0%
+gleich zwei wobei a b und c irgendwelche
+ 
+
+00:01:10.550 --> 00:01:13.090 align:start position:0%
+gleich zwei wobei a b und c irgendwelche
+zahlen<00:01:10.970><c> sind</c><00:01:11.229><c> besonders</c><00:01:12.229><c> ist</c><00:01:12.470><c> dass</c><00:01:12.800><c> sie</c><00:01:12.890><c> hier</c>
+
+00:01:13.090 --> 00:01:13.100 align:start position:0%
+zahlen sind besonders ist dass sie hier
+ 
+
+00:01:13.100 --> 00:01:14.889 align:start position:0%
+zahlen sind besonders ist dass sie hier
+den<00:01:13.220><c> normalen</c><00:01:13.729><c> weg</c><00:01:13.820><c> tor</c><00:01:14.060><c> direkt</c><00:01:14.360><c> ablesen</c>
+
+00:01:14.889 --> 00:01:14.899 align:start position:0%
+den normalen weg tor direkt ablesen
+ 
+
+00:01:14.899 --> 00:01:16.779 align:start position:0%
+den normalen weg tor direkt ablesen
+könnte<00:01:15.350><c> der</c><00:01:15.619><c> ergibt</c><00:01:15.920><c> sich</c><00:01:16.100><c> nämlich</c><00:01:16.250><c> einfach</c>
+
+00:01:16.779 --> 00:01:16.789 align:start position:0%
+könnte der ergibt sich nämlich einfach
+ 
+
+00:01:16.789 --> 00:01:19.960 align:start position:0%
+könnte der ergibt sich nämlich einfach
+aus<00:01:17.119><c> a</c><00:01:17.149><c> und</c><00:01:17.750><c> b</c><00:01:17.899><c> die</c><00:01:18.830><c> normalen</c><00:01:19.369><c> form</c><00:01:19.670><c> besteht</c>
+
+00:01:19.960 --> 00:01:19.970 align:start position:0%
+aus a und b die normalen form besteht
+ 
+
+00:01:19.970 --> 00:01:21.850 align:start position:0%
+aus a und b die normalen form besteht
+wie<00:01:20.210><c> der</c><00:01:20.330><c> name</c><00:01:20.570><c> schon</c><00:01:20.659><c> sagt</c><00:01:20.840><c> aus</c><00:01:21.590><c> einem</c>
+
+00:01:21.850 --> 00:01:21.860 align:start position:0%
+wie der name schon sagt aus einem
+ 
+
+00:01:21.860 --> 00:01:23.830 align:start position:0%
+wie der name schon sagt aus einem
+normalen<00:01:22.130><c> vector</c><00:01:22.670><c> und</c><00:01:22.849><c> dazu</c><00:01:23.239><c> kommt</c><00:01:23.539><c> noch</c><00:01:23.599><c> der</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+normalen vector und dazu kommt noch der
+ 
+
+00:01:23.840 --> 00:01:26.290 align:start position:0%
+normalen vector und dazu kommt noch der
+stütz<00:01:24.259><c> vector</c><00:01:24.619><c> das</c><00:01:25.429><c> ist</c><00:01:25.580><c> der</c><00:01:25.700><c> gleiche</c><00:01:25.849><c> wie</c><00:01:26.179><c> in</c>
+
+00:01:26.290 --> 00:01:26.300 align:start position:0%
+stütz vector das ist der gleiche wie in
+ 
+
+00:01:26.300 --> 00:01:28.389 align:start position:0%
+stütz vector das ist der gleiche wie in
+der<00:01:26.450><c> parameter</c><00:01:27.020><c> form</c><00:01:27.380><c> und</c><00:01:27.709><c> es</c><00:01:27.830><c> ergibt</c><00:01:28.009><c> sich</c>
+
+00:01:28.389 --> 00:01:28.399 align:start position:0%
+der parameter form und es ergibt sich
+ 
+
+00:01:28.399 --> 00:01:31.089 align:start position:0%
+der parameter form und es ergibt sich
+normalen<00:01:28.970><c> vector</c><00:01:29.300><c> malik</c><00:01:29.840><c> sektor</c><00:01:30.229><c> -</c><00:01:30.500><c> stütz</c>
+
+00:01:31.089 --> 00:01:31.099 align:start position:0%
+normalen vector malik sektor - stütz
+ 
+
+00:01:31.099 --> 00:01:33.729 align:start position:0%
+normalen vector malik sektor - stütz
+vector<00:01:31.429><c> ist</c><00:01:31.819><c> gleich</c><00:01:32.209><c> null</c><00:01:32.630><c> den</c><00:01:33.259><c> normalen</c>
+
+00:01:33.729 --> 00:01:33.739 align:start position:0%
+vector ist gleich null den normalen
+ 
+
+00:01:33.739 --> 00:01:35.290 align:start position:0%
+vector ist gleich null den normalen
+vector<00:01:34.069><c> könnt</c><00:01:34.369><c> ihr</c><00:01:34.459><c> entspannt</c><00:01:35.030><c> aus</c><00:01:35.270><c> der</c>
+
+00:01:35.290 --> 00:01:35.300 align:start position:0%
+vector könnt ihr entspannt aus der
+ 
+
+00:01:35.300 --> 00:01:37.719 align:start position:0%
+vector könnt ihr entspannt aus der
+koordinaten<00:01:36.050><c> form</c><00:01:36.319><c> ablesen</c><00:01:36.860><c> aber</c><00:01:37.009><c> wie</c>
+
+00:01:37.719 --> 00:01:37.729 align:start position:0%
+koordinaten form ablesen aber wie
+ 
+
+00:01:37.729 --> 00:01:40.270 align:start position:0%
+koordinaten form ablesen aber wie
+entstehen<00:01:38.090><c> diese</c><00:01:38.539><c> formen</c><00:01:38.899><c> jetzt</c><00:01:39.229><c> wir</c><00:01:40.009><c> gehen</c>
+
+00:01:40.270 --> 00:01:40.280 align:start position:0%
+entstehen diese formen jetzt wir gehen
+ 
+
+00:01:40.280 --> 00:01:42.010 align:start position:0%
+entstehen diese formen jetzt wir gehen
+dafür<00:01:40.580><c> vor</c><00:01:40.819><c> der</c><00:01:40.970><c> parameter</c><00:01:41.479><c> form</c><00:01:41.780><c> aus</c>
+
+00:01:42.010 --> 00:01:42.020 align:start position:0%
+dafür vor der parameter form aus
+ 
+
+00:01:42.020 --> 00:01:43.960 align:start position:0%
+dafür vor der parameter form aus
+zunächst<00:01:42.440><c> in</c><00:01:42.649><c> die</c><00:01:42.770><c> koordinaten</c><00:01:43.489><c> form</c><00:01:43.729><c> über</c>
+
+00:01:43.960 --> 00:01:43.970 align:start position:0%
+zunächst in die koordinaten form über
+ 
+
+00:01:43.970 --> 00:01:45.910 align:start position:0%
+zunächst in die koordinaten form über
+von<00:01:44.509><c> dort</c><00:01:44.840><c> aus</c><00:01:45.080><c> geht</c><00:01:45.229><c> es</c><00:01:45.319><c> dann</c><00:01:45.410><c> weiter</c><00:01:45.590><c> in</c>
+
+00:01:45.910 --> 00:01:45.920 align:start position:0%
+von dort aus geht es dann weiter in
+ 
+
+00:01:45.920 --> 00:01:49.660 align:start position:0%
+von dort aus geht es dann weiter in
+richtung<00:01:46.069><c> normalen</c><00:01:46.819><c> form</c><00:01:47.200><c> 6</c><00:01:48.200><c> k</c><00:01:48.379><c> eine</c><00:01:49.099><c> gerade</c><00:01:49.520><c> g</c>
+
+00:01:49.660 --> 00:01:49.670 align:start position:0%
+richtung normalen form 6 k eine gerade g
+ 
+
+00:01:49.670 --> 00:01:54.279 align:start position:0%
+richtung normalen form 6 k eine gerade g
+mit<00:01:50.119><c> vector</c><00:01:50.479><c> 4</c><00:01:50.780><c> 2</c><00:01:51.140><c> +</c><00:01:51.590><c> r</c><00:01:51.739><c> x</c><00:01:52.160><c> vector</c><00:01:52.550><c> -</c><00:01:53.179><c> 12</c><00:01:53.899><c> ist</c>
+
+00:01:54.279 --> 00:01:54.289 align:start position:0%
+mit vector 4 2 + r x vector - 12 ist
+ 
+
+00:01:54.289 --> 00:01:56.440 align:start position:0%
+mit vector 4 2 + r x vector - 12 ist
+gegeben<00:01:54.890><c> nun</c><00:01:55.399><c> schreiben</c><00:01:55.849><c> wir</c><00:01:55.970><c> erstmal</c><00:01:56.360><c> die</c>
+
+00:01:56.440 --> 00:01:56.450 align:start position:0%
+gegeben nun schreiben wir erstmal die
+ 
+
+00:01:56.450 --> 00:01:58.449 align:start position:0%
+gegeben nun schreiben wir erstmal die
+parameter<00:01:57.080><c> form</c><00:01:57.379><c> in</c><00:01:57.470><c> ein</c><00:01:57.619><c> gleichung</c><00:01:58.069><c> system</c>
+
+00:01:58.449 --> 00:01:58.459 align:start position:0%
+parameter form in ein gleichung system
+ 
+
+00:01:58.459 --> 00:02:01.210 align:start position:0%
+parameter form in ein gleichung system
+um<00:01:58.640><c> das</c><00:01:59.179><c> gibt</c><00:01:59.539><c> es</c><00:01:59.810><c> gleich</c><00:02:00.170><c> vier</c><00:02:00.289><c> -</c><00:02:00.679><c> er</c><00:02:00.800><c> in</c><00:02:01.039><c> der</c>
+
+00:02:01.210 --> 00:02:01.220 align:start position:0%
+um das gibt es gleich vier - er in der
+ 
+
+00:02:01.220 --> 00:02:04.419 align:start position:0%
+um das gibt es gleich vier - er in der
+ersten<00:02:01.520><c> und</c><00:02:02.090><c> y</c><00:02:02.599><c> gleich</c><00:02:02.899><c> zwei</c><00:02:03.170><c> plus</c><00:02:03.560><c> zwei</c><00:02:03.860><c> er</c><00:02:04.129><c> in</c>
+
+00:02:04.419 --> 00:02:04.429 align:start position:0%
+ersten und y gleich zwei plus zwei er in
+ 
+
+00:02:04.429 --> 00:02:06.820 align:start position:0%
+ersten und y gleich zwei plus zwei er in
+der<00:02:04.610><c> zweiten</c><00:02:04.910><c> zeile</c><00:02:05.209><c> dann</c><00:02:06.020><c> stellen</c><00:02:06.410><c> wir</c><00:02:06.500><c> eine</c>
+
+00:02:06.820 --> 00:02:06.830 align:start position:0%
+der zweiten zeile dann stellen wir eine
+ 
+
+00:02:06.830 --> 00:02:09.010 align:start position:0%
+der zweiten zeile dann stellen wir eine
+gleichung<00:02:07.160><c> nach</c><00:02:07.459><c> dem</c><00:02:07.580><c> parameter</c><00:02:08.030><c> um</c><00:02:08.300><c> für</c><00:02:08.929><c> die</c>
+
+00:02:09.010 --> 00:02:09.020 align:start position:0%
+gleichung nach dem parameter um für die
+ 
+
+00:02:09.020 --> 00:02:10.920 align:start position:0%
+gleichung nach dem parameter um für die
+erste<00:02:09.319><c> gleichung</c><00:02:09.709><c> sind</c><00:02:09.979><c> das</c>
+
+00:02:10.920 --> 00:02:10.930 align:start position:0%
+erste gleichung sind das
+ 
+
+00:02:10.930 --> 00:02:13.750 align:start position:0%
+erste gleichung sind das
+ergebnis<00:02:11.930><c> 4</c><00:02:12.110><c> könnt</c><00:02:12.800><c> ihr</c><00:02:12.890><c> gerne</c><00:02:13.099><c> nach</c><00:02:13.310><c> rechnen</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+ergebnis 4 könnt ihr gerne nach rechnen
+ 
+
+00:02:13.760 --> 00:02:15.790 align:start position:0%
+ergebnis 4 könnt ihr gerne nach rechnen
+diesen<00:02:14.209><c> wert</c><00:02:14.510><c> setzen</c><00:02:14.780><c> wir</c><00:02:14.900><c> in</c><00:02:14.989><c> die</c><00:02:15.140><c> andere</c><00:02:15.500><c> in</c>
+
+00:02:15.790 --> 00:02:15.800 align:start position:0%
+diesen wert setzen wir in die andere in
+ 
+
+00:02:15.800 --> 00:02:18.940 align:start position:0%
+diesen wert setzen wir in die andere in
+diesem<00:02:16.040><c> fall</c><00:02:16.250><c> die</c><00:02:16.400><c> zweite</c><00:02:16.730><c> gleichung</c><00:02:17.269><c> ein</c><00:02:17.950><c> y</c>
+
+00:02:18.940 --> 00:02:18.950 align:start position:0%
+diesem fall die zweite gleichung ein y
+ 
+
+00:02:18.950 --> 00:02:22.350 align:start position:0%
+diesem fall die zweite gleichung ein y
+gleich<00:02:19.310><c> zwei</c><00:02:19.580><c> plus</c><00:02:19.970><c> zwei</c><00:02:20.209><c> mal</c><00:02:20.660><c> -</c><00:02:21.050><c> +4</c>
+
+00:02:22.350 --> 00:02:22.360 align:start position:0%
+gleich zwei plus zwei mal - +4
+ 
+
+00:02:22.360 --> 00:02:24.430 align:start position:0%
+gleich zwei plus zwei mal - +4
+multiplizieren<00:02:23.360><c> wir</c><00:02:23.420><c> die</c><00:02:23.510><c> klammer</c><00:02:23.810><c> ausgibt</c>
+
+00:02:24.430 --> 00:02:24.440 align:start position:0%
+multiplizieren wir die klammer ausgibt
+ 
+
+00:02:24.440 --> 00:02:28.350 align:start position:0%
+multiplizieren wir die klammer ausgibt
+das<00:02:24.620><c> y</c><00:02:25.160><c> gleich</c><00:02:25.489><c> zwei</c><00:02:25.700><c> -</c><00:02:26.180><c> 2x</c><00:02:26.540><c> plus</c><00:02:27.260><c> 8</c><00:02:27.880><c> das</c><00:02:28.210><c> sind</c>
+
+00:02:28.350 --> 00:02:28.360 align:start position:0%
+das y gleich zwei - 2x plus 8 das sind
+ 
+
+00:02:28.360 --> 00:02:32.550 align:start position:0%
+das y gleich zwei - 2x plus 8 das sind
+dann<00:02:28.480><c> wiederum</c><00:02:28.750><c> y</c><00:02:29.470><c> gleich</c><00:02:29.860><c> c2x</c><00:02:30.990><c> nice</c><00:02:31.990><c> cars</c><00:02:32.410><c> war</c>
+
+00:02:32.550 --> 00:02:32.560 align:start position:0%
+dann wiederum y gleich c2x nice cars war
+ 
+
+00:02:32.560 --> 00:02:34.680 align:start position:0%
+dann wiederum y gleich c2x nice cars war
+es<00:02:32.650><c> schon</c><00:02:32.740><c> fast</c><00:02:32.950><c> wenn</c><00:02:33.640><c> wir</c><00:02:33.820><c> jetzt</c><00:02:33.880><c> die</c><00:02:34.150><c> iks</c><00:02:34.450><c> auf</c>
+
+00:02:34.680 --> 00:02:34.690 align:start position:0%
+es schon fast wenn wir jetzt die iks auf
+ 
+
+00:02:34.690 --> 00:02:36.390 align:start position:0%
+es schon fast wenn wir jetzt die iks auf
+die<00:02:34.750><c> linke</c><00:02:35.050><c> seite</c><00:02:35.140><c> ziehen</c><00:02:35.590><c> sieht</c><00:02:36.070><c> das</c><00:02:36.250><c> ding</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+die linke seite ziehen sieht das ding
+ 
+
+00:02:36.400 --> 00:02:38.070 align:start position:0%
+die linke seite ziehen sieht das ding
+genau<00:02:36.730><c> so</c><00:02:37.030><c> aus</c><00:02:37.360><c> wie</c><00:02:37.390><c> in</c><00:02:37.600><c> unserer</c><00:02:37.870><c> definition</c>
+
+00:02:38.070 --> 00:02:38.080 align:start position:0%
+genau so aus wie in unserer definition
+ 
+
+00:02:38.080 --> 00:02:40.860 align:start position:0%
+genau so aus wie in unserer definition
+zu<00:02:38.620><c> koordinaten</c><00:02:39.430><c> form</c><00:02:39.760><c> und</c><00:02:40.300><c> die</c><00:02:40.390><c> lautet</c><00:02:40.780><c> dann</c>
+
+00:02:40.860 --> 00:02:40.870 align:start position:0%
+zu koordinaten form und die lautet dann
+ 
+
+00:02:40.870 --> 00:02:45.090 align:start position:0%
+zu koordinaten form und die lautet dann
+2x<00:02:41.530><c> +</c><00:02:41.860><c> y</c><00:02:41.890><c> ist</c><00:02:42.640><c> gleich</c><00:02:43.060><c> zehn</c><00:02:43.360><c> fertig</c><00:02:44.200><c> aus</c><00:02:44.950><c> der</c>
+
+00:02:45.090 --> 00:02:45.100 align:start position:0%
+2x + y ist gleich zehn fertig aus der
+ 
+
+00:02:45.100 --> 00:02:46.890 align:start position:0%
+2x + y ist gleich zehn fertig aus der
+koordinaten<00:02:45.760><c> form</c><00:02:46.090><c> können</c><00:02:46.420><c> wir</c><00:02:46.510><c> nun</c><00:02:46.750><c> den</c>
+
+00:02:46.890 --> 00:02:46.900 align:start position:0%
+koordinaten form können wir nun den
+ 
+
+00:02:46.900 --> 00:02:49.050 align:start position:0%
+koordinaten form können wir nun den
+normalen<00:02:47.500><c> vector</c><00:02:47.830><c> ablesen</c><00:02:48.310><c> nämlich</c><00:02:48.790><c> genau</c>
+
+00:02:49.050 --> 00:02:49.060 align:start position:0%
+normalen vector ablesen nämlich genau
+ 
+
+00:02:49.060 --> 00:02:52.260 align:start position:0%
+normalen vector ablesen nämlich genau
+den<00:02:49.330><c> vector</c><00:02:49.690><c> 21</c><00:02:50.250><c> mit</c><00:02:51.250><c> dem</c><00:02:51.370><c> stütz</c><00:02:51.730><c> vector</c><00:02:52.090><c> den</c>
+
+00:02:52.260 --> 00:02:52.270 align:start position:0%
+den vector 21 mit dem stütz vector den
+ 
+
+00:02:52.270 --> 00:02:54.570 align:start position:0%
+den vector 21 mit dem stütz vector den
+wir<00:02:52.450><c> aus</c><00:02:52.600><c> der</c><00:02:52.750><c> parameter</c><00:02:53.260><c> form</c><00:02:53.530><c> als</c><00:02:53.710><c> vektor</c><00:02:54.010><c> 42</c>
+
+00:02:54.570 --> 00:02:54.580 align:start position:0%
+wir aus der parameter form als vektor 42
+ 
+
+00:02:54.580 --> 00:02:56.670 align:start position:0%
+wir aus der parameter form als vektor 42
+entnehmen<00:02:55.210><c> ergibt</c><00:02:55.750><c> sich</c><00:02:55.990><c> dann</c><00:02:56.140><c> mit</c><00:02:56.350><c> unserer</c>
+
+00:02:56.670 --> 00:02:56.680 align:start position:0%
+entnehmen ergibt sich dann mit unserer
+ 
+
+00:02:56.680 --> 00:02:58.770 align:start position:0%
+entnehmen ergibt sich dann mit unserer
+definition<00:02:56.920><c> zur</c><00:02:57.580><c> koordinaten</c><00:02:58.360><c> form</c><00:02:58.660><c> die</c>
+
+00:02:58.770 --> 00:02:58.780 align:start position:0%
+definition zur koordinaten form die
+ 
+
+00:02:58.780 --> 00:03:02.370 align:start position:0%
+definition zur koordinaten form die
+gleichung<00:02:59.260><c> viktor</c><00:02:59.920><c> 21</c><00:03:00.790><c> mal</c><00:03:01.030><c> vector</c><00:03:01.450><c> x-mas</c>
+
+00:03:02.370 --> 00:03:02.380 align:start position:0%
+gleichung viktor 21 mal vector x-mas
+ 
+
+00:03:02.380 --> 00:03:05.820 align:start position:0%
+gleichung viktor 21 mal vector x-mas
+vector<00:03:02.740><c> 4</c><00:03:03.010><c> 2</c><00:03:03.310><c> ist</c><00:03:03.820><c> gleich</c><00:03:04.210><c> null</c><00:03:04.630><c> perfekt</c><00:03:05.530><c> jetzt</c>
+
+00:03:05.820 --> 00:03:05.830 align:start position:0%
+vector 4 2 ist gleich null perfekt jetzt
+ 
+
+00:03:05.830 --> 00:03:08.160 align:start position:0%
+vector 4 2 ist gleich null perfekt jetzt
+haben<00:03:06.310><c> wir</c><00:03:06.460><c> beide</c><00:03:06.760><c> formen</c><00:03:07.300><c> du</c><00:03:07.660><c> kannst</c><00:03:07.840><c> auch</c>
+
+00:03:08.160 --> 00:03:08.170 align:start position:0%
+haben wir beide formen du kannst auch
+ 
+
+00:03:08.170 --> 00:03:09.810 align:start position:0%
+haben wir beide formen du kannst auch
+ausgehend<00:03:08.680><c> von</c><00:03:08.740><c> der</c><00:03:08.980><c> normalen</c><00:03:09.370><c> form</c><00:03:09.550><c> die</c>
+
+00:03:09.810 --> 00:03:09.820 align:start position:0%
+ausgehend von der normalen form die
+ 
+
+00:03:09.820 --> 00:03:11.790 align:start position:0%
+ausgehend von der normalen form die
+koordinaten<00:03:10.540><c> form</c><00:03:10.780><c> erzeugen</c><00:03:11.230><c> dafür</c>
+
+00:03:11.790 --> 00:03:11.800 align:start position:0%
+koordinaten form erzeugen dafür
+ 
+
+00:03:11.800 --> 00:03:13.830 align:start position:0%
+koordinaten form erzeugen dafür
+multipliziert<00:03:12.520><c> du</c><00:03:12.670><c> die</c><00:03:12.760><c> normalen</c><00:03:13.240><c> form</c><00:03:13.510><c> aus</c>
+
+00:03:13.830 --> 00:03:13.840 align:start position:0%
+multipliziert du die normalen form aus
+ 
+
+00:03:13.840 --> 00:03:15.960 align:start position:0%
+multipliziert du die normalen form aus
+und<00:03:14.200><c> stellst</c><00:03:14.500><c> um</c><00:03:14.650><c> bist</c><00:03:15.100><c> du</c><00:03:15.190><c> die</c><00:03:15.280><c> struktur</c><00:03:15.790><c> der</c>
+
+00:03:15.960 --> 00:03:15.970 align:start position:0%
+und stellst um bist du die struktur der
+ 
+
+00:03:15.970 --> 00:03:18.420 align:start position:0%
+und stellst um bist du die struktur der
+koordinaten<00:03:16.720><c> form</c><00:03:16.990><c> erhältst</c><00:03:17.350><c> checken</c><00:03:18.310><c> wir</c>
+
+00:03:18.420 --> 00:03:18.430 align:start position:0%
+koordinaten form erhältst checken wir
+ 
+
+00:03:18.430 --> 00:03:20.280 align:start position:0%
+koordinaten form erhältst checken wir
+direkt<00:03:18.700><c> mal</c><00:03:18.820><c> ein</c><00:03:18.940><c> beispiel</c><00:03:19.240><c> wir</c><00:03:19.930><c> haben</c><00:03:19.960><c> die</c>
+
+00:03:20.280 --> 00:03:20.290 align:start position:0%
+direkt mal ein beispiel wir haben die
+ 
+
+00:03:20.290 --> 00:03:23.220 align:start position:0%
+direkt mal ein beispiel wir haben die
+gerade<00:03:20.680><c> h</c><00:03:20.890><c> in</c><00:03:21.250><c> normalen</c><00:03:21.760><c> form</c><00:03:22.090><c> mit</c><00:03:22.330><c> vector</c><00:03:22.600><c> 12</c>
+
+00:03:23.220 --> 00:03:23.230 align:start position:0%
+gerade h in normalen form mit vector 12
+ 
+
+00:03:23.230 --> 00:03:26.940 align:start position:0%
+gerade h in normalen form mit vector 12
+x<00:03:23.500><c> iks</c><00:03:23.860><c> vector</c><00:03:24.220><c> -</c><00:03:24.790><c> vector</c><00:03:25.120><c> 5</c><00:03:25.570><c> -</c><00:03:25.990><c> 1</c><00:03:26.380><c> ist</c><00:03:26.620><c> gleich</c>
+
+00:03:26.940 --> 00:03:26.950 align:start position:0%
+x iks vector - vector 5 - 1 ist gleich
+ 
+
+00:03:26.950 --> 00:03:29.490 align:start position:0%
+x iks vector - vector 5 - 1 ist gleich
+null<00:03:27.070><c> gegeben</c><00:03:27.400><c> erst</c><00:03:28.300><c> mal</c><00:03:28.480><c> aus</c><00:03:28.810><c> multiplizieren</c>
+
+00:03:29.490 --> 00:03:29.500 align:start position:0%
+null gegeben erst mal aus multiplizieren
+ 
+
+00:03:29.500 --> 00:03:33.990 align:start position:0%
+null gegeben erst mal aus multiplizieren
+das<00:03:30.100><c> gibt</c><00:03:30.370><c> x5</c><00:03:31.360><c> plus</c><00:03:31.630><c> 2</c><00:03:31.900><c> x</c><00:03:32.110><c> y</c><00:03:32.250><c> +1</c><00:03:33.250><c> gleich</c><00:03:33.640><c> null</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+das gibt x5 plus 2 x y +1 gleich null
+ 
+
+00:03:34.000 --> 00:03:36.000 align:start position:0%
+das gibt x5 plus 2 x y +1 gleich null
+wenn<00:03:34.450><c> du</c><00:03:34.570><c> fragen</c><00:03:34.810><c> zu</c><00:03:35.080><c> den</c><00:03:35.260><c> regeln</c><00:03:35.620><c> des</c><00:03:35.710><c> kala</c>
+
+00:03:36.000 --> 00:03:36.010 align:start position:0%
+wenn du fragen zu den regeln des kala
+ 
+
+00:03:36.010 --> 00:03:37.770 align:start position:0%
+wenn du fragen zu den regeln des kala
+produkt<00:03:36.490><c> hast</c><00:03:36.730><c> check</c><00:03:37.120><c> mal</c><00:03:37.240><c> unser</c><00:03:37.450><c> video</c>
+
+00:03:37.770 --> 00:03:37.780 align:start position:0%
+produkt hast check mal unser video
+ 
+
+00:03:37.780 --> 00:03:42.240 align:start position:0%
+produkt hast check mal unser video
+hierzu<00:03:38.110><c> macht</c><00:03:39.070><c> vereinfacht</c><00:03:39.610><c> x5</c><00:03:40.570><c> plus</c><00:03:40.840><c> 2</c><00:03:41.080><c> y</c><00:03:41.350><c> +2</c>
+
+00:03:42.240 --> 00:03:42.250 align:start position:0%
+hierzu macht vereinfacht x5 plus 2 y +2
+ 
+
+00:03:42.250 --> 00:03:44.700 align:start position:0%
+hierzu macht vereinfacht x5 plus 2 y +2
+gleich<00:03:42.760><c> null</c><00:03:43.150><c> jetzt</c><00:03:43.990><c> stellen</c><00:03:44.320><c> wir</c><00:03:44.380><c> das</c><00:03:44.590><c> ding</c>
+
+00:03:44.700 --> 00:03:44.710 align:start position:0%
+gleich null jetzt stellen wir das ding
+ 
+
+00:03:44.710 --> 00:03:47.280 align:start position:0%
+gleich null jetzt stellen wir das ding
+noch<00:03:44.830><c> um</c><00:03:45.010><c> und</c><00:03:45.400><c> rechnen</c><00:03:45.730><c> dafür</c><00:03:45.970><c> die</c><00:03:46.150><c> -5</c><00:03:47.020><c> und</c><00:03:47.050><c> die</c>
+
+00:03:47.280 --> 00:03:47.290 align:start position:0%
+noch um und rechnen dafür die -5 und die
+ 
+
+00:03:47.290 --> 00:03:51.000 align:start position:0%
+noch um und rechnen dafür die -5 und die
+zwei<00:03:47.590><c> zu</c><00:03:47.860><c> -3</c><00:03:48.580><c> zusammen</c><00:03:49.240><c> die</c><00:03:49.870><c> -3</c><00:03:50.470><c> bringen</c><00:03:50.860><c> wir</c>
+
+00:03:51.000 --> 00:03:51.010 align:start position:0%
+zwei zu -3 zusammen die -3 bringen wir
+ 
+
+00:03:51.010 --> 00:03:53.880 align:start position:0%
+zwei zu -3 zusammen die -3 bringen wir
+rüber<00:03:51.550><c> fazit</c><00:03:52.410><c> fertig</c><00:03:53.410><c> ist</c><00:03:53.560><c> unsere</c>
+
+00:03:53.880 --> 00:03:53.890 align:start position:0%
+rüber fazit fertig ist unsere
+ 
+
+00:03:53.890 --> 00:03:57.090 align:start position:0%
+rüber fazit fertig ist unsere
+koordinaten<00:03:54.580><c> vormittags</c><00:03:55.420><c> plus</c><00:03:55.750><c> 2</c><00:03:56.020><c> y</c><00:03:56.350><c> gleich</c>
+
+00:03:57.090 --> 00:03:57.100 align:start position:0%
+koordinaten vormittags plus 2 y gleich
+ 
+
+00:03:57.100 --> 00:03:59.520 align:start position:0%
+koordinaten vormittags plus 2 y gleich
+drei<00:03:57.340><c> hier</c><00:03:58.270><c> nochmal</c><00:03:58.540><c> alles</c><00:03:58.990><c> in</c><00:03:59.110><c> kurz</c><00:03:59.500><c> und</c>
+
+00:03:59.520 --> 00:03:59.530 align:start position:0%
+drei hier nochmal alles in kurz und
+ 
+
+00:03:59.530 --> 00:04:02.160 align:start position:0%
+drei hier nochmal alles in kurz und
+knackig<00:04:00.150><c> koordinaten</c><00:04:01.150><c> form</c><00:04:01.450><c> und</c><00:04:01.690><c> normalen</c>
+
+00:04:02.160 --> 00:04:02.170 align:start position:0%
+knackig koordinaten form und normalen
+ 
+
+00:04:02.170 --> 00:04:04.110 align:start position:0%
+knackig koordinaten form und normalen
+form<00:04:02.470><c> sind</c><00:04:02.740><c> weitere</c><00:04:03.100><c> darstellungsformen</c><00:04:03.970><c> für</c>
+
+00:04:04.110 --> 00:04:04.120 align:start position:0%
+form sind weitere darstellungsformen für
+ 
+
+00:04:04.120 --> 00:04:06.000 align:start position:0%
+form sind weitere darstellungsformen für
+geraden<00:04:04.840><c> beide</c><00:04:05.380><c> können</c><00:04:05.709><c> nur</c><00:04:05.890><c> im</c>
+
+00:04:06.000 --> 00:04:06.010 align:start position:0%
+geraden beide können nur im
+ 
+
+00:04:06.010 --> 00:04:08.310 align:start position:0%
+geraden beide können nur im
+zweidimensionalen<00:04:06.630><c> existieren</c><00:04:07.630><c> da</c><00:04:07.870><c> geraten</c>
+
+00:04:08.310 --> 00:04:08.320 align:start position:0%
+zweidimensionalen existieren da geraten
+ 
+
+00:04:08.320 --> 00:04:10.290 align:start position:0%
+zweidimensionalen existieren da geraten
+im<00:04:08.440><c> dreidimensionalen</c><00:04:08.700><c> keinen</c><00:04:09.700><c> eindeutigen</c>
+
+00:04:10.290 --> 00:04:10.300 align:start position:0%
+im dreidimensionalen keinen eindeutigen
+ 
+
+00:04:10.300 --> 00:04:12.390 align:start position:0%
+im dreidimensionalen keinen eindeutigen
+normalen<00:04:10.840><c> vector</c><00:04:11.140><c> besitzen</c><00:04:11.590><c> wir</c><00:04:12.100><c> können</c>
+
+00:04:12.390 --> 00:04:12.400 align:start position:0%
+normalen vector besitzen wir können
+ 
+
+00:04:12.400 --> 00:04:14.370 align:start position:0%
+normalen vector besitzen wir können
+außerdem<00:04:12.820><c> beide</c><00:04:13.000><c> formen</c><00:04:13.420><c> aus</c><00:04:13.630><c> der</c><00:04:13.660><c> parameter</c>
+
+00:04:14.370 --> 00:04:14.380 align:start position:0%
+außerdem beide formen aus der parameter
+ 
+
+00:04:14.380 --> 00:04:16.349 align:start position:0%
+außerdem beide formen aus der parameter
+form<00:04:14.680><c> ableiten</c><00:04:15.190><c> indem</c><00:04:15.700><c> wir</c><00:04:15.820><c> zunächst</c><00:04:16.180><c> die</c>
+
+00:04:16.349 --> 00:04:16.359 align:start position:0%
+form ableiten indem wir zunächst die
+ 
+
+00:04:16.359 --> 00:04:18.390 align:start position:0%
+form ableiten indem wir zunächst die
+parameter<00:04:16.930><c> von</c><00:04:17.080><c> in</c><00:04:17.320><c> die</c><00:04:17.440><c> koordinaten</c><00:04:18.160><c> form</c>
+
+00:04:18.390 --> 00:04:18.400 align:start position:0%
+parameter von in die koordinaten form
+ 
+
+00:04:18.400 --> 00:04:20.550 align:start position:0%
+parameter von in die koordinaten form
+umwandeln<00:04:18.970><c> und</c><00:04:19.239><c> dann</c><00:04:19.450><c> in</c><00:04:19.630><c> die</c><00:04:19.780><c> normalen</c><00:04:20.290><c> form</c>
+
+00:04:20.550 --> 00:04:20.560 align:start position:0%
+umwandeln und dann in die normalen form
+ 
+
+00:04:20.560 --> 00:04:22.680 align:start position:0%
+umwandeln und dann in die normalen form
+übergehen<00:04:21.130><c> wir</c><00:04:21.609><c> können</c><00:04:21.910><c> aber</c><00:04:21.940><c> auch</c><00:04:22.300><c> umgekehrt</c>
+
+00:04:22.680 --> 00:04:22.690 align:start position:0%
+übergehen wir können aber auch umgekehrt
+ 
+
+00:04:22.690 --> 00:04:24.780 align:start position:0%
+übergehen wir können aber auch umgekehrt
+die<00:04:23.050><c> normalen</c><00:04:23.620><c> form</c><00:04:23.890><c> in</c><00:04:24.010><c> die</c><00:04:24.100><c> koordinaten</c>
+
+00:04:24.780 --> 00:04:24.790 align:start position:0%
+die normalen form in die koordinaten
+ 
+
+00:04:24.790 --> 00:04:27.100 align:start position:0%
+die normalen form in die koordinaten
+form<00:04:25.030><c> umwandeln</c><00:04:25.940><c> du</c><00:04:26.120><c> schreibst</c><00:04:26.240><c> mathe</c><00:04:26.810><c> abi</c>
+
+00:04:27.100 --> 00:04:27.110 align:start position:0%
+form umwandeln du schreibst mathe abi
+ 
+
+00:04:27.110 --> 00:04:29.350 align:start position:0%
+form umwandeln du schreibst mathe abi
+bei<00:04:27.470><c> uns</c><00:04:27.740><c> findest</c><00:04:28.010><c> du</c><00:04:28.070><c> originale</c><00:04:28.700><c> abiprüfung</c>
+
+00:04:29.350 --> 00:04:29.360 align:start position:0%
+bei uns findest du originale abiprüfung
+ 
+
+00:04:29.360 --> 00:04:31.450 align:start position:0%
+bei uns findest du originale abiprüfung
+aus<00:04:29.600><c> seinem</c><00:04:29.930><c> bundesland</c><00:04:30.050><c> super</c><00:04:30.890><c> interaktiv</c>
+
+00:04:31.450 --> 00:04:31.460 align:start position:0%
+aus seinem bundesland super interaktiv
+ 
+
+00:04:31.460 --> 00:04:33.490 align:start position:0%
+aus seinem bundesland super interaktiv
+und<00:04:31.610><c> mega</c><00:04:32.120><c> ausführlichen</c><00:04:32.780><c> lösungswegen</c><00:04:33.380><c> mit</c>
+
+00:04:33.490 --> 00:04:33.500 align:start position:0%
+und mega ausführlichen lösungswegen mit
+ 
+
+00:04:33.500 --> 00:04:35.170 align:start position:0%
+und mega ausführlichen lösungswegen mit
+denen<00:04:33.680><c> du</c><00:04:33.740><c> wirklich</c><00:04:34.100><c> alles</c><00:04:34.370><c> verstehst</c><00:04:34.820><c> du</c>
+
+00:04:35.170 --> 00:04:35.180 align:start position:0%
+denen du wirklich alles verstehst du
+ 
+
+00:04:35.180 --> 00:04:36.370 align:start position:0%
+denen du wirklich alles verstehst du
+brauchst<00:04:35.390><c> also</c><00:04:35.480><c> keine</c><00:04:35.840><c> anderen</c><00:04:36.110><c> lernhefte</c>
+
+00:04:36.370 --> 00:04:36.380 align:start position:0%
+brauchst also keine anderen lernhefte
+ 
+
+00:04:36.380 --> 00:04:37.900 align:start position:0%
+brauchst also keine anderen lernhefte
+mehr<00:04:36.620><c> sondern</c><00:04:37.190><c> hast</c><00:04:37.340><c> alles</c><00:04:37.640><c> was</c><00:04:37.760><c> du</c><00:04:37.820><c> brauchst</c>
+
+00:04:37.900 --> 00:04:37.910 align:start position:0%
+mehr sondern hast alles was du brauchst
+ 
+
+00:04:37.910 --> 00:04:40.780 align:start position:0%
+mehr sondern hast alles was du brauchst
+in<00:04:38.450><c> einer</c><00:04:38.720><c> app</c><00:04:38.960><c> außerdem</c><00:04:39.380><c> wir</c><00:04:39.890><c> sagen</c><00:04:40.280><c> ihr</c><00:04:40.370><c> pico</c>
+
+00:04:40.780 --> 00:04:40.790 align:start position:0%
+in einer app außerdem wir sagen ihr pico
+ 
+
+00:04:40.790 --> 00:04:42.490 align:start position:0%
+in einer app außerdem wir sagen ihr pico
+tut<00:04:41.030><c> wirklich</c><00:04:41.270><c> ausarten</c><00:04:41.720><c> vorbereitet</c><00:04:42.290><c> bist</c>
+
+00:04:42.490 --> 00:04:42.500 align:start position:0%
+tut wirklich ausarten vorbereitet bist
+ 
+
+00:04:42.500 --> 00:04:43.780 align:start position:0%
+tut wirklich ausarten vorbereitet bist
+klicke<00:04:42.950><c> jetzt</c><00:04:42.980><c> hier</c><00:04:43.250><c> und</c><00:04:43.400><c> probiere</c><00:04:43.760><c> es</c>
+
+00:04:43.780 --> 00:04:43.790 align:start position:0%
+klicke jetzt hier und probiere es
+ 
+
+00:04:43.790 --> 00:04:46.990 align:start position:0%
+klicke jetzt hier und probiere es
+einfach<00:04:43.850><c> selbst</c><00:04:44.270><c> aus</c><00:04:44.630><c> bis</c><00:04:44.900><c> gleich</c>
+

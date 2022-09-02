@@ -1,0 +1,1032 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.000 --> 00:00:01.790 align:start position:0%
+ 
+neun<00:00:00.359><c> leute</c><00:00:00.539><c> heute</c><00:00:01.260><c> soll</c><00:00:01.469><c> es</c><00:00:01.589><c> um</c><00:00:01.680><c> die</c>
+
+00:00:01.790 --> 00:00:01.800 align:start position:0%
+neun leute heute soll es um die
+ 
+
+00:00:01.800 --> 00:00:04.070 align:start position:0%
+neun leute heute soll es um die
+grundformel<00:00:02.490><c> der</c><00:00:02.580><c> kombinatorik</c><00:00:03.480><c> gehen</c><00:00:03.750><c> weil</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+grundformel der kombinatorik gehen weil
+ 
+
+00:00:04.080 --> 00:00:05.599 align:start position:0%
+grundformel der kombinatorik gehen weil
+es<00:00:04.140><c> da</c><00:00:04.259><c> so</c><00:00:04.350><c> viele</c><00:00:04.620><c> verschiedene</c><00:00:05.040><c> formen</c><00:00:05.310><c> gibt</c>
+
+00:00:05.599 --> 00:00:05.609 align:start position:0%
+es da so viele verschiedene formen gibt
+ 
+
+00:00:05.609 --> 00:00:07.639 align:start position:0%
+es da so viele verschiedene formen gibt
+wollen<00:00:05.970><c> wir</c><00:00:06.029><c> euch</c><00:00:06.270><c> heute</c><00:00:06.359><c> alles</c><00:00:06.990><c> einmal</c><00:00:07.230><c> ganz</c>
+
+00:00:07.639 --> 00:00:07.649 align:start position:0%
+wollen wir euch heute alles einmal ganz
+ 
+
+00:00:07.649 --> 00:00:09.799 align:start position:0%
+wollen wir euch heute alles einmal ganz
+strukturiert<00:00:08.370><c> zeigen</c><00:00:08.700><c> also</c><00:00:09.179><c> macht</c><00:00:09.630><c> es</c><00:00:09.690><c> euch</c>
+
+00:00:09.799 --> 00:00:09.809 align:start position:0%
+strukturiert zeigen also macht es euch
+ 
+
+00:00:09.809 --> 00:00:14.380 align:start position:0%
+strukturiert zeigen also macht es euch
+bequem<00:00:10.200><c> und</c><00:00:10.769><c> viel</c><00:00:10.980><c> spaß</c>
+
+00:00:14.380 --> 00:00:14.390 align:start position:0%
+ 
+ 
+
+00:00:14.390 --> 00:00:17.019 align:start position:0%
+ 
+[Musik]
+
+00:00:17.019 --> 00:00:17.029 align:start position:0%
+[Musik]
+ 
+
+00:00:17.029 --> 00:00:19.670 align:start position:0%
+[Musik]
+das<00:00:18.029><c> erste</c><00:00:18.390><c> was</c><00:00:18.510><c> wir</c><00:00:18.660><c> uns</c><00:00:18.900><c> anschauen</c><00:00:19.199><c> wollen</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+das erste was wir uns anschauen wollen
+ 
+
+00:00:19.680 --> 00:00:22.220 align:start position:0%
+das erste was wir uns anschauen wollen
+sind<00:00:20.010><c> per</c><00:00:20.220><c> mutationen</c><00:00:20.970><c> wann</c><00:00:21.539><c> tritt</c><00:00:21.869><c> eine</c><00:00:22.080><c> per</c>
+
+00:00:22.220 --> 00:00:22.230 align:start position:0%
+sind per mutationen wann tritt eine per
+ 
+
+00:00:22.230 --> 00:00:24.590 align:start position:0%
+sind per mutationen wann tritt eine per
+mutation<00:00:22.740><c> auf</c><00:00:23.039><c> eine</c><00:00:23.580><c> per</c><00:00:23.760><c> mutation</c><00:00:24.330><c> tritt</c>
+
+00:00:24.590 --> 00:00:24.600 align:start position:0%
+mutation auf eine per mutation tritt
+ 
+
+00:00:24.600 --> 00:00:26.540 align:start position:0%
+mutation auf eine per mutation tritt
+genau<00:00:24.750><c> dann</c><00:00:25.080><c> auf</c><00:00:25.470><c> wenn</c><00:00:25.650><c> keine</c><00:00:26.099><c> auswahl</c>
+
+00:00:26.540 --> 00:00:26.550 align:start position:0%
+genau dann auf wenn keine auswahl
+ 
+
+00:00:26.550 --> 00:00:28.070 align:start position:0%
+genau dann auf wenn keine auswahl
+getroffen<00:00:26.849><c> werden</c><00:00:27.269><c> muss</c><00:00:27.449><c> das</c><00:00:27.810><c> heißt</c><00:00:27.840><c> dass</c>
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+getroffen werden muss das heißt dass
+ 
+
+00:00:28.080 --> 00:00:30.500 align:start position:0%
+getroffen werden muss das heißt dass
+alle<00:00:28.380><c> objekte</c><00:00:29.130><c> einer</c><00:00:29.310><c> menge</c><00:00:29.609><c> auch</c><00:00:30.000><c> verwendet</c>
+
+00:00:30.500 --> 00:00:30.510 align:start position:0%
+alle objekte einer menge auch verwendet
+ 
+
+00:00:30.510 --> 00:00:32.240 align:start position:0%
+alle objekte einer menge auch verwendet
+werden<00:00:30.779><c> das</c><00:00:31.230><c> kann</c><00:00:31.349><c> beispielsweise</c><00:00:31.800><c> die</c>
+
+00:00:32.240 --> 00:00:32.250 align:start position:0%
+werden das kann beispielsweise die
+ 
+
+00:00:32.250 --> 00:00:34.520 align:start position:0%
+werden das kann beispielsweise die
+tabelle<00:00:32.730><c> der</c><00:00:32.880><c> bundesliga</c><00:00:32.940><c> sein</c><00:00:33.870><c> angenommen</c>
+
+00:00:34.520 --> 00:00:34.530 align:start position:0%
+tabelle der bundesliga sein angenommen
+ 
+
+00:00:34.530 --> 00:00:35.990 align:start position:0%
+tabelle der bundesliga sein angenommen
+es<00:00:34.590><c> wird</c><00:00:34.829><c> gefragt</c><00:00:35.010><c> wie</c><00:00:35.370><c> viele</c><00:00:35.700><c> verschiedene</c>
+
+00:00:35.990 --> 00:00:36.000 align:start position:0%
+es wird gefragt wie viele verschiedene
+ 
+
+00:00:36.000 --> 00:00:38.150 align:start position:0%
+es wird gefragt wie viele verschiedene
+kombinationen<00:00:36.989><c> der</c><00:00:37.170><c> anordnung</c><00:00:37.680><c> der</c><00:00:37.770><c> tabelle</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+kombinationen der anordnung der tabelle
+ 
+
+00:00:38.160 --> 00:00:41.090 align:start position:0%
+kombinationen der anordnung der tabelle
+gibt<00:00:38.399><c> es</c><00:00:38.760><c> gibt</c><00:00:39.390><c> 18</c><00:00:39.780><c> vereine</c><00:00:40.290><c> und</c><00:00:40.680><c> jeder</c><00:00:40.860><c> verein</c>
+
+00:00:41.090 --> 00:00:41.100 align:start position:0%
+gibt es gibt 18 vereine und jeder verein
+ 
+
+00:00:41.100 --> 00:00:43.310 align:start position:0%
+gibt es gibt 18 vereine und jeder verein
+kann<00:00:41.399><c> theoretisch</c><00:00:41.790><c> jeden</c><00:00:42.570><c> platz</c><00:00:42.899><c> belegen</c>
+
+00:00:43.310 --> 00:00:43.320 align:start position:0%
+kann theoretisch jeden platz belegen
+ 
+
+00:00:43.320 --> 00:00:45.380 align:start position:0%
+kann theoretisch jeden platz belegen
+praktisch<00:00:44.219><c> natürlich</c><00:00:44.640><c> nicht</c><00:00:44.850><c> da</c><00:00:44.940><c> ja</c><00:00:45.030><c> bekannt</c>
+
+00:00:45.380 --> 00:00:45.390 align:start position:0%
+praktisch natürlich nicht da ja bekannt
+ 
+
+00:00:45.390 --> 00:00:46.700 align:start position:0%
+praktisch natürlich nicht da ja bekannt
+ist<00:00:45.510><c> dass</c><00:00:45.690><c> schalke</c><00:00:45.960><c> niemals</c><00:00:46.200><c> da</c><00:00:46.440><c> wird</c><00:00:46.680><c> aber</c>
+
+00:00:46.700 --> 00:00:46.710 align:start position:0%
+ist dass schalke niemals da wird aber
+ 
+
+00:00:46.710 --> 00:00:49.369 align:start position:0%
+ist dass schalke niemals da wird aber
+egal<00:00:47.250><c> zurück</c><00:00:47.820><c> zum</c><00:00:47.910><c> beispiel</c><00:00:48.329><c> die</c><00:00:48.809><c> anzahl</c><00:00:49.140><c> der</c>
+
+00:00:49.369 --> 00:00:49.379 align:start position:0%
+egal zurück zum beispiel die anzahl der
+ 
+
+00:00:49.379 --> 00:00:51.410 align:start position:0%
+egal zurück zum beispiel die anzahl der
+kombinationen<00:00:50.070><c> kann</c><00:00:50.340><c> man</c><00:00:50.489><c> ganz</c><00:00:50.820><c> einfach</c><00:00:50.850><c> mit</c>
+
+00:00:51.410 --> 00:00:51.420 align:start position:0%
+kombinationen kann man ganz einfach mit
+ 
+
+00:00:51.420 --> 00:00:53.420 align:start position:0%
+kombinationen kann man ganz einfach mit
+der<00:00:51.539><c> fakultät</c><00:00:51.750><c> berechnen</c><00:00:52.559><c> man</c><00:00:52.949><c> schreibt</c><00:00:53.190><c> also</c>
+
+00:00:53.420 --> 00:00:53.430 align:start position:0%
+der fakultät berechnen man schreibt also
+ 
+
+00:00:53.430 --> 00:00:56.299 align:start position:0%
+der fakultät berechnen man schreibt also
+einfach<00:00:53.820><c> 18</c><00:00:54.420><c> fakultät</c><00:00:55.110><c> das</c><00:00:55.649><c> ergibt</c><00:00:55.920><c> dann</c><00:00:56.070><c> eine</c>
+
+00:00:56.299 --> 00:00:56.309 align:start position:0%
+einfach 18 fakultät das ergibt dann eine
+ 
+
+00:00:56.309 --> 00:00:58.340 align:start position:0%
+einfach 18 fakultät das ergibt dann eine
+verdammt<00:00:56.879><c> lange</c><00:00:56.910><c> zahl</c><00:00:57.420><c> die</c><00:00:57.629><c> kein</c><00:00:57.899><c> mensch</c>
+
+00:00:58.340 --> 00:00:58.350 align:start position:0%
+verdammt lange zahl die kein mensch
+ 
+
+00:00:58.350 --> 00:01:00.619 align:start position:0%
+verdammt lange zahl die kein mensch
+aussprechen<00:00:58.920><c> kann</c><00:00:59.280><c> also</c><00:00:59.730><c> gibt</c><00:01:00.000><c> es</c><00:01:00.030><c> sehr</c><00:01:00.270><c> viele</c>
+
+00:01:00.619 --> 00:01:00.629 align:start position:0%
+aussprechen kann also gibt es sehr viele
+ 
+
+00:01:00.629 --> 00:01:02.869 align:start position:0%
+aussprechen kann also gibt es sehr viele
+möglichkeiten<00:01:00.840><c> der</c><00:01:01.469><c> anordnung</c><00:01:02.010><c> jetzt</c><00:01:02.670><c> gibt</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+möglichkeiten der anordnung jetzt gibt
+ 
+
+00:01:02.879 --> 00:01:04.280 align:start position:0%
+möglichkeiten der anordnung jetzt gibt
+es<00:01:03.000><c> noch</c><00:01:03.090><c> eine</c><00:01:03.329><c> weitere</c><00:01:03.420><c> art</c><00:01:03.960><c> der</c><00:01:04.140><c> per</c>
+
+00:01:04.280 --> 00:01:04.290 align:start position:0%
+es noch eine weitere art der per
+ 
+
+00:01:04.290 --> 00:01:06.230 align:start position:0%
+es noch eine weitere art der per
+mutation<00:01:04.799><c> und</c><00:01:05.220><c> zwar</c><00:01:05.400><c> wenn</c><00:01:05.640><c> manche</c><00:01:05.970><c> elemente</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+mutation und zwar wenn manche elemente
+ 
+
+00:01:06.240 --> 00:01:08.750 align:start position:0%
+mutation und zwar wenn manche elemente
+mehrfach<00:01:07.020><c> auftreten</c><00:01:07.439><c> auch</c><00:01:08.189><c> das</c><00:01:08.400><c> lässt</c><00:01:08.670><c> sich</c>
+
+00:01:08.750 --> 00:01:08.760 align:start position:0%
+mehrfach auftreten auch das lässt sich
+ 
+
+00:01:08.760 --> 00:01:10.609 align:start position:0%
+mehrfach auftreten auch das lässt sich
+am<00:01:08.909><c> besten</c><00:01:09.030><c> an</c><00:01:09.420><c> einem</c><00:01:09.659><c> beispiel</c><00:01:09.930><c> erklären</c>
+
+00:01:10.609 --> 00:01:10.619 align:start position:0%
+am besten an einem beispiel erklären
+ 
+
+00:01:10.619 --> 00:01:12.410 align:start position:0%
+am besten an einem beispiel erklären
+angenommen<00:01:11.280><c> ihr</c><00:01:11.340><c> habt</c><00:01:11.580><c> das</c><00:01:11.670><c> wort</c><00:01:11.970><c> keller</c>
+
+00:01:12.410 --> 00:01:12.420 align:start position:0%
+angenommen ihr habt das wort keller
+ 
+
+00:01:12.420 --> 00:01:13.969 align:start position:0%
+angenommen ihr habt das wort keller
+gegeben<00:01:12.840><c> wie</c><00:01:13.350><c> viele</c><00:01:13.710><c> verschiedene</c>
+
+00:01:13.969 --> 00:01:13.979 align:start position:0%
+gegeben wie viele verschiedene
+ 
+
+00:01:13.979 --> 00:01:16.070 align:start position:0%
+gegeben wie viele verschiedene
+buchstaben<00:01:14.490><c> kombinationen</c><00:01:15.479><c> kann</c><00:01:15.720><c> man</c><00:01:15.900><c> mit</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+buchstaben kombinationen kann man mit
+ 
+
+00:01:16.080 --> 00:01:17.960 align:start position:0%
+buchstaben kombinationen kann man mit
+diesem<00:01:16.380><c> wort</c><00:01:16.680><c> durchführen</c><00:01:17.280><c> es</c><00:01:17.700><c> dürfen</c>
+
+00:01:17.960 --> 00:01:17.970 align:start position:0%
+diesem wort durchführen es dürfen
+ 
+
+00:01:17.970 --> 00:01:19.730 align:start position:0%
+diesem wort durchführen es dürfen
+natürlich<00:01:18.360><c> auch</c><00:01:18.390><c> sinnlose</c><00:01:18.960><c> wörter</c><00:01:19.290><c> entstehen</c>
+
+00:01:19.730 --> 00:01:19.740 align:start position:0%
+natürlich auch sinnlose wörter entstehen
+ 
+
+00:01:19.740 --> 00:01:21.800 align:start position:0%
+natürlich auch sinnlose wörter entstehen
+das<00:01:20.189><c> erste</c><00:01:20.460><c> was</c><00:01:20.670><c> auffällt</c><00:01:20.939><c> ist</c><00:01:21.150><c> dass</c><00:01:21.630><c> es</c><00:01:21.750><c> die</c>
+
+00:01:21.800 --> 00:01:21.810 align:start position:0%
+das erste was auffällt ist dass es die
+ 
+
+00:01:21.810 --> 00:01:24.590 align:start position:0%
+das erste was auffällt ist dass es die
+buchstaben<00:01:22.409><c> a</c><00:01:22.500><c> und</c><00:01:22.860><c> l</c><00:01:23.130><c> zweimal</c><00:01:23.880><c> gibt</c><00:01:24.000><c> das</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+buchstaben a und l zweimal gibt das
+ 
+
+00:01:24.600 --> 00:01:26.420 align:start position:0%
+buchstaben a und l zweimal gibt das
+heißt<00:01:24.689><c> wir</c><00:01:24.960><c> müssen</c><00:01:25.200><c> die</c><00:01:25.350><c> zweite</c><00:01:25.890><c> formel</c><00:01:26.250><c> der</c>
+
+00:01:26.420 --> 00:01:26.430 align:start position:0%
+heißt wir müssen die zweite formel der
+ 
+
+00:01:26.430 --> 00:01:28.520 align:start position:0%
+heißt wir müssen die zweite formel der
+per<00:01:26.549><c> mutation</c><00:01:27.060><c> anwenden</c><00:01:27.689><c> die</c><00:01:28.020><c> sieht</c>
+
+00:01:28.520 --> 00:01:28.530 align:start position:0%
+per mutation anwenden die sieht
+ 
+
+00:01:28.530 --> 00:01:30.950 align:start position:0%
+per mutation anwenden die sieht
+folgendermaßen<00:01:29.070><c> aus</c><00:01:29.579><c> das</c><00:01:30.240><c> k</c><00:01:30.329><c> steht</c><00:01:30.570><c> hierbei</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+folgendermaßen aus das k steht hierbei
+ 
+
+00:01:30.960 --> 00:01:33.140 align:start position:0%
+folgendermaßen aus das k steht hierbei
+für<00:01:31.140><c> die</c><00:01:31.290><c> anzahl</c><00:01:31.740><c> der</c><00:01:31.920><c> buchstaben</c><00:01:32.159><c> bei</c><00:01:32.820><c> keller</c>
+
+00:01:33.140 --> 00:01:33.150 align:start position:0%
+für die anzahl der buchstaben bei keller
+ 
+
+00:01:33.150 --> 00:01:35.270 align:start position:0%
+für die anzahl der buchstaben bei keller
+sind<00:01:33.420><c> das</c><00:01:33.630><c> sechs</c><00:01:33.900><c> die</c><00:01:34.320><c> ems</c><00:01:34.680><c> stehen</c><00:01:35.040><c> für</c><00:01:35.220><c> die</c>
+
+00:01:35.270 --> 00:01:35.280 align:start position:0%
+sind das sechs die ems stehen für die
+ 
+
+00:01:35.280 --> 00:01:36.950 align:start position:0%
+sind das sechs die ems stehen für die
+jeweiligen<00:01:35.939><c> buchstaben</c><00:01:36.240><c> und</c><00:01:36.780><c> ihre</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+jeweiligen buchstaben und ihre
+ 
+
+00:01:36.960 --> 00:01:39.649 align:start position:0%
+jeweiligen buchstaben und ihre
+häufigkeit<00:01:37.229><c> also</c><00:01:38.130><c> eine</c><00:01:38.369><c> 1</c><00:01:38.729><c> fakultät</c><00:01:39.210><c> für</c><00:01:39.420><c> das</c>
+
+00:01:39.649 --> 00:01:39.659 align:start position:0%
+häufigkeit also eine 1 fakultät für das
+ 
+
+00:01:39.659 --> 00:01:43.069 align:start position:0%
+häufigkeit also eine 1 fakultät für das
+k<00:01:39.750><c> und</c><00:01:40.170><c> das</c><00:01:40.320><c> r</c><00:01:40.409><c> und</c><00:01:40.979><c> zwei</c><00:01:41.159><c> fakultät</c><00:01:41.670><c> für</c><00:01:41.909><c> und</c><00:01:42.689><c> l</c>
+
+00:01:43.069 --> 00:01:43.079 align:start position:0%
+k und das r und zwei fakultät für und l
+ 
+
+00:01:43.079 --> 00:01:44.810 align:start position:0%
+k und das r und zwei fakultät für und l
+das<00:01:43.470><c> muss</c><00:01:43.649><c> man</c><00:01:43.799><c> dann</c><00:01:43.890><c> nur</c><00:01:44.070><c> noch</c><00:01:44.250><c> in</c><00:01:44.369><c> die</c><00:01:44.490><c> formel</c>
+
+00:01:44.810 --> 00:01:44.820 align:start position:0%
+das muss man dann nur noch in die formel
+ 
+
+00:01:44.820 --> 00:01:47.240 align:start position:0%
+das muss man dann nur noch in die formel
+1<00:01:44.909><c> sätzen</c><00:01:45.240><c> und</c><00:01:45.390><c> schon</c><00:01:45.780><c> ist</c><00:01:46.140><c> man</c><00:01:46.200><c> fertig</c><00:01:46.890><c> da</c>
+
+00:01:47.240 --> 00:01:47.250 align:start position:0%
+1 sätzen und schon ist man fertig da
+ 
+
+00:01:47.250 --> 00:01:50.719 align:start position:0%
+1 sätzen und schon ist man fertig da
+kommt<00:01:47.520><c> dann</c><00:01:47.640><c> 180</c><00:01:48.540><c> raus</c><00:01:48.990><c> also</c><00:01:49.530><c> gibt</c><00:01:49.829><c> es</c><00:01:49.860><c> 180</c>
+
+00:01:50.719 --> 00:01:50.729 align:start position:0%
+kommt dann 180 raus also gibt es 180
+ 
+
+00:01:50.729 --> 00:01:52.910 align:start position:0%
+kommt dann 180 raus also gibt es 180
+möglichkeiten<00:01:51.780><c> somit</c><00:01:52.380><c> haben</c><00:01:52.590><c> wir</c><00:01:52.649><c> jetzt</c>
+
+00:01:52.910 --> 00:01:52.920 align:start position:0%
+möglichkeiten somit haben wir jetzt
+ 
+
+00:01:52.920 --> 00:01:55.100 align:start position:0%
+möglichkeiten somit haben wir jetzt
+alles<00:01:53.340><c> zur</c><00:01:53.579><c> per</c><00:01:53.729><c> mutation</c><00:01:54.210><c> gehört</c><00:01:54.630><c> als</c>
+
+00:01:55.100 --> 00:01:55.110 align:start position:0%
+alles zur per mutation gehört als
+ 
+
+00:01:55.110 --> 00:01:57.289 align:start position:0%
+alles zur per mutation gehört als
+nächstes<00:01:55.590><c> kommen</c><00:01:55.860><c> wir</c><00:01:56.009><c> zur</c><00:01:56.280><c> variation</c><00:01:56.670><c> bei</c>
+
+00:01:57.289 --> 00:01:57.299 align:start position:0%
+nächstes kommen wir zur variation bei
+ 
+
+00:01:57.299 --> 00:01:59.300 align:start position:0%
+nächstes kommen wir zur variation bei
+der<00:01:57.659><c> variation</c><00:01:58.259><c> wird</c><00:01:58.560><c> jetzt</c><00:01:58.770><c> immer</c><00:01:59.040><c> eine</c>
+
+00:01:59.300 --> 00:01:59.310 align:start position:0%
+der variation wird jetzt immer eine
+ 
+
+00:01:59.310 --> 00:02:01.219 align:start position:0%
+der variation wird jetzt immer eine
+auswahl<00:01:59.729><c> getroffen</c><00:01:59.909><c> das</c><00:02:00.570><c> unterscheidet</c><00:02:01.200><c> sie</c>
+
+00:02:01.219 --> 00:02:01.229 align:start position:0%
+auswahl getroffen das unterscheidet sie
+ 
+
+00:02:01.229 --> 00:02:03.410 align:start position:0%
+auswahl getroffen das unterscheidet sie
+von<00:02:01.380><c> der</c><00:02:01.590><c> per</c><00:02:01.740><c> mutation</c><00:02:02.460><c> außerdem</c><00:02:03.119><c> ist</c><00:02:03.299><c> die</c>
+
+00:02:03.410 --> 00:02:03.420 align:start position:0%
+von der per mutation außerdem ist die
+ 
+
+00:02:03.420 --> 00:02:05.359 align:start position:0%
+von der per mutation außerdem ist die
+reihenfolge<00:02:03.750><c> der</c><00:02:04.259><c> ausgewählten</c><00:02:04.920><c> elemente</c>
+
+00:02:05.359 --> 00:02:05.369 align:start position:0%
+reihenfolge der ausgewählten elemente
+ 
+
+00:02:05.369 --> 00:02:07.340 align:start position:0%
+reihenfolge der ausgewählten elemente
+wichtig<00:02:05.790><c> bei</c><00:02:06.149><c> der</c><00:02:06.329><c> variation</c><00:02:06.960><c> gibt</c><00:02:07.229><c> es</c>
+
+00:02:07.340 --> 00:02:07.350 align:start position:0%
+wichtig bei der variation gibt es
+ 
+
+00:02:07.350 --> 00:02:09.680 align:start position:0%
+wichtig bei der variation gibt es
+wiederum<00:02:07.649><c> zwei</c><00:02:07.979><c> verschiedene</c><00:02:08.700><c> arten</c><00:02:08.819><c> für</c><00:02:09.599><c> die</c>
+
+00:02:09.680 --> 00:02:09.690 align:start position:0%
+wiederum zwei verschiedene arten für die
+ 
+
+00:02:09.690 --> 00:02:11.119 align:start position:0%
+wiederum zwei verschiedene arten für die
+erste<00:02:10.050><c> art</c><00:02:10.289><c> schauen</c><00:02:10.590><c> wir</c><00:02:10.739><c> uns</c><00:02:10.770><c> ein</c><00:02:10.979><c> beispiel</c>
+
+00:02:11.119 --> 00:02:11.129 align:start position:0%
+erste art schauen wir uns ein beispiel
+ 
+
+00:02:11.129 --> 00:02:13.430 align:start position:0%
+erste art schauen wir uns ein beispiel
+an<00:02:11.730><c> angenommen</c><00:02:12.450><c> ihr</c><00:02:12.510><c> habt</c><00:02:12.750><c> nicht</c><00:02:12.989><c> für</c><00:02:13.140><c> eure</c>
+
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+an angenommen ihr habt nicht für eure
+ 
+
+00:02:13.440 --> 00:02:15.290 align:start position:0%
+an angenommen ihr habt nicht für eure
+klausuren<00:02:13.770><c> gelernt</c><00:02:14.190><c> und</c><00:02:14.400><c> war</c><00:02:14.490><c> trotzdem</c><00:02:14.910><c> gute</c>
+
+00:02:15.290 --> 00:02:15.300 align:start position:0%
+klausuren gelernt und war trotzdem gute
+ 
+
+00:02:15.300 --> 00:02:17.960 align:start position:0%
+klausuren gelernt und war trotzdem gute
+noten<00:02:15.630><c> schreiben</c><00:02:15.690><c> was</c><00:02:16.500><c> tut</c><00:02:16.650><c> ihr</c><00:02:16.740><c> genau</c><00:02:17.670><c> ihr</c>
+
+00:02:17.960 --> 00:02:17.970 align:start position:0%
+noten schreiben was tut ihr genau ihr
+ 
+
+00:02:17.970 --> 00:02:20.240 align:start position:0%
+noten schreiben was tut ihr genau ihr
+lernt<00:02:18.390><c> mit</c><00:02:18.570><c> simple</c><00:02:18.930><c> klappt</c><00:02:19.230><c> aber</c><00:02:19.260><c> was</c><00:02:19.950><c> würdet</c>
+
+00:02:20.240 --> 00:02:20.250 align:start position:0%
+lernt mit simple klappt aber was würdet
+ 
+
+00:02:20.250 --> 00:02:21.650 align:start position:0%
+lernt mit simple klappt aber was würdet
+ihr<00:02:20.280><c> tun</c><00:02:20.400><c> wenn</c><00:02:20.700><c> es</c><00:02:20.850><c> simple</c><00:02:21.120><c> klappt</c><00:02:21.450><c> nicht</c>
+
+00:02:21.650 --> 00:02:21.660 align:start position:0%
+ihr tun wenn es simple klappt nicht
+ 
+
+00:02:21.660 --> 00:02:24.260 align:start position:0%
+ihr tun wenn es simple klappt nicht
+geben<00:02:22.020><c> würde</c><00:02:22.500><c> richtig</c><00:02:23.280><c> ihr</c><00:02:23.430><c> würdet</c><00:02:23.970><c> euch</c><00:02:24.000><c> in</c>
+
+00:02:24.260 --> 00:02:24.270 align:start position:0%
+geben würde richtig ihr würdet euch in
+ 
+
+00:02:24.270 --> 00:02:26.180 align:start position:0%
+geben würde richtig ihr würdet euch in
+den<00:02:24.420><c> laptop</c><00:02:24.930><c> eures</c><00:02:25.260><c> profs</c><00:02:25.590><c> ein</c><00:02:25.710><c> hacken</c><00:02:26.040><c> eher</c>
+
+00:02:26.180 --> 00:02:26.190 align:start position:0%
+den laptop eures profs ein hacken eher
+ 
+
+00:02:26.190 --> 00:02:28.430 align:start position:0%
+den laptop eures profs ein hacken eher
+schlank<00:02:27.060><c> der</c><00:02:27.480><c> laptop</c><00:02:27.750><c> ist</c><00:02:27.930><c> mit</c><00:02:28.110><c> einem</c>
+
+00:02:28.430 --> 00:02:28.440 align:start position:0%
+schlank der laptop ist mit einem
+ 
+
+00:02:28.440 --> 00:02:30.470 align:start position:0%
+schlank der laptop ist mit einem
+vierstelligen<00:02:28.890><c> pin</c><00:02:29.340><c> geschützt</c><00:02:29.670><c> wie</c><00:02:30.120><c> viele</c>
+
+00:02:30.470 --> 00:02:30.480 align:start position:0%
+vierstelligen pin geschützt wie viele
+ 
+
+00:02:30.480 --> 00:02:32.060 align:start position:0%
+vierstelligen pin geschützt wie viele
+verschiedene<00:02:30.720><c> möglichkeiten</c><00:02:31.170><c> gibt</c><00:02:31.710><c> es</c><00:02:31.980><c> jetzt</c>
+
+00:02:32.060 --> 00:02:32.070 align:start position:0%
+verschiedene möglichkeiten gibt es jetzt
+ 
+
+00:02:32.070 --> 00:02:34.220 align:start position:0%
+verschiedene möglichkeiten gibt es jetzt
+für<00:02:32.310><c> diesen</c><00:02:32.580><c> bin</c><00:02:32.730><c> erst</c><00:02:33.510><c> mal</c><00:02:33.570><c> lässt</c><00:02:33.930><c> sich</c><00:02:34.140><c> sagen</c>
+
+00:02:34.220 --> 00:02:34.230 align:start position:0%
+für diesen bin erst mal lässt sich sagen
+ 
+
+00:02:34.230 --> 00:02:36.320 align:start position:0%
+für diesen bin erst mal lässt sich sagen
+dass<00:02:34.620><c> es</c><00:02:34.800><c> auch</c><00:02:35.010><c> mehrere</c><00:02:35.310><c> gleiche</c><00:02:35.820><c> zahlen</c><00:02:36.240><c> in</c>
+
+00:02:36.320 --> 00:02:36.330 align:start position:0%
+dass es auch mehrere gleiche zahlen in
+ 
+
+00:02:36.330 --> 00:02:37.910 align:start position:0%
+dass es auch mehrere gleiche zahlen in
+den<00:02:36.510><c> pin</c><00:02:36.690><c> geben</c><00:02:36.990><c> kann</c><00:02:37.170><c> also</c><00:02:37.650><c> sind</c>
+
+00:02:37.910 --> 00:02:37.920 align:start position:0%
+den pin geben kann also sind
+ 
+
+00:02:37.920 --> 00:02:39.950 align:start position:0%
+den pin geben kann also sind
+wiederholungen<00:02:38.520><c> möglich</c><00:02:39.000><c> die</c><00:02:39.390><c> formel</c><00:02:39.870><c> die</c>
+
+00:02:39.950 --> 00:02:39.960 align:start position:0%
+wiederholungen möglich die formel die
+ 
+
+00:02:39.960 --> 00:02:41.810 align:start position:0%
+wiederholungen möglich die formel die
+ihr<00:02:40.110><c> für</c><00:02:40.260><c> solche</c><00:02:40.590><c> fälle</c><00:02:40.800><c> verwenden</c><00:02:41.310><c> müsst</c><00:02:41.580><c> ist</c>
+
+00:02:41.810 --> 00:02:41.820 align:start position:0%
+ihr für solche fälle verwenden müsst ist
+ 
+
+00:02:41.820 --> 00:02:44.090 align:start position:0%
+ihr für solche fälle verwenden müsst ist
+folgende<00:02:42.330><c> wenn</c><00:02:42.600><c> ist</c><00:02:43.230><c> dabei</c><00:02:43.410><c> die</c><00:02:43.560><c> anzahl</c><00:02:43.860><c> der</c>
+
+00:02:44.090 --> 00:02:44.100 align:start position:0%
+folgende wenn ist dabei die anzahl der
+ 
+
+00:02:44.100 --> 00:02:46.790 align:start position:0%
+folgende wenn ist dabei die anzahl der
+möglichen<00:02:44.190><c> zahlen</c><00:02:44.910><c> also</c><00:02:45.570><c> zehn</c><00:02:45.930><c> man</c><00:02:46.470><c> kann</c><00:02:46.680><c> ja</c>
+
+00:02:46.790 --> 00:02:46.800 align:start position:0%
+möglichen zahlen also zehn man kann ja
+ 
+
+00:02:46.800 --> 00:02:49.130 align:start position:0%
+möglichen zahlen also zehn man kann ja
+alle<00:02:47.190><c> zahlen</c><00:02:47.700><c> von</c><00:02:47.880><c> null</c><00:02:48.120><c> bis</c><00:02:48.300><c> neun</c><00:02:48.540><c> verwenden</c>
+
+00:02:49.130 --> 00:02:49.140 align:start position:0%
+alle zahlen von null bis neun verwenden
+ 
+
+00:02:49.140 --> 00:02:52.040 align:start position:0%
+alle zahlen von null bis neun verwenden
+da<00:02:49.620><c> ist</c><00:02:50.250><c> die</c><00:02:50.340><c> länge</c><00:02:50.700><c> der</c><00:02:50.820><c> kombination</c><00:02:51.540><c> also</c>
+
+00:02:52.040 --> 00:02:52.050 align:start position:0%
+da ist die länge der kombination also
+ 
+
+00:02:52.050 --> 00:02:54.290 align:start position:0%
+da ist die länge der kombination also
+vier<00:02:52.350><c> da</c><00:02:52.830><c> er</c><00:02:53.010><c> ja</c><00:02:53.160><c> einen</c><00:02:53.460><c> vierstelligen</c><00:02:53.940><c> pin</c>
+
+00:02:54.290 --> 00:02:54.300 align:start position:0%
+vier da er ja einen vierstelligen pin
+ 
+
+00:02:54.300 --> 00:02:57.560 align:start position:0%
+vier da er ja einen vierstelligen pin
+habt<00:02:54.720><c> somit</c><00:02:55.230><c> sie</c><00:02:55.440><c> die</c><00:02:55.620><c> formel</c><00:02:56.040><c> so</c><00:02:56.220><c> aus</c><00:02:56.700><c> also</c>
+
+00:02:57.560 --> 00:02:57.570 align:start position:0%
+habt somit sie die formel so aus also
+ 
+
+00:02:57.570 --> 00:03:00.110 align:start position:0%
+habt somit sie die formel so aus also
+müsst<00:02:57.870><c> ihr</c><00:02:57.990><c> wenn</c><00:02:58.260><c> es</c><00:02:58.410><c> schlecht</c><00:02:58.740><c> läuft</c><00:02:59.120><c> 10.000</c>
+
+00:03:00.110 --> 00:03:00.120 align:start position:0%
+müsst ihr wenn es schlecht läuft 10.000
+ 
+
+00:03:00.120 --> 00:03:02.600 align:start position:0%
+müsst ihr wenn es schlecht läuft 10.000
+versuche<00:03:00.510><c> ausüben</c><00:03:01.310><c> vielleicht</c><00:03:02.310><c> ist</c><00:03:02.460><c> dann</c>
+
+00:03:02.600 --> 00:03:02.610 align:start position:0%
+versuche ausüben vielleicht ist dann
+ 
+
+00:03:02.610 --> 00:03:05.390 align:start position:0%
+versuche ausüben vielleicht ist dann
+lernen<00:03:03.000><c> doch</c><00:03:03.240><c> effektiver</c><00:03:03.870><c> okay</c><00:03:04.680><c> die</c><00:03:04.890><c> zweite</c>
+
+00:03:05.390 --> 00:03:05.400 align:start position:0%
+lernen doch effektiver okay die zweite
+ 
+
+00:03:05.400 --> 00:03:07.310 align:start position:0%
+lernen doch effektiver okay die zweite
+möglichkeit<00:03:05.820><c> bei</c><00:03:06.090><c> der</c><00:03:06.240><c> variation</c><00:03:06.780><c> ist</c><00:03:07.020><c> wenn</c>
+
+00:03:07.310 --> 00:03:07.320 align:start position:0%
+möglichkeit bei der variation ist wenn
+ 
+
+00:03:07.320 --> 00:03:08.990 align:start position:0%
+möglichkeit bei der variation ist wenn
+es<00:03:07.470><c> keine</c><00:03:07.770><c> wiederholungen</c><00:03:08.340><c> geben</c><00:03:08.550><c> kann</c>
+
+00:03:08.990 --> 00:03:09.000 align:start position:0%
+es keine wiederholungen geben kann
+ 
+
+00:03:09.000 --> 00:03:10.730 align:start position:0%
+es keine wiederholungen geben kann
+angenommen<00:03:09.660><c> es</c><00:03:09.720><c> rechnen</c><00:03:10.140><c> sich</c><00:03:10.350><c> sieben</c>
+
+00:03:10.730 --> 00:03:10.740 align:start position:0%
+angenommen es rechnen sich sieben
+ 
+
+00:03:10.740 --> 00:03:12.620 align:start position:0%
+angenommen es rechnen sich sieben
+vereine<00:03:11.190><c> die</c><00:03:11.310><c> chancen</c><00:03:11.790><c> auf</c><00:03:12.000><c> die</c><00:03:12.090><c> ersten</c><00:03:12.570><c> drei</c>
+
+00:03:12.620 --> 00:03:12.630 align:start position:0%
+vereine die chancen auf die ersten drei
+ 
+
+00:03:12.630 --> 00:03:14.360 align:start position:0%
+vereine die chancen auf die ersten drei
+plätze<00:03:12.750><c> aus</c><00:03:13.380><c> wie</c><00:03:13.710><c> viele</c><00:03:14.070><c> verschiedene</c>
+
+00:03:14.360 --> 00:03:14.370 align:start position:0%
+plätze aus wie viele verschiedene
+ 
+
+00:03:14.370 --> 00:03:16.850 align:start position:0%
+plätze aus wie viele verschiedene
+anordnungen<00:03:14.880><c> kann</c><00:03:15.480><c> es</c><00:03:15.720><c> geben</c><00:03:16.050><c> die</c><00:03:16.440><c> formel</c>
+
+00:03:16.850 --> 00:03:16.860 align:start position:0%
+anordnungen kann es geben die formel
+ 
+
+00:03:16.860 --> 00:03:19.130 align:start position:0%
+anordnungen kann es geben die formel
+dafür<00:03:16.920><c> sieht</c><00:03:17.370><c> folgendermaßen</c><00:03:17.910><c> aus</c><00:03:18.140><c> ennest</c>
+
+00:03:19.130 --> 00:03:19.140 align:start position:0%
+dafür sieht folgendermaßen aus ennest
+ 
+
+00:03:19.140 --> 00:03:21.830 align:start position:0%
+dafür sieht folgendermaßen aus ennest
+dabei<00:03:19.350><c> die</c><00:03:19.500><c> anzahl</c><00:03:19.800><c> der</c><00:03:20.040><c> vereine</c><00:03:20.220><c> also</c><00:03:20.910><c> 7</c><00:03:21.390><c> und</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+dabei die anzahl der vereine also 7 und
+ 
+
+00:03:21.840 --> 00:03:23.750 align:start position:0%
+dabei die anzahl der vereine also 7 und
+kann<00:03:21.959><c> die</c><00:03:22.230><c> anzahl</c><00:03:22.560><c> der</c><00:03:22.770><c> ersten</c><00:03:23.160><c> drei</c><00:03:23.280><c> plätze</c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+kann die anzahl der ersten drei plätze
+ 
+
+00:03:23.760 --> 00:03:26.540 align:start position:0%
+kann die anzahl der ersten drei plätze
+also<00:03:24.300><c> 3</c><00:03:24.810><c> die</c><00:03:25.020><c> rechnung</c><00:03:25.440><c> gesagt</c><00:03:25.890><c> also</c><00:03:26.100><c> es</c><00:03:26.459><c> gibt</c>
+
+00:03:26.540 --> 00:03:26.550 align:start position:0%
+also 3 die rechnung gesagt also es gibt
+ 
+
+00:03:26.550 --> 00:03:29.000 align:start position:0%
+also 3 die rechnung gesagt also es gibt
+zwei<00:03:27.000><c> 110</c><00:03:27.420><c> verschiedene</c><00:03:28.080><c> möglichkeiten</c><00:03:28.500><c> der</c>
+
+00:03:29.000 --> 00:03:29.010 align:start position:0%
+zwei 110 verschiedene möglichkeiten der
+ 
+
+00:03:29.010 --> 00:03:31.130 align:start position:0%
+zwei 110 verschiedene möglichkeiten der
+anordnung<00:03:29.730><c> der</c><00:03:30.120><c> passende</c><00:03:30.630><c> befehl</c><00:03:30.930><c> im</c>
+
+00:03:31.130 --> 00:03:31.140 align:start position:0%
+anordnung der passende befehl im
+ 
+
+00:03:31.140 --> 00:03:34.310 align:start position:0%
+anordnung der passende befehl im
+taschenrechner<00:03:31.530><c> ist</c><00:03:31.980><c> npr</c><00:03:32.790><c> prima</c><00:03:33.690><c> das</c><00:03:34.050><c> war</c><00:03:34.200><c> es</c>
+
+00:03:34.310 --> 00:03:34.320 align:start position:0%
+taschenrechner ist npr prima das war es
+ 
+
+00:03:34.320 --> 00:03:36.500 align:start position:0%
+taschenrechner ist npr prima das war es
+dann<00:03:34.410><c> auch</c><00:03:34.530><c> zu</c><00:03:34.770><c> der</c><00:03:34.950><c> variation</c><00:03:35.520><c> als</c><00:03:36.060><c> letztes</c>
+
+00:03:36.500 --> 00:03:36.510 align:start position:0%
+dann auch zu der variation als letztes
+ 
+
+00:03:36.510 --> 00:03:38.240 align:start position:0%
+dann auch zu der variation als letztes
+kommen<00:03:36.780><c> wir</c><00:03:36.870><c> jetzt</c><00:03:36.930><c> noch</c><00:03:37.290><c> zur</c><00:03:37.470><c> kombination</c>
+
+00:03:38.240 --> 00:03:38.250 align:start position:0%
+kommen wir jetzt noch zur kombination
+ 
+
+00:03:38.250 --> 00:03:40.400 align:start position:0%
+kommen wir jetzt noch zur kombination
+dabei<00:03:38.850><c> gibt</c><00:03:39.090><c> es</c><00:03:39.150><c> keine</c><00:03:39.570><c> reihenfolge</c><00:03:39.930><c> und</c>
+
+00:03:40.400 --> 00:03:40.410 align:start position:0%
+dabei gibt es keine reihenfolge und
+ 
+
+00:03:40.410 --> 00:03:42.470 align:start position:0%
+dabei gibt es keine reihenfolge und
+keine<00:03:40.800><c> wiederholung</c><00:03:40.920><c> wir</c><00:03:41.820><c> schauen</c><00:03:41.970><c> uns</c><00:03:42.120><c> dazu</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+keine wiederholung wir schauen uns dazu
+ 
+
+00:03:42.480 --> 00:03:44.090 align:start position:0%
+keine wiederholung wir schauen uns dazu
+auch<00:03:42.750><c> mal</c><00:03:42.870><c> wieder</c><00:03:43.110><c> ein</c><00:03:43.290><c> beispiel</c><00:03:43.650><c> an</c>
+
+00:03:44.090 --> 00:03:44.100 align:start position:0%
+auch mal wieder ein beispiel an
+ 
+
+00:03:44.100 --> 00:03:46.009 align:start position:0%
+auch mal wieder ein beispiel an
+angenommen<00:03:44.730><c> ihr</c><00:03:44.790><c> sitzt</c><00:03:45.120><c> in</c><00:03:45.209><c> der</c><00:03:45.360><c> uni</c><00:03:45.600><c> in</c><00:03:45.780><c> einem</c>
+
+00:03:46.009 --> 00:03:46.019 align:start position:0%
+angenommen ihr sitzt in der uni in einem
+ 
+
+00:03:46.019 --> 00:03:47.930 align:start position:0%
+angenommen ihr sitzt in der uni in einem
+seminar<00:03:46.440><c> insgesamt</c><00:03:47.280><c> seid</c><00:03:47.400><c> ihr</c><00:03:47.489><c> mit</c><00:03:47.640><c> zehn</c>
+
+00:03:47.930 --> 00:03:47.940 align:start position:0%
+seminar insgesamt seid ihr mit zehn
+ 
+
+00:03:47.940 --> 00:03:50.090 align:start position:0%
+seminar insgesamt seid ihr mit zehn
+studenten<00:03:48.480><c> drei</c><00:03:48.959><c> studenten</c><00:03:49.560><c> müssen</c><00:03:49.890><c> ihre</c>
+
+00:03:50.090 --> 00:03:50.100 align:start position:0%
+studenten drei studenten müssen ihre
+ 
+
+00:03:50.100 --> 00:03:52.040 align:start position:0%
+studenten drei studenten müssen ihre
+präsentation<00:03:50.790><c> vorstellen</c><00:03:51.060><c> wie</c><00:03:51.690><c> viele</c>
+
+00:03:52.040 --> 00:03:52.050 align:start position:0%
+präsentation vorstellen wie viele
+ 
+
+00:03:52.050 --> 00:03:53.750 align:start position:0%
+präsentation vorstellen wie viele
+kombinationen<00:03:52.769><c> gibt</c><00:03:52.950><c> es</c><00:03:53.280><c> wenn</c><00:03:53.459><c> man</c><00:03:53.580><c> aus</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+kombinationen gibt es wenn man aus
+ 
+
+00:03:53.760 --> 00:03:55.759 align:start position:0%
+kombinationen gibt es wenn man aus
+diesen<00:03:54.030><c> zehn</c><00:03:54.209><c> studenten</c><00:03:54.840><c> drei</c><00:03:55.140><c> auswählen</c>
+
+00:03:55.759 --> 00:03:55.769 align:start position:0%
+diesen zehn studenten drei auswählen
+ 
+
+00:03:55.769 --> 00:03:58.580 align:start position:0%
+diesen zehn studenten drei auswählen
+möchte<00:03:56.100><c> die</c><00:03:56.580><c> formel</c><00:03:56.850><c> dafür</c><00:03:57.090><c> ist</c><00:03:57.540><c> ein</c><00:03:57.720><c> über</c><00:03:58.290><c> k</c>
+
+00:03:58.580 --> 00:03:58.590 align:start position:0%
+möchte die formel dafür ist ein über k
+ 
+
+00:03:58.590 --> 00:04:01.070 align:start position:0%
+möchte die formel dafür ist ein über k
+man<00:03:59.070><c> kann</c><00:03:59.250><c> das</c><00:03:59.489><c> ganze</c><00:03:59.640><c> einfach</c><00:04:00.300><c> so</c><00:04:00.570><c> schreiben</c>
+
+00:04:01.070 --> 00:04:01.080 align:start position:0%
+man kann das ganze einfach so schreiben
+ 
+
+00:04:01.080 --> 00:04:03.410 align:start position:0%
+man kann das ganze einfach so schreiben
+noch<00:04:02.040><c> einfacher</c><00:04:02.459><c> ist</c><00:04:02.640><c> es</c><00:04:02.730><c> wenn</c><00:04:02.850><c> man</c><00:04:03.090><c> das</c><00:04:03.330><c> ganze</c>
+
+00:04:03.410 --> 00:04:03.420 align:start position:0%
+noch einfacher ist es wenn man das ganze
+ 
+
+00:04:03.420 --> 00:04:07.340 align:start position:0%
+noch einfacher ist es wenn man das ganze
+mit<00:04:03.720><c> ncr</c><00:04:04.590><c> im</c><00:04:04.980><c> taschenrechner</c><00:04:05.400><c> ausrechnet</c><00:04:06.350><c> das</c>
+
+00:04:07.340 --> 00:04:07.350 align:start position:0%
+mit ncr im taschenrechner ausrechnet das
+ 
+
+00:04:07.350 --> 00:04:09.410 align:start position:0%
+mit ncr im taschenrechner ausrechnet das
+war<00:04:07.530><c> auch</c><00:04:07.650><c> schon</c><00:04:07.709><c> das</c><00:04:07.890><c> wichtigste</c><00:04:08.150><c> was</c><00:04:09.150><c> müsst</c>
+
+00:04:09.410 --> 00:04:09.420 align:start position:0%
+war auch schon das wichtigste was müsst
+ 
+
+00:04:09.420 --> 00:04:11.780 align:start position:0%
+war auch schon das wichtigste was müsst
+ihr<00:04:09.480><c> euch</c><00:04:09.690><c> nun</c><00:04:09.870><c> merken</c><00:04:10.260><c> genau</c><00:04:10.769><c> als</c><00:04:11.250><c> erstes</c>
+
+00:04:11.780 --> 00:04:11.790 align:start position:0%
+ihr euch nun merken genau als erstes
+ 
+
+00:04:11.790 --> 00:04:14.090 align:start position:0%
+ihr euch nun merken genau als erstes
+natürlich<00:04:11.970><c> alle</c><00:04:12.660><c> formeln</c><00:04:13.200><c> dann</c><00:04:13.620><c> ist</c><00:04:13.860><c> es</c><00:04:13.980><c> ganz</c>
+
+00:04:14.090 --> 00:04:14.100 align:start position:0%
+natürlich alle formeln dann ist es ganz
+ 
+
+00:04:14.100 --> 00:04:16.070 align:start position:0%
+natürlich alle formeln dann ist es ganz
+wichtig<00:04:14.580><c> dass</c><00:04:14.670><c> ihr</c><00:04:14.850><c> euch</c><00:04:15.000><c> bewusst</c><00:04:15.239><c> macht</c><00:04:15.630><c> wann</c>
+
+00:04:16.070 --> 00:04:16.080 align:start position:0%
+wichtig dass ihr euch bewusst macht wann
+ 
+
+00:04:16.080 --> 00:04:18.460 align:start position:0%
+wichtig dass ihr euch bewusst macht wann
+er<00:04:16.260><c> welche</c><00:04:16.709><c> formel</c><00:04:17.130><c> anwenden</c>
+
+00:04:18.460 --> 00:04:18.470 align:start position:0%
+er welche formel anwenden
+ 
+
+00:04:18.470 --> 00:04:20.020 align:start position:0%
+er welche formel anwenden
+hey<00:04:18.799><c> was</c><00:04:18.950><c> geht</c><00:04:19.070><c> ab</c><00:04:19.220><c> jetzt</c><00:04:19.489><c> alex</c><00:04:19.730><c> und</c><00:04:19.850><c> simple</c>
+
+00:04:20.020 --> 00:04:20.030 align:start position:0%
+hey was geht ab jetzt alex und simple
+ 
+
+00:04:20.030 --> 00:04:21.310 align:start position:0%
+hey was geht ab jetzt alex und simple
+klappt<00:04:20.299><c> wenn</c><00:04:20.420><c> du</c><00:04:20.660><c> bald</c><00:04:20.870><c> dann</c><00:04:21.049><c> aber</c><00:04:21.230><c> ich</c>
+
+00:04:21.310 --> 00:04:21.320 align:start position:0%
+klappt wenn du bald dann aber ich
+ 
+
+00:04:21.320 --> 00:04:22.720 align:start position:0%
+klappt wenn du bald dann aber ich
+schreibe<00:04:21.380><c> es</c><00:04:21.590><c> da</c><00:04:21.680><c> musst</c><00:04:21.860><c> du</c><00:04:21.890><c> unbedingt</c><00:04:22.100><c> unsere</c>
+
+00:04:22.720 --> 00:04:22.730 align:start position:0%
+schreibe es da musst du unbedingt unsere
+ 
+
+00:04:22.730 --> 00:04:24.130 align:start position:0%
+schreibe es da musst du unbedingt unsere
+fertigen<00:04:23.090><c> abi</c><00:04:23.330><c> lernpläne</c><00:04:23.690><c> in</c><00:04:23.870><c> der</c><00:04:23.990><c> app</c>
+
+00:04:24.130 --> 00:04:24.140 align:start position:0%
+fertigen abi lernpläne in der app
+ 
+
+00:04:24.140 --> 00:04:25.780 align:start position:0%
+fertigen abi lernpläne in der app
+abcheck<00:04:24.590><c> dort</c><00:04:24.980><c> haben</c><00:04:25.130><c> wir</c><00:04:25.190><c> hier</c><00:04:25.310><c> für</c><00:04:25.460><c> sie</c><00:04:25.580><c> ist</c>
+
+00:04:25.780 --> 00:04:25.790 align:start position:0%
+abcheck dort haben wir hier für sie ist
+ 
+
+00:04:25.790 --> 00:04:28.300 align:start position:0%
+abcheck dort haben wir hier für sie ist
+einfach<00:04:26.300><c> fertige</c><00:04:27.110><c> lernpläne</c><00:04:27.470><c> erstellt</c><00:04:28.070><c> und</c>
+
+00:04:28.300 --> 00:04:28.310 align:start position:0%
+einfach fertige lernpläne erstellt und
+ 
+
+00:04:28.310 --> 00:04:29.890 align:start position:0%
+einfach fertige lernpläne erstellt und
+wir<00:04:28.460><c> trainieren</c><00:04:28.670><c> sich</c><00:04:28.880><c> mit</c><00:04:29.180><c> aufgaben</c><00:04:29.540><c> auf</c><00:04:29.810><c> war</c>
+
+00:04:29.890 --> 00:04:29.900 align:start position:0%
+wir trainieren sich mit aufgaben auf war
+ 
+
+00:04:29.900 --> 00:04:31.780 align:start position:0%
+wir trainieren sich mit aufgaben auf war
+wie<00:04:29.960><c> toni</c><00:04:30.140><c> am</c><00:04:30.740><c> ende</c><00:04:31.070><c> sagen</c><00:04:31.250><c> wir</c><00:04:31.460><c> dies</c><00:04:31.610><c> sogar</c>
+
+00:04:31.780 --> 00:04:31.790 align:start position:0%
+wie toni am ende sagen wir dies sogar
+ 
+
+00:04:31.790 --> 00:04:33.550 align:start position:0%
+wie toni am ende sagen wir dies sogar
+wie<00:04:32.030><c> gut</c><00:04:32.240><c> vorbereitet</c><00:04:32.810><c> bist</c><00:04:33.020><c> so</c><00:04:33.290><c> dass</c><00:04:33.470><c> du</c>
+
+00:04:33.550 --> 00:04:33.560 align:start position:0%
+wie gut vorbereitet bist so dass du
+ 
+
+00:04:33.560 --> 00:04:35.200 align:start position:0%
+wie gut vorbereitet bist so dass du
+sicher<00:04:33.800><c> navigieren</c><00:04:34.070><c> kannst</c><00:04:34.640><c> also</c><00:04:34.940><c> klickt</c>
+
+00:04:35.200 --> 00:04:35.210 align:start position:0%
+sicher navigieren kannst also klickt
+ 
+
+00:04:35.210 --> 00:04:37.300 align:start position:0%
+sicher navigieren kannst also klickt
+jetzt<00:04:35.450><c> hier</c><00:04:35.570><c> auf</c><00:04:35.750><c> den</c><00:04:35.870><c> link</c><00:04:36.140><c> und</c><00:04:36.500><c> roli</c><00:04:36.680><c> hat</c><00:04:37.010><c> bis</c>
+
+00:04:37.300 --> 00:04:37.310 align:start position:0%
+jetzt hier auf den link und roli hat bis
+ 
+
+00:04:37.310 --> 00:04:39.610 align:start position:0%
+jetzt hier auf den link und roli hat bis
+gleich
+

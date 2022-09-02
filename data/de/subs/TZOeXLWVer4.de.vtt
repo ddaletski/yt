@@ -1,0 +1,565 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.120 --> 00:00:01.120
+Ey Lemma!
+
+00:00:01.120 --> 00:00:02.629
+Schon wieder hart am pumpen oder was ?
+
+00:00:02.629 --> 00:00:03.749
+Läuft bei dir Oida!
+
+00:00:03.749 --> 00:00:06.060
+Da machen wir doch gleich mit und legen auch
+los!
+
+00:00:06.060 --> 00:00:13.379
+Also, was ist jetzt das Pumping Lemma?
+
+00:00:13.379 --> 00:00:14.810
+Hat natürlich nix mit Sport zu tun.
+
+00:00:14.810 --> 00:00:19.291
+Mit dem Pumping Lemma kann man grob gesagt
+einfach zeigen,dass eine Sprache nicht regulär
+
+00:00:19.291 --> 00:00:20.291
+ist.
+
+00:00:20.291 --> 00:00:23.531
+Allerdings kann man nicht zeigen, dass sie
+regulär ist.
+
+00:00:23.531 --> 00:00:27.110
+Was regulär genau bedeutet, schauen wir uns
+aber in nem anderen Video genau an und interessiert
+
+00:00:27.110 --> 00:00:28.190
+uns erstmal nicht.
+
+00:00:28.190 --> 00:00:32.710
+Bevor uns das Pumping Lemma jetzt genauer
+anschauen, betrachten wir mal folgenden NEA.
+
+00:00:32.710 --> 00:00:36.710
+Der NEA erkennt jetzt zum Beispiel ein Wort
+der Länge 4.
+
+00:00:36.710 --> 00:00:41.609
+Da die Länge 4 ist, müssen wir insgesamt
+4 Kanten und somit 5 Knoten abgehen.
+
+00:00:41.609 --> 00:00:44.210
+Zuerst sind wir im Anfangszustand q0,
+
+00:00:44.210 --> 00:00:45.839
+dann q1
+
+00:00:45.839 --> 00:00:47.460
+dann q2
+
+00:00:47.460 --> 00:00:49.059
+dann q3
+
+00:00:49.059 --> 00:00:50.160
+und dann nochmal q1
+
+00:00:50.160 --> 00:00:54.030
+Das ist der Weg, in dem ein Wort mit 4 Zeichen
+erkannt wird.
+
+00:00:54.030 --> 00:00:56.440
+Der Knoten q1 wird somit doppelt abgegangen.
+
+00:00:56.440 --> 00:01:00.699
+Da der Knoten doppelt abgegangen wurde, muss
+es also einen Zyklus in dem Pfad geben.
+
+00:01:00.699 --> 00:01:05.510
+Das wäre jetzt der Weg von q1 über q2 und
+q3 zurück nach q1.
+
+00:01:05.510 --> 00:01:09.410
+Diesen Zyklus können wir also beliebig oft
+gehen und gleichzeitig sicherstellen, dass
+
+00:01:09.410 --> 00:01:10.880
+das Wort erkannt wird.
+
+00:01:10.880 --> 00:01:15.800
+Ein Wort kann somit also immer länger werden,
+wird aber von der Sprache immer noch erkannt.
+
+00:01:15.800 --> 00:01:19.260
+Wenn man das Verstanden hat, versteht man
+auch das Pumping Lemma.
+
+00:01:19.260 --> 00:01:23.590
+Das basiert nämlich auf dieser Vorgehensweise,
+nur dass die Definition vom Pumping Lemma
+
+00:01:23.590 --> 00:01:27.110
+für jeden Automaten anwendbar ist und nicht
+nur für unser Beispiel.
+
+00:01:27.110 --> 00:01:33.460
+Die förmliche Definition vom Pumping Lemma
+ersparen wir euch jetzt mal.
+
+00:01:33.460 --> 00:01:38.520
+Die habt ihr ja bestimmt in der Schule oder
+im Studium vorgegeben.
+
+00:01:38.520 --> 00:01:42.080
+Wir versuchen jetzt zu verstehen, was das
+Pumping Lemma genau beschreibt.
+
+00:01:42.080 --> 00:01:47.220
+Das Pumping Lemma besagt, dass für jede reguläre
+Sprache eine natürliche Zahl , die Anzahl
+
+00:01:47.220 --> 00:01:48.790
+der Zustände, existiert.
+
+00:01:48.790 --> 00:01:52.540
+Für alle Wörter die in der Sprache liegen
+muss dann gelten, dass falls die Wortlänge
+
+00:01:52.540 --> 00:01:57.710
+größer oder gleich der Anzahl der Zustände
+ist,eine Zerlegung des Wortes in drei Teilwörter
+
+00:01:57.710 --> 00:02:00.110
+x,y und z möglich ist.
+
+00:02:00.110 --> 00:02:02.370
+X ist dabei das Wort vor dem Zyklus.
+
+00:02:02.370 --> 00:02:07.830
+Bei uns im Beispiel vorhin also das Wort bzw.
+Zeichen von q0 nach q1.
+
+00:02:07.830 --> 00:02:11.349
+Y ist der Zyklus, bzw. das Wort im Zyklus.
+
+00:02:11.349 --> 00:02:15.969
+Das wäre bei uns das Wort zwischen q1,q2,q3
+und zurück zu q1.
+
+00:02:15.969 --> 00:02:19.260
+Y muss immer existieren, darf also nicht leer
+sein.
+
+00:02:19.260 --> 00:02:21.709
+Z ist das Wort, was nach dem Zyklus kommt.
+
+00:02:21.709 --> 00:02:25.459
+Im Beispiel kommt bei uns nix mehr, da wir
+ja dann im Endzustand sind.
+
+00:02:25.459 --> 00:02:30.420
+Beim Pumping Lemma gilt außerdem, dass dieses
+Y , also der Zyklus , beliebig oft wiederholt
+
+00:02:30.420 --> 00:02:31.749
+oder aufgepumpt werden kann.
+
+00:02:31.749 --> 00:02:37.750
+Daher auch pumping Lemma, verstehste?
+
+00:02:37.750 --> 00:02:44.030
+Euer Opa sagt jetzt bestimmt so : Whaaaaaaaat?
+
+00:02:44.030 --> 00:02:49.319
+Also …. durch das Pumping Lemma versuchen
+wir zu beweisen, dass eine Sprache nicht regulär.
+
+00:02:49.319 --> 00:02:54.430
+Wir versuchen also ein Wort zu finden, was
+die Definition vom Pumping Lemma nicht erfüllt.
+
+00:02:54.430 --> 00:03:00.180
+Dabei muss es möglich sein ein Wort in drei
+Teilwörter x,y und z zu zerlegen und den
+
+00:03:00.180 --> 00:03:04.040
+Zyklus y beliebig oft wiederholen bzw. aufpumpen
+zu können.
+
+00:03:04.040 --> 00:03:08.290
+Dabei muss die Länge des Wortes aber mindestens
+so lang sein wie die Anzahl an Zuständen
+
+00:03:08.290 --> 00:03:09.959
+im Automaten der Sprache.
+
+00:03:09.959 --> 00:03:14.730
+Also ganz grob gesagt, natürlich ohne die
+genauen Definitionen, besagt das Pumping Lemma
+
+00:03:14.730 --> 00:03:15.730
+genau das!
+
+00:03:15.730 --> 00:03:20.499
+Aber damit man jetzt auch die wirkliche Anwendung
+sieht, schauen wir uns das ganze an nem Beispiel
+
+00:03:20.499 --> 00:03:21.499
+an.
+
+00:03:21.499 --> 00:03:25.279
+Das einfachste Beispiel zum Pumping Lemma
+ist a hoch n, b hoch n .
+
+00:03:25.279 --> 00:03:26.700
+N ist dabei eine natürliche Zahl.
+
+00:03:26.700 --> 00:03:29.959
+Wir wissen schon von der Sprache, dass sie
+nicht regulär ist.
+
+00:03:29.959 --> 00:03:31.909
+Das gilt es jetzt zu beweisen.
+
+00:03:31.909 --> 00:03:37.049
+Wir suchen also ein Wort a hoch n , b hoch
+n , welches in der Sprache liegt und bei dem
+
+00:03:37.049 --> 00:03:38.810
+das Pumping Lemma fehlschlägt.
+
+00:03:38.810 --> 00:03:43.810
+So, jetzt müssen wir uns erstmal überlegen
+welche Wörter unser x,y und z enthält.
+
+00:03:43.810 --> 00:03:47.840
+Zuerst sagen wir mal, dass unser y mit hoch
+2 aufgepumpt wird.
+
+00:03:47.840 --> 00:03:51.249
+Natürlich sollte es auch mit anderen Zahlen
+aufgepumpt werden können, aber des is jetzt
+
+00:03:51.249 --> 00:03:52.249
+am einfachsten.
+
+00:03:52.249 --> 00:03:54.329
+Oke, also zum ersten Fall.
+
+00:03:54.329 --> 00:03:58.019
+Unser Teilwort könnte jetzt sowohl as als
+auch bs enthalten.
+
+00:03:58.019 --> 00:04:01.459
+Dabei is jetzt egal wie viele as und wie viele
+bs enthalten sind.
+
+00:04:01.459 --> 00:04:05.200
+Es ist nur wichtig, dass sowohl as, als auch
+bs in y sind.
+
+00:04:05.200 --> 00:04:08.700
+Was passiert jetzt wenn y zum Beispiel aabb
+ist?
+
+00:04:08.700 --> 00:04:15.370
+Vor dem y stehen ja als x jetzt entweder ein
+leeres Wort, oder aber nur as, da das y ja
+
+00:04:15.370 --> 00:04:16.680
+noch ein b enthält.
+
+00:04:16.680 --> 00:04:20.229
+Unsere Sprache besteht ja immer aus a hoch
+n , b hoch n.
+
+00:04:20.229 --> 00:04:24.639
+Somit ist besteht unser z dann aus einem leeren
+Wort oder aber nur aus bs.
+
+00:04:24.639 --> 00:04:30.500
+Wenn wir das y jetzt mit 2 aufpumpen, würde
+sich unser Teilwort aabb ja wiederholen.
+
+00:04:30.500 --> 00:04:32.780
+Wir hätten also aabbaabb.
+
+00:04:32.780 --> 00:04:38.740
+Auch wenn wir jetzt x und z nicht betrachten,
+sehen wir sofort, dass dieses Teilwort y nicht
+
+00:04:38.740 --> 00:04:39.750
+mehr in der Sprache liegt.
+
+00:04:39.750 --> 00:04:44.260
+Die Form entspricht ja nicht mehr a hoch n
+, b hoch n.
+
+00:04:44.260 --> 00:04:46.830
+Somit stimmt der erste Fall schonmal nicht.
+Klaro oder?
+
+00:04:46.830 --> 00:04:49.070
+Dann zum zweiten Fall.
+
+00:04:49.070 --> 00:04:52.129
+Unser Teilwort y kann natürlich auch nur
+as enthalten.
+
+00:04:52.129 --> 00:04:53.800
+Also zum Beispiel aa.
+
+00:04:53.800 --> 00:04:58.449
+Jetzt wird wieder mit 2 aufgepumpt und wir
+kriegen für y ein aaaa.
+
+00:04:58.449 --> 00:05:06.060
+Wenn das ganze Wort jetzt also ein aaabbb
+wäre, dann würde das durch das y ja zu aaaaabbb
+
+00:05:06.060 --> 00:05:07.060
+werden.
+
+00:05:07.060 --> 00:05:08.560
+Was stimmt jetzt hier nicht?
+
+00:05:08.560 --> 00:05:13.039
+Richtig. Das Wort wäre jetzt nicht mehr in
+der Form a hoch n , b hoch n.
+
+00:05:13.039 --> 00:05:15.210
+Somit geht dieser Fall auch nicht klar.
+
+00:05:15.210 --> 00:05:18.300
+Der letzte Fall ist jetzt, dass unser y nur
+aus bs besteht.
+
+00:05:18.300 --> 00:05:20.650
+Zum Beispiel sowas wie bb.
+
+00:05:20.650 --> 00:05:24.810
+Wenn wir das jetzt wieder aufpumpen mit 2,
+kriegen wir für y ein bbbb.
+
+00:05:24.810 --> 00:05:32.250
+Gehen wir wieder vom Wort aaabbb aus, kriegen
+wir also aaabbbbb raus.
+
+00:05:32.250 --> 00:05:36.490
+Jetzt ist das genau das gleiche wie vorher
+beim a.
+
+00:05:36.490 --> 00:05:39.770
+Das Wort erfüllt nicht mehr die Sprache a
+hoch n, b hoch n.
+
+00:05:39.770 --> 00:05:43.270
+Da unser y ja nicht leer sein kann, haben
+wir alle Fälle abgearbeitet.
+
+00:05:43.270 --> 00:05:48.780
+Da es in keinem Fall möglich ist unser y
+aufzupumpen, ist die Sprache somit nicht regulär!
+
+00:05:48.780 --> 00:05:52.330
+Es reicht jetzt nicht,nur ein Wort zu finden,
+was nicht in der Sprache liegt.
+
+00:05:52.330 --> 00:05:56.370
+Von diesem müssten wir wieder alle Zerlegungen
+betrachten, also gehen wir lieber gleich alle
+
+00:05:56.370 --> 00:05:57.650
+Fälle ab, damit wir safe sind!
+
+00:05:57.650 --> 00:06:00.380
+Eigentlich ganz logisch wa?
+
+00:06:00.380 --> 00:06:04.180
+Natürlich kann es sein, dass ihr in der Uni
+oder Schule schwerere Beispiele bekommt.
+
+00:06:04.180 --> 00:06:05.930
+Der Ablauf ist aber immer gleich.
+
+00:06:05.930 --> 00:06:11.180
+Ihr geht alle Fälle für y durch und überprüft
+dabei ob die Zerlegung und das aufpumpen möglich
+
+00:06:11.180 --> 00:06:12.180
+ist.
+
+00:06:12.180 --> 00:06:14.970
+So wie so oft läuft es in der Uni ein bisschen
+anders.
+
+00:06:14.970 --> 00:06:17.419
+Da müsst ihr meistens das Pumping Lemma allgemeiner
+beweisen.
+
+00:06:17.419 --> 00:06:21.849
+Betrachten wir nochmal das Beispiel von oben.
+Wir nehmen uns erstmal ein allgemeines Wort
+
+00:06:21.849 --> 00:06:26.900
+w raus, dass in der Sprache liegt.
+Also zum Beispiel a hoch m b hoch m.
+
+00:06:26.900 --> 00:06:30.889
+Dann müssen wir noch ganz plump hinschreiben,
+dass unsere Definition gilt.
+
+00:06:30.889 --> 00:06:35.389
+W liegt also in der Sprache L und es gilt
+schonmal, dass die Länge von w größer gleich
+
+00:06:35.389 --> 00:06:38.659
+m ist.
+Somit gilt dann auch, dass man w in die Teilwörter
+
+00:06:38.659 --> 00:06:43.500
+zerlegen kann,y nicht leer ist und die Länge
+von xy kleiner gleich m ist.
+
+00:06:43.500 --> 00:06:46.259
+So, jetzt haben wir schon mal die Definition
+abgeschrieben.
+
+00:06:46.259 --> 00:06:51.039
+Jetzt gehen wir die Teilwörter an.
+Erstmal sagen wir, dass des x aus a hoch i
+
+00:06:51.039 --> 00:06:53.490
+besteht.
+Es enthält also eine bestimmte Anzahl an
+
+00:06:53.490 --> 00:06:57.960
+a`s.
+Für y sagen wir, dass y = a hoch j ist.
+
+00:06:57.960 --> 00:07:01.810
+Also wieder eine bestimmte Anzahl an a´s.
+So was bleibt jetzt für z?
+
+00:07:01.810 --> 00:07:06.819
+Da x und y schon eine bestimmte Anzahl an
+a´s belegen, bleibt für z nur noch der Rest
+
+00:07:06.819 --> 00:07:11.909
+der von den a´s übrig ist.
+Somit besteht z schonmal aus a hoch m-i-j.
+
+00:07:11.909 --> 00:07:18.050
+Die Anzahl die x und y schon beanspruchen,
+müssen ja von der Gesamtzahl abgezogen werden.
+
+00:07:18.050 --> 00:07:21.030
+Klar soweit?
+Jetzt enthält das Teilwort z ja auch noch
+
+00:07:21.030 --> 00:07:28.319
+b hoch m , da x und y ja keine b´s enthalten.
+Was passiert wenn wir jetzt y mit zwei aufpumpen.
+
+00:07:28.319 --> 00:07:33.270
+Das heißt, dass aus unserem Wort xyz ein
+xyyz wird.
+
+00:07:33.270 --> 00:07:36.449
+Jetzt schreiben wir die vorher definierten
+Werte auf.
+
+00:07:36.449 --> 00:07:40.270
+Dann schreiben wir die Potenzen bei a zusammen.
+Das wird jetzt zusammengefasst.
+
+00:07:40.270 --> 00:07:45.580
+So, wat heißt das jetzt?
+Unser a kommt somit häufiger vor als unser
+
+00:07:45.580 --> 00:07:48.550
+b , da wir zur Anzahl von a ja noch ein j
+addieren.
+
+00:07:48.550 --> 00:07:53.169
+Somit kann a auf jeden Fall häufiger vorkommen,
+wenn j zum Beispiel 4 oder so ist.
+
+00:07:53.169 --> 00:07:56.460
+Dann liegt dieses Wort aber nicht mehr in
+a^n b^n.
+
+00:07:56.460 --> 00:08:00.419
+Somit schlägt das Pumping Lemma fehl und
+die Sprache ist nicht regulär.
+
+00:08:00.419 --> 00:08:04.130
+Bam Oida!
+Somit haben wir jetzt ganz allgemein gezeigt,
+
+00:08:04.130 --> 00:08:07.590
+dass die Sprache nicht regulär ist.
+So ein Vorgehen wird euch so gut wie immer
+
+00:08:07.590 --> 00:08:08.860
+in der Uni begegnen.
+
+00:08:08.860 --> 00:08:10.120
+Was merkt ihr euch jetzt?
+
+00:08:10.120 --> 00:08:14.460
+Durch das Pumping Lemma versuchen wir zu beweisen,
+dass eine Sprache nicht regulär.
+
+00:08:14.460 --> 00:08:16.870
+Wir können damit aber nicht beweisen, dass
+sie Regulär ist.
+
+00:08:16.870 --> 00:08:22.120
+Das Pumping Lemma besagt, dass eine Natürliche
+Zahl, die Anzahl an Zuständen, existiert.
+
+00:08:22.120 --> 00:08:26.230
+Für alle Wörter in der Sprache mit Länge
+größer oder gleich dieser Zahl gilt dann
+
+00:08:26.230 --> 00:08:27.230
+folgendes.
+
+00:08:27.230 --> 00:08:30.879
+Es muss möglich sein ein Wort in drei Teilwörter
+x,y und z zu zerlegen.
+
+00:08:30.879 --> 00:08:33.070
+X ist ein Teilwort vor dem Zyklus.
+
+00:08:33.070 --> 00:08:34.990
+Y ist der Zyklus selbst.
+
+00:08:34.990 --> 00:08:39.250
+Dieses Teilwort darf nicht leer sein und muss
+beliebig oft aufgepumpt werden können.
+
+00:08:39.250 --> 00:08:42.610
+Z ist ein Teilwort nach dem Zyklus.
+
+00:08:42.610 --> 00:08:50.130
+In der Praxis geht ihr alle Möglichkeiten
+für y durch und überprüft ob es möglich
+
+00:08:50.130 --> 00:08:53.639
+ist, dieses y aufpumpen.
+
+00:08:53.639 --> 00:08:59.089
+Falls das nicht für jeden Fall möglich ist,
+ist die Sprache nicht Regulär.
+
+00:08:59.089 --> 00:09:10.360
+So dat wars jetzt zu dem Pumping Lemma. Wir
+sehen uns dann im nächsten Video!
+
+00:09:10.360 --> 00:09:11.029
+Tschööööööö!
+

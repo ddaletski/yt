@@ -1,0 +1,368 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:00.440 --> 00:00:03.180
+Aloha Freunde,
+Heute geht’s um den Multiplexer!
+
+00:00:03.180 --> 00:00:04.620
+Multi...was?
+
+00:00:04.620 --> 00:00:07.509
+Der Multiplexer ist ein weiterer logischer
+Baustein im Computer
+
+00:00:07.509 --> 00:00:09.209
+Was der so kann sehen wir jetzt...
+
+00:00:09.209 --> 00:00:12.190
+Alright!
+
+00:00:12.190 --> 00:00:17.210
+Ladies and Gentleman dann legen wir mal los.
+
+00:00:17.210 --> 00:00:19.990
+Ein Multiplexer ist ein weiterer Logischer
+Baustein im Computer.
+
+00:00:19.990 --> 00:00:22.850
+Abgekürzt wird der Kollege mit MUX.
+
+00:00:22.850 --> 00:00:29.000
+Seine Aufgabe besteht darin aus einer bestimmten
+Anzahl von Eingangssignalen eines auszuwählen
+
+00:00:29.000 --> 00:00:30.720
+und das Signal zum Ausgang bringen.
+
+00:00:30.720 --> 00:00:32.630
+Wie sieht so nen Ding jetzt aus?
+
+00:00:32.630 --> 00:00:38.149
+Ein Multiplexer besteht immer aus mehreren
+Eingängen, einem Ausgang und einer gewissen
+
+00:00:38.149 --> 00:00:42.469
+Anzahl von Selektoren auch als Steuerwert
+oder Steuersignal bezeichnet.
+
+00:00:42.469 --> 00:00:47.219
+Die Steuersignale bestimmen dabei, welches
+Signal der Eingänge zum Ausgang durchgeschaltet
+
+00:00:47.219 --> 00:00:48.219
+wird.
+
+00:00:48.219 --> 00:00:52.339
+Also eigentlich wie der Türsteher vorm Club,
+der sagt “Go on Bro” oder eben “Du kommst
+
+00:00:52.339 --> 00:00:55.359
+hier nicht rein”
+Die Anzahl der Steuersignale hängt von der
+
+00:00:55.359 --> 00:00:58.090
+Anzahl der Eingänge ab, aber das sehen wir
+gleich genauer.
+
+00:00:58.090 --> 00:01:02.499
+Betrachten wir so ein Multiplexer genauer
+besitzt er folgende Bestandteile:
+
+00:01:02.499 --> 00:01:06.290
+- Einem Decoder, der aus den Selektoren die
+Signale weitergibt.
+
+00:01:06.290 --> 00:01:11.580
+- Eine Ansammlung von AND-Gattern, die jeweils
+ein ein Signal von Decoder mit einem Eingabesignal
+
+00:01:11.580 --> 00:01:12.580
+kombinieren
+
+00:01:12.580 --> 00:01:16.680
+- Und einem OR Gatter, was alles am Ende Verknüpft
+und raushaut.
+
+00:01:16.680 --> 00:01:20.180
+Aha dafür brauchen wir also die ganzen Gatter
+und Decoder und so…Geil!
+
+00:01:20.180 --> 00:01:21.180
+Alright!
+
+00:01:21.180 --> 00:01:24.730
+Gehen wir nochmal zurück auf die einfache
+Darstellung von so nem Multiplexer.
+
+00:01:24.730 --> 00:01:28.930
+Was könnt ihr euch dazu merken:
+Ein Multiplexer hat immer mehrere Eingänge,
+
+00:01:28.930 --> 00:01:33.950
+einen Ausgang und eine gewisse Anzahl von
+Selektoren auch als Steuerwert oder Steuersignal
+
+00:01:33.950 --> 00:01:34.950
+bezeichnet
+
+00:01:34.950 --> 00:01:36.270
+Wie funktioniert das ganze jetzt?
+
+00:01:36.270 --> 00:01:41.000
+Wie gesagt: Über die Eingänge kommen in
+der Regel Signale rein, welche dann durch
+
+00:01:41.000 --> 00:01:46.100
+den Selektor bzw Steuerwert ausgewählt werden
+und diese werden dann an den Ausgang geschickt.
+
+00:01:46.100 --> 00:01:49.960
+Nehmen wir mal den Multiplexer, den wir eh
+die ganze Zeit schon anklotzen!
+
+00:01:49.960 --> 00:01:55.480
+Der 2-Eingaben-Multiplexer besitzt 2 Eingänge,
+einen Ausgang und eine Steuerung.
+
+00:01:55.480 --> 00:02:00.010
+Sagen wir mal A wird geschalten bei 0 und
+B bei 1.
+
+00:02:00.010 --> 00:02:01.880
+Dann ergibt sich folgenden Tabelle:
+
+00:02:01.880 --> 00:02:07.170
+Ist S 0 schalten wir das Signal von A
+Ist S 1 schalten wir das Signal von B.
+
+00:02:07.170 --> 00:02:08.819
+Klar oder?
+
+00:02:08.819 --> 00:02:12.310
+Wollen wir das ganze in eine Funktion schreiben,
+müssen wir die Fälle nur sinnvoll verknüpfen.
+
+00:02:12.310 --> 00:02:17.150
+Ausgang C erreichen wir entweder durch A und
+nicht S oder durch B und S.
+
+00:02:17.150 --> 00:02:20.860
+Das können wir jetzt auch ganz geschwind
+mit unsern freshen Gattern gestalten:
+
+00:02:20.860 --> 00:02:26.310
+Dazu nehmen wir 2 UND Verknüpfungen und die
+Oder Verknüpfung um sie zu verbinden.
+
+00:02:26.310 --> 00:02:29.560
+Hat man sich immer noch nicht Satt gesehen
+an einer tollen Darstellungsform für den
+
+00:02:29.560 --> 00:02:32.420
+Multiplexer kann man die Tabelle auch noch
+ausführlicher machen:
+
+00:02:32.420 --> 00:02:37.290
+Ist A wahr, also 1 und S nicht wird der Ausgang
+wahr, also 1.
+
+00:02:37.290 --> 00:02:41.410
+Ist B wahr und S auch, wird eben da der Ausgang
+geschalten.
+
+00:02:41.410 --> 00:02:44.440
+Aha da blick ich ja voll durch, so ein Käse!
+
+00:02:44.440 --> 00:02:46.910
+Jop deswegen ist es einfacher zu verstehen
+mit der ersten Tabelle.
+
+00:02:46.910 --> 00:02:50.920
+Sie sagt das wichtigste aus:
+Wir bekommen das Signal von A wenn S0 ist
+
+00:02:50.920 --> 00:02:53.180
+und das Signal von B wenn S 1 ist.
+
+00:02:53.180 --> 00:02:54.740
+Punkt aus Ende, mehr brauchen wir nicht!
+
+00:02:54.740 --> 00:02:59.030
+Was könnt ihr euch also merken:
+Je nach Belegung des Steuersignals erhalten
+
+00:02:59.030 --> 00:03:01.810
+wir am Ausgang das Signal von Eingang A oder
+B.
+
+00:03:01.810 --> 00:03:03.140
+n Multiplexer
+Jut jut!
+
+00:03:03.140 --> 00:03:06.520
+So ein MUX kann aber auch mehrere Eingänge
+haben.
+
+00:03:06.520 --> 00:03:10.220
+Besitzt er mehrere Eingänge, so erhöht sich
+auch die Anzahl der Steuersignale.
+
+00:03:10.220 --> 00:03:14.470
+Im Allgemeinen kann man sagen:
+n Steuersignale = 2^n Eingänge.
+
+00:03:14.470 --> 00:03:18.030
+Dabei gibt es aber immer nur einen Ausgang.
+
+00:03:18.030 --> 00:03:22.820
+So können wir zum Beispiel ein 4 Eingabe-Multiplexer
+mit 2 Steuersignalen bekommen.
+
+00:03:22.820 --> 00:03:26.090
+Die Funktionstabelle lässt sich dann folgendermaßen
+darstellen:
+
+00:03:26.090 --> 00:03:29.739
+Ist S1 und S2 0 schalten wir das Signal von
+I0.
+
+00:03:29.739 --> 00:03:34.050
+Ist S1 0 und S2 1 schalten wir das Signal
+von I1
+
+00:03:34.050 --> 00:03:35.050
+usw.
+
+00:03:35.050 --> 00:03:37.230
+Drückt ruhig Pause um das ganz nachzuvollziehen.
+
+00:03:37.230 --> 00:03:42.920
+So können wir auch Multiplexer mit 8, 16
+usw Eingängen haben.
+
+00:03:42.920 --> 00:03:47.080
+Allerdings besitzen Multiplexer mit vielen
+Steuersignalen auch eine hohe Anzahl von Gattern.
+
+00:03:47.080 --> 00:03:49.870
+Was bedeutet wir bekommen eine hohe Laufzeit.
+
+00:03:49.870 --> 00:03:53.190
+Schreibt euch auf:
+Multiplexer mit n Steuersignalen haben 2^n
+
+00:03:53.190 --> 00:03:55.590
+Eingänge und einen Ausgang.
+
+00:03:55.590 --> 00:03:58.050
+Natürlich Freunde der Verschachtelung.
+
+00:03:58.050 --> 00:04:00.260
+Können wir die Teile auch verschachteln...Juhu!
+
+00:04:00.260 --> 00:04:06.260
+So kann man einen 4 Eingabe Multiplexer auch
+zu aus 3 einfachen Multiplexern zusammensetzen.
+
+00:04:06.260 --> 00:04:10.430
+Zuerst nehmen wir 2 einfache Multiplexer und
+versehen die mit Eingang 0 bis 3.
+
+00:04:10.430 --> 00:04:12.510
+Beide Multiplexer bekommen ein Steuersignal.
+
+00:04:12.510 --> 00:04:14.420
+Das nennen wir mal S2.
+
+00:04:14.420 --> 00:04:19.000
+Die Ausgang der beiden Multiplexer führt
+wiederum in eine dritten Multiplexer.
+
+00:04:19.000 --> 00:04:20.570
+Auch dieser bekommt ein Steuersignal.
+
+00:04:20.570 --> 00:04:24.820
+Das nennen wir dann S1.
+Schauen wir uns die Tabelle der beiden ersten
+
+00:04:24.820 --> 00:04:27.030
+Multiplexer an, erhalten wir folgendes:
+
+00:04:27.030 --> 00:04:32.650
+Ist S2 0 schalten wir den ersten und dritten
+Eingang frei, ist S2 1 schalten wir den zweiten
+
+00:04:32.650 --> 00:04:34.470
+und vierten Eingang frei.
+
+00:04:34.470 --> 00:04:38.620
+Fügen wir das mal zusammen in eine Tabelle
+Jetzt können wir noch das Steuerungssignal
+
+00:04:38.620 --> 00:04:42.810
+1 dazuschreiben und schwups die wups sieht
+das ganze genauso aus wie vom 4 Eingabe-Multiplexer.
+
+00:04:42.810 --> 00:04:44.160
+Geile Meile!
+
+00:04:44.160 --> 00:04:48.570
+Am Besten ihr probiert selbst mal ein paar
+Multiplexer zu entwerfen um das ganze Prozedere
+
+00:04:48.570 --> 00:04:49.570
+zu verstehen.
+
+00:04:49.570 --> 00:04:52.410
+Zusammenfassung
+Fassen wir aber vorher nochmal zusammen:
+
+00:04:52.410 --> 00:04:55.100
+Ein Multiplexer ist ein logischer Baustein
+im Computer.
+
+00:04:55.100 --> 00:05:00.270
+Abgekürzt nennt man ihn auch MUX
+Seine Aufgabe besteht darin Eingangssignale
+
+00:05:00.270 --> 00:05:02.780
+auszuwählen und diese an den Ausgang weiterzugeben.
+
+00:05:02.780 --> 00:05:07.900
+So ein Multiplexer besteht immer aus mehreren
+Eingängen, einer gewissen Anzahl an Steuersignalen,
+
+00:05:07.900 --> 00:05:11.210
+auch Selektoren oder Steuerwert bezeichnet
+und einem Ausgang.
+
+00:05:11.210 --> 00:05:14.690
+Ein Multiplexer mit n Steuersignalen hat 2^n
+Eingänge.
+
+00:05:14.690 --> 00:05:20.060
+Die Funktionsweise eines MUX lässt sich darstellen
+durch eine Tabelle, die Boolsche Funktion
+
+00:05:20.060 --> 00:05:22.370
+oder einem Schaltnetz.
+
+00:05:22.370 --> 00:05:25.690
+Multiplexer lassen sich verschachteln und
+können aus mehreren Multiplexern zusammengesetzt
+
+00:05:25.690 --> 00:05:26.690
+sein.
+
+00:05:26.690 --> 00:05:31.520
+Wenn ihr jetzt noch mehr wissen wollt, dann
+geht auf unsre Lernplattform
+
+00:05:31.520 --> 00:05:33.330
+SimplClub.de und checkt that out.
+
+00:05:33.330 --> 00:05:34.180
+Bis gleich.
+
